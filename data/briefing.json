@@ -1,64 +1,92 @@
 {
   "date": "2026-03-23",
   "takeaways": [
-    "Janus Living prices upsized IPO at $840M — first new senior housing REIT to go public in years, trading on NYSE as JAN.",
-    "Fed holds at 3.50–3.75% with only one cut projected for all of 2026; oil spike from Strait of Hormuz disruption revives stagflation concerns.",
-    "44% of real estate investment committees distrust AI-generated analysis per Commercial Observer — trust, not capability, is now the primary barrier to AI adoption in CRE."
+    "Janus Living's upsized $840M IPO opened today on NYSE under 'JAN' — the first pure-play senior housing REIT to go public in years, signaling renewed Wall Street conviction in the sector.",
+    "CRE capital is flowing: conventional mortgage rates at 4.99–5.19%, Colliers forecasts 15–20% growth in 2026 sales activity, and lending conditions are at their most constructive since 2021.",
+    "AI proptech investment surged to $16.7B in 2025 (+68%), but agentic AI advances are disrupting platforms before they scale — and 44% of CRE investment committees still distrust AI-generated analysis."
   ],
   "items": [
     {
-      "headline": "Janus Living Prices Upsized IPO at $840M — New Senior Housing REIT Begins Trading on NYSE as \"JAN\"",
-      "summary": "Senior housing REIT Janus Living, carved out of Healthpeak Properties, priced its upsized IPO at $20 per share, raising $840M — above its initial $740M target. It is the first new senior housing-focused public REIT listing in several years, reflecting renewed investor confidence in the sector.",
-      "url": "https://www.mcknightsseniorliving.com/news/senior-housing-reit-janus-living-prices-upsized-ipo-at-840m-trading-starts-today/",
-      "category": "Real Estate",
+      "headline": "Janus Living Prices Upsized $840M IPO — Pure-Play Senior Housing REIT Begins Trading on NYSE as \"JAN\"",
+      "summary": "Healthpeak's spinoff Janus Living priced its upsized IPO at $20/share, raising $840M above its $740M target. With 34 communities (10,422 units) across 10 states, it is the only US publicly traded REIT focused exclusively on senior housing under RIDEA structures. Healthpeak retains ~83.6% post-IPO.",
+      "url": "https://www.businesswire.com/news/home/20260319051897/en/Healthpeak-Properties-and-Janus-Living-Announce-Pricing-of-Upsized-$840-Million-Janus-Living-Initial-Public-Offering",
+      "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "JLL: Senior Housing Transaction Volume Reaches Decade-High $24B — 86% of Investors Seeking More Exposure",
-      "summary": "JLL's rolling four-quarter transaction volume for seniors housing reached $24B by year-end 2025 — the strongest pace in over a decade. 86% of surveyed investors are seeking to increase seniors housing exposure in 2026, up 10 percentage points year-over-year.",
+      "headline": "JLL: Senior Housing Transactions Hit Decade-High $24B — 86% of Investors Want More Exposure",
+      "summary": "JLL's rolling four-quarter senior housing transaction volume reached $24B at year-end 2025, the strongest pace in over a decade. 86% of surveyed investors plan to increase seniors housing exposure in 2026, up 10 points YoY, driven by tight new supply and accelerating demographic demand.",
       "url": "https://newslink.mba.org/cmf-newslinks/2026/march/mba-commercial-multifamily-newslink-thursday-march-19-2026/jll-seniors-housing-investment-reaches-decade-high-24-billion/",
-      "category": "Real Estate",
+      "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Fortress Investment Group Launches 1031 Exchange Platform with 40% Senior Housing Allocation, Targeting $100–200M",
-      "summary": "Fortress Investment Group announced a new 1031 exchange platform allocating ~40% of assets to senior living, targeting $100–200M in deployments through 2026. The structure allows investors to defer capital gains taxes by rolling proceeds into diversified CRE assets including senior housing.",
-      "url": "https://seniorhousingnews.com/2026/03/18/fortress-investment-group-launches-1031-exchange-platform-targeting-100-200m-with-40-focus-on-senior-living/",
-      "category": "Real Estate",
+      "headline": "National Healthcare Properties Acquires 13 AL Communities for $64M in JV with Discovery Senior Living",
+      "summary": "National Healthcare Properties announced a $64M joint venture with Discovery Senior Living to acquire 13 assisted living communities (592 units, 8 states). The deal reflects continued consolidation in the AL segment as operators and capital partners team up to capture rising demand.",
+      "url": "https://www.mcknightsseniorliving.com/news/national-healthcare-properties-announces-64m-senior-housing-acquisition-with-discovery-senior-living/",
+      "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Fed Holds at 3.50–3.75%; Oil Spike From Strait of Hormuz Disruption Revives Stagflation Fears",
-      "summary": "The FOMC voted on March 18 to hold rates at 3.50–3.75%, with one dissent favoring a cut. SOFR is tracking at ~3.67–3.71% for March and conventional commercial mortgage rates opened the week at 4.99%–5.19%. An oil price surge from Strait of Hormuz disruptions has revived stagflation concerns.",
+      "headline": "Fortress Launches 1031 Exchange Platform with 40% Senior Housing Allocation, Targeting $100–200M",
+      "summary": "Fortress Investment Group launched Fortress Real Estate Exchange, a 1031 platform targeting $100–200M in 2026, with ~40% allocated to senior living. The structure lets investors defer capital gains by rolling proceeds into diversified CRE assets including senior housing.",
+      "url": "https://seniorhousingnews.com/2026/03/18/fortress-investment-group-launches-1031-exchange-platform-targeting-100-200m-with-40-focus-on-senior-living/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "CRE Rate Update: Conventional Mortgages at 4.99–5.19%; SOFR at 3.67–3.71%; Fed Holds at 3.50–3.75%",
+      "summary": "As of March 22, conventional commercial mortgage rates opened at 4.99–5.19% and SOFR is tracking at ~3.67–3.71%. The Fed held at 3.50–3.75% on March 18 with one dissent favoring a cut. Colliers forecasts 15–20% growth in CRE sales activity for 2026 as institutions and cross-border capital return to market.",
       "url": "https://commercialloandirect.com/commercial-rates",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Commercial Observer: 44% of Real Estate Investment Committees Distrust AI-Generated Analysis",
-      "summary": "A Commercial Observer report found that 44% of investment committees distrust AI-generated analysis, and only 27% express confidence in AI for financial underwriting. The challenge is no longer capability — AI can parse 200+ lease variables in minutes — but governance, auditability, and explainability of outputs.",
+      "headline": "2026 CRE Lending Most Constructive Since 2021 — All Capital Sources Active, Ample Dry Powder",
+      "summary": "CBRE and CRE Daily report 2026 is the most constructive lending environment since 2021: all debt capital sources remain active, lender participation is strengthening, and borrowing costs are stabilizing. Institutional and cross-border investors are returning with sizable dry powder targeting yield-generating assets.",
+      "url": "https://www.credaily.com/briefs/interest-rates-spur-2026-debt-capital-growth/",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "44% of CRE Investment Committees Distrust AI Analysis — Data Security Risks Add New Pressure",
+      "summary": "Commercial Observer reports 44% of investment committees distrust AI-generated analysis and only 27% are confident in AI for financial underwriting. The bottleneck is governance and explainability, not capability. Simultaneously, AI data integration is opening new security vulnerabilities at CRE firms.",
       "url": "https://commercialobserver.com/2026/03/real-estate-data-ai-risk/",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "VC Pours $16.7B Into Proptech in 2025 — Up 68% — But Rapid AI Advances Unsettling the CRE Tech Stack",
-      "summary": "Proptech investment hit $16.7B in 2025, a 68% jump year-over-year, with AI-native platforms capturing ~$4.5B. Bisnow reports the pace of AI advancement is causing VCs to regroup, with concern that platforms built on 2024-era models are already being disrupted by newer agentic alternatives.",
+      "headline": "Proptech VC Surges to $16.7B in 2025 (+68%) — Rapid AI Advances Now Disrupting the Stack",
+      "summary": "Proptech investment hit $16.7B in 2025 (+68% YoY), with AI-native platforms capturing ~$4.5B. Bisnow reports VCs are regrouping as rapid AI advances unsettle the sector — platforms built on 2024-era models face disruption from next-generation agentic alternatives before achieving meaningful scale.",
       "url": "https://www.bisnow.com/national/news/proptech/rapid-ai-advances-unsettle-cre-tech-sector-cause-vcs-to-regroup-133660",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Gartner: AI on Track to Eliminate Half of Middle Management \"Coordination\" Roles by End of 2026",
-      "summary": "Gartner projects organizations actively deploying AI will eliminate ~50% of middle management roles by end of 2026. DDI's 2026 Leadership Trends report adds that 71% of leaders report increased stress and 77% of CHROs lack confidence in their leadership bench strength.",
+      "headline": "Agentic AI Reshapes CRE Operations — From Content Generation to Autonomous Execution",
+      "summary": "ICSC confirms agentic AI is 2026's defining CRE tech shift: moving beyond content to autonomous decision-making and workflow execution. Operators deploy AI agents for procurement, pricing, and leasing. Practical AI now surfaces portfolio revenue opportunities and automates routine tasks end-to-end.",
+      "url": "https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "McKinsey 2026: CEO AI Ownership Doubles — Half Say Their Job Is on the Line If AI Doesn't Deliver",
+      "summary": "McKinsey's State of Organizations 2026 finds CEO ownership of AI strategy has doubled YoY, with ~75% of CEOs now serving as primary AI decision-makers. Half believe their positions are at risk if AI investments don't materialize. Companies plan to double AI spending from 0.8% to ~1.7% of revenues.",
+      "url": "https://www.unleash.ai/strategy-and-leadership/mckinseys-the-state-of-organizations-2026-research-three-decisions-to-make-now/",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "DDI 2026: 71% of Leaders Under Elevated Stress — Bench Confidence and Retention Hit New Lows",
+      "summary": "DDI's 2026 Leadership Trends report finds 71% of leaders are under increased stress and 40% are considering leaving. 77% of CHROs lack confidence in bench strength for critical roles. US layoffs hit a 10-year high in early 2026, creating simultaneous talent pressure and leadership pipeline fragility.",
       "url": "https://www.ddi.com/blog/leadership-trends-2026",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Miami Premier Padel P1 Opens Today — World Elite Compete March 23–29 at Miami Beach Convention Center",
-      "summary": "The Qatar Airways Premier Padel P1 kicks off today at the Miami Beach Convention Center, running through March 29 — the second consecutive year Miami hosts a P1-level stop. The PGA Tour Signature Event also returns to Trump Doral in 2026, projected to generate $100–200M in direct economic activity.",
-      "url": "https://www.miamipremierpadel.com/",
+      "headline": "Neurowellness Tops 2026 Wellness Trends — Precision Nervous System Optimization Goes Mainstream",
+      "summary": "The Global Wellness Summit named neurowellness the #1 wellness trend for 2026 — using tech to objectively measure and retrain stress and resilience in real time. A consumer backlash against over-optimization is simultaneously fueling demand for human-centered, tech-free social wellness experiences.",
+      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     }
