@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "takeaways": [
+    "Janus Living prices upsized IPO at $840M — first new senior housing REIT to go public in years, trading on NYSE as JAN.",
+    "Fed holds at 3.50–3.75% with only one cut projected for all of 2026; oil spike from Strait of Hormuz disruption revives stagflation concerns.",
+    "44% of real estate investment committees distrust AI-generated analysis per Commercial Observer — trust, not capability, is now the primary barrier to AI adoption in CRE."
+  ],
+  "items": [
+    {
+      "headline": "Janus Living Prices Upsized IPO at $840M — New Senior Housing REIT Begins Trading on NYSE as \"JAN\"",
+      "summary": "Senior housing REIT Janus Living, carved out of Healthpeak Properties, priced its upsized IPO at $20 per share, raising $840M — above its initial $740M target. It is the first new senior housing-focused public REIT listing in several years, reflecting renewed investor confidence in the sector.",
+      "url": "https://www.mcknightsseniorliving.com/news/senior-housing-reit-janus-living-prices-upsized-ipo-at-840m-trading-starts-today/",
+      "category": "Real Estate",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "JLL: Senior Housing Transaction Volume Reaches Decade-High $24B — 86% of Investors Seeking More Exposure",
+      "summary": "JLL's rolling four-quarter transaction volume for seniors housing reached $24B by year-end 2025 — the strongest pace in over a decade. 86% of surveyed investors are seeking to increase seniors housing exposure in 2026, up 10 percentage points year-over-year.",
+      "url": "https://newslink.mba.org/cmf-newslinks/2026/march/mba-commercial-multifamily-newslink-thursday-march-19-2026/jll-seniors-housing-investment-reaches-decade-high-24-billion/",
+      "category": "Real Estate",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Fortress Investment Group Launches 1031 Exchange Platform with 40% Senior Housing Allocation, Targeting $100–200M",
+      "summary": "Fortress Investment Group announced a new 1031 exchange platform allocating ~40% of assets to senior living, targeting $100–200M in deployments through 2026. The structure allows investors to defer capital gains taxes by rolling proceeds into diversified CRE assets including senior housing.",
+      "url": "https://seniorhousingnews.com/2026/03/18/fortress-investment-group-launches-1031-exchange-platform-targeting-100-200m-with-40-focus-on-senior-living/",
+      "category": "Real Estate",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Fed Holds at 3.50–3.75%; Oil Spike From Strait of Hormuz Disruption Revives Stagflation Fears",
+      "summary": "The FOMC voted on March 18 to hold rates at 3.50–3.75%, with one dissent favoring a cut. SOFR is tracking at ~3.67–3.71% for March and conventional commercial mortgage rates opened the week at 4.99%–5.19%. An oil price surge from Strait of Hormuz disruptions has revived stagflation concerns.",
+      "url": "https://commercialloandirect.com/commercial-rates",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Commercial Observer: 44% of Real Estate Investment Committees Distrust AI-Generated Analysis",
+      "summary": "A Commercial Observer report found that 44% of investment committees distrust AI-generated analysis, and only 27% express confidence in AI for financial underwriting. The challenge is no longer capability — AI can parse 200+ lease variables in minutes — but governance, auditability, and explainability of outputs.",
+      "url": "https://commercialobserver.com/2026/03/real-estate-data-ai-risk/",
+      "category": "AI/Tech",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "VC Pours $16.7B Into Proptech in 2025 — Up 68% — But Rapid AI Advances Unsettling the CRE Tech Stack",
+      "summary": "Proptech investment hit $16.7B in 2025, a 68% jump year-over-year, with AI-native platforms capturing ~$4.5B. Bisnow reports the pace of AI advancement is causing VCs to regroup, with concern that platforms built on 2024-era models are already being disrupted by newer agentic alternatives.",
+      "url": "https://www.bisnow.com/national/news/proptech/rapid-ai-advances-unsettle-cre-tech-sector-cause-vcs-to-regroup-133660",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Gartner: AI on Track to Eliminate Half of Middle Management \"Coordination\" Roles by End of 2026",
+      "summary": "Gartner projects organizations actively deploying AI will eliminate ~50% of middle management roles by end of 2026. DDI's 2026 Leadership Trends report adds that 71% of leaders report increased stress and 77% of CHROs lack confidence in their leadership bench strength.",
+      "url": "https://www.ddi.com/blog/leadership-trends-2026",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Miami Premier Padel P1 Opens Today — World Elite Compete March 23–29 at Miami Beach Convention Center",
+      "summary": "The Qatar Airways Premier Padel P1 kicks off today at the Miami Beach Convention Center, running through March 29 — the second consecutive year Miami hosts a P1-level stop. The PGA Tour Signature Event also returns to Trump Doral in 2026, projected to generate $100–200M in direct economic activity.",
+      "url": "https://www.miamipremierpadel.com/",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    }
+  ]
+}
