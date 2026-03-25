@@ -1,94 +1,87 @@
 {
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "takeaways": [
-    "Senior living occupancy approaching 91-92% by late 2026; discounts vanishing as capital returns to sector",
-    "Commercial mortgage rates stable at 5.19-8.75%; capital markets recovery on track with 15-20% sales activity increase",
-    "AI proptech funding surges to $4.5B in 2025; agentic AI emerging as next frontier for real estate automation"
+    "Senior housing occupancy hits 89% with new supply at its lowest since 2006 — 86% of investors plan to increase sector exposure in 2026 as rents surge 28.8% above pre-pandemic levels.",
+    "CRE debt markets are opening up fast: Fannie/Freddie boosted multifamily caps to $88B each (up 20%), and MBA projects a 24% jump in total lending volume as the 10-Year Treasury holds near 4%.",
+    "AI proptech VC hit $4.5B in 2025 (within a record $16.7B proptech total) — agentic AI is now automating complex real estate workflows from procurement to lease pricing."
   ],
   "items": [
     {
-      "headline": "Senior Living Discounts Disappearing as Demand Surge Accelerates Consolidation",
-      "summary": "Senior living operators are experiencing unprecedented demand with occupancy levels climbing toward 91-92% by late 2026. With rental discounts vanishing and capital returning to the sector, large portfolios are changing hands as operators split properties into smaller pieces. Senior living providers are shifting to granular rate-setting strategies by unit type to maximize revenue, marking a sophisticated evolution beyond macro-level pricing moves.",
+      "headline": "Senior Housing Occupancy Hits 89% as New Supply Falls to 2006 Lows",
+      "summary": "Q4 2025 senior housing occupancy reached 89% while new inventory dropped to its lowest level since 2006, per NIC MAP and JLL data. Annual rent growth exceeded 4%, with average monthly rents now at $5,479 — up 28.8% from pre-pandemic levels. For Lloyd Jones, this supply-demand imbalance signals continued pricing power and strong NOI growth across the portfolio.",
+      "url": "https://www.credaily.com/briefs/senior-housing-demand-surges-into-2026/",
+      "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "86% of Investors Plan to Boost Senior Living Allocations in 2026",
+      "summary": "A JLL survey found 86% of investors intend to increase their senior living exposure in 2026, as post-COVID trepidation fades and steep acquisition discounts disappear. The 80+ population is projected to grow 36.6% over the next decade with 10,000+ Americans turning 65 daily. Operators face margin pressure from labor, energy, and insurance costs, but demographic tailwinds and constrained supply continue to favor well-capitalized owners.",
       "url": "https://www.perenews.com/look-ahead-2026-senior-living-discounts-will-vanish-in-the-us/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "CRE Capital Markets Show Strong Recovery; Rates Stable, Sales Activity Up 15-20%",
-      "summary": "Commercial mortgage rates have stabilized at 5.19-8.75% as of March 22, 2026, with the 10-year Treasury yield around 4.26%. Colliers forecasts a 15-20% increase in sales activity for 2026 as institutional and cross-border capital returns. Approximately 83% of global CRE leaders now expect revenue growth by end of 2026, with lenders showing increased confidence in strong cash flow deals.",
-      "url": "https://www.commercialrealestate.loans/commercial-mortgage-rates/",
+      "headline": "Fannie and Freddie Raise Multifamily Caps to $88B Each, Boosting CRE Liquidity",
+      "summary": "Fannie Mae and Freddie Mac each increased their 2026 multifamily loan caps to $88 billion — a 20% boost — while the Mortgage Bankers Association projects a 24% increase in total CRE lending volume. The 10-Year Treasury has stabilized around 4.00–4.25%, and at least one 25-basis-point Fed cut is expected early in the year. For senior housing operators, improved debt availability means better refinancing terms and more competitive acquisition financing.",
+      "url": "https://www.credaily.com/briefs/interest-rates-spur-2026-debt-capital-growth/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "AI Proptech Funding Reaches $4.5B; Agentic AI Moves From Experimentation to Delivery",
-      "summary": "Venture capital investment in AI proptech reached $4.5 billion in 2025, representing the fastest-growing segment within the $16.7B total proptech funding boom. Agentic AI is emerging as the next phase, automating complex workflows across procurement, pricing, and inventory management. However, trust remains a barrier, with only 27% of firms expressing confidence in AI for financial underwriting.",
+      "headline": "CRE Transaction Volume Set to Jump 15–20% as Capital Re-enters Market",
+      "summary": "Colliers forecasts a 15–20% increase in CRE sales volume in 2026 as institutional and cross-border capital returns. Marcus & Millichap reports improved access to debt capital with rising loan-to-value ratios and supportive underwriting. Commercial mortgage rates currently range from 4.99% to 8.75% depending on property type, creating a window for well-positioned buyers to lock in favorable terms before further rate compression.",
+      "url": "https://www.sterlingassetgroup.com/insights/2026-us-commercial-real-estate-outlook-navigating-recovery-and-repricing",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "AI Proptech VC Hits $4.5B as Three New Unicorns Emerge Since July 2025",
+      "summary": "Proptech investment reached $16.7B in 2025 (up 68% YoY) with AI-native companies capturing $4.5B of that total. Three new AI proptech unicorns have emerged since July 2025, including Kiavi ($350M raise in Feb 2026) and Bedrock Robotics ($1.75B valuation). Fifth Wall CEO Brendan Wallace notes that big real estate CEOs have realized in the last 12 months that point solutions are no longer sufficient — integrated AI platforms are the new standard.",
       "url": "https://www.bisnow.com/national/news/proptech/rapid-ai-advances-unsettle-cre-tech-sector-cause-vcs-to-regroup-133660",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "Erickson Starts Maryland Community; National Church Residences Renovates Texas",
-      "summary": "Senior housing developers continue momentum with Erickson breaking ground on a new Maryland senior living community and National Church Residences underway with renovations of its Texas property. These projects reflect growing confidence in the senior housing market as development pipelines, though still historically thin, accelerate across major markets.",
-      "url": "https://seniorhousingnews.com/2026/03/19/in-the-pipeline-erickson-building-in-maryland-national-church-residences-renovates-texas-community/",
-      "category": "Senior Housing",
+      "headline": "Agentic AI Now Automating Complex Real Estate Workflows at Scale",
+      "summary": "ICSC reports that agentic AI — autonomous systems that execute multi-step tasks — is reshaping retail and real estate operations in 2026. Retailers and CRE operators are deploying AI agents for procurement, dynamic pricing, inventory management, and event programming. For senior housing operators, agentic AI could streamline resident intake, maintenance scheduling, and revenue management across portfolios.",
+      "url": "https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026",
+      "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Hayes Barton Place in Raleigh Achieves Full Occupancy; Walkable CCRC Model Proves Successful",
-      "summary": "Hayes Barton Place, a 90-unit continuing care retirement community in Raleigh, North Carolina, achieved full occupancy by January 2026. The community's success demonstrates strong market demand for premium senior living that combines nostalgic charm with modern amenities and walkable connectivity to sought-after local destinations.",
-      "url": "https://seniorhousingnews.com/2026/03/03/best-ccrc-of-2025-local-charm-meets-senior-living/",
-      "category": "Senior Housing",
+      "headline": "44% of CRE Investment Committees Still Distrust AI-Generated Analysis",
+      "summary": "Despite massive proptech investment, trust remains the primary barrier to deeper AI adoption in high-value CRE workflows. A Commercial Observer report found 44% of real estate firms say their investment committees distrust AI-generated analysis. The gap between AI capability and organizational trust presents both a risk and an opportunity — firms that build robust AI governance frameworks early will gain a competitive edge.",
+      "url": "https://commercialobserver.com/2026/03/real-estate-data-ai-risk/",
+      "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Federal Reserve Holds Rates Steady; Long-Term CRE Financing Environment Remains Constructive",
-      "summary": "The Federal Reserve maintained the federal funds rate at 3.50-3.75% on January 28, 2026, supporting a more constructive environment for CRE financing. Transactions with strong cash flow and conservative leverage continue to close, while marginal deals remain difficult. Lenders remain selective despite improving capital access.",
-      "url": "https://www.cbicommercial.com/blog/how-will-interest-rate-changes-affect-cre-financing-in-2026",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "71% of Leaders Under Increased Stress; CEO AI Strategy Ownership Doubles Year-Over-Year",
-      "summary": "McKinsey research shows 71% of leaders are under increased stress as 40% consider leaving their jobs amid record U.S. layoffs. However, CEO ownership of AI strategy has doubled, with nearly three quarters of CEOs making primary AI decisions. Companies plan to double AI spending from 0.8% to 1.7% of revenues in 2026, with half of CEOs believing their job depends on AI ROI.",
-      "url": "https://www.unleash.ai/strategy-and-leadership/mckinseys-the-state-of-organizations-2026-research-three-decisions-to-make-now/",
-      "category": "Leadership",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Emotional Intelligence Emerges as Critical Leadership Competency in 2026",
-      "summary": "As organizations navigate complexity without clear roadmaps, emotional intelligence is becoming the defining capacity for steady learning and execution. Leaders with high EI are better positioned to work through challenges collaboratively rather than retreating into defensive individual survival modes during periods of organizational change.",
-      "url": "https://www.london.edu/think/what-you-need-to-do-differently-as-a-leader-in-2026",
+      "headline": "HBR: LLMs Give 'Trendslop' — Not Real Strategy, Researchers Find",
+      "summary": "Harvard Business Review published March 2026 research showing that leading LLMs (ChatGPT, Claude, Gemini, Grok) consistently recommend trendy solutions over context-specific strategy across 15,000+ trials. Models favor differentiation over cost leadership and collaboration over competition regardless of business context. The takeaway for leaders: use AI to expand strategic options, but never outsource judgment to it.",
+      "url": "https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Learning Becomes Core Talent Lever; Competition for Talent Shifts to Speed of Adoption",
-      "summary": "The war for talent is no longer just about hiring—it's about organizational learning speed. Professionals increasingly expect growth opportunities as a core benefit, making learning infrastructure and strategic agility the primary levers for talent attraction and retention in 2026.",
-      "url": "https://www.aspeninstitute.org/blog-posts/what-will-great-business-leadership-look-like-in-2026/",
+      "headline": "71% of Leaders Under Increased Stress as U.S. Layoffs Hit 10-Year High",
+      "summary": "DDI’s 2026 leadership report reveals 71% of leaders face increased stress levels, with 40% considering leaving their jobs. U.S. layoffs have surged to a 10-year high, leaving organizations running lean. Succession planning has shifted from an annual HR exercise to a core strategic capability. For senior housing operators battling staffing shortages, investing in manager retention and development is now a competitive necessity.",
+      "url": "https://www.ddi.com/blog/leadership-trends-2026",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Fibremaxxing Drives Workplace Productivity; Gut Health Linked to 17% Lower Absenteeism",
-      "summary": "Fibremaxxing—intentional high-volume plant fiber consumption—is the new productivity standard for 2026. New data shows employees with healthy digestive systems report significantly fewer sick days, with some studies indicating 17% reduction in absenteeism among teams prioritizing gut-friendly diets. March National Nutrition Month offers ideal timing for corporate wellness initiatives.",
-      "url": "https://editorialge.com/fibremaxxing-productivity-framework/",
+      "headline": "89% of Employees Perform Better When Prioritizing Wellbeing, Survey Finds",
+      "summary": "Wellhub’s 2026 State of Work-Life Wellness report (5,000+ employees across 10 countries) found 89% perform better when prioritizing wellbeing, yet 90% experienced burnout symptoms in the past year. Employees with structured wellness programs report 21 percentage points higher wellbeing scores. Wellness-focused 'third places' — gyms, yoga studios, wellness hubs — are replacing bars and coffee shops as the new centers of workplace connection.",
+      "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
       "category": "Lifestyle",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Global Wellness Summit Releases 10 Trends for 2026; Personalization and Prevention Lead",
-      "summary": "The Global Wellness Institute identifies personalized wellness, emotional fitness, and backlash against over-optimization as defining trends for 2026. AI-driven biomarker testing and personalized health tracking are becoming mainstream, while emotional fitness emerges as a new health category emphasizing cognitive performance and emotional resilience.",
+      "headline": "Neurowellness and Nervous System Regulation Emerge as Top 2026 Trend",
+      "summary": "The Global Wellness Summit’s 2026 trends report highlights 'neurowellness' — regulating the nervous system through consumer neurotech and somatic practices — as a breakthrough category. With digital life keeping many in a chronic fight-or-flight state, personalized wellness driven by AI analytics and at-home biomarker testing is making prevention-first health mainstream. For senior living communities, integrating wellness programming aligns with resident expectations and premium positioning.",
       "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
       "category": "Lifestyle",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Thrive Senior Living Acquires Three Communities; AgeWell Living Rebrands Portfolio",
-      "summary": "Recent dealbook activity shows Thrive Senior Living acquiring three senior housing communities while AgeWell Living pursues a portfolio rebranding strategy. These transactions reflect strengthened investor confidence and the consolidation trend driven by improving senior housing fundamentals and capital availability.",
-      "url": "https://seniorhousingnews.com/2026/03/20/senior-living-dealbook-thrive-senior-living-acquires-three-communities-agewell-living-rebrands/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
+      "importance": "LOW"
     }
   ]
-    }
+}
