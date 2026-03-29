@@ -1,135 +1,135 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "takeaways": [
-    "Fed holds rates at 3.5%-3.75% with only one cut projected for 2026 — CRE borrowing costs stay elevated as 10-Year Treasury hovers near 4.26%, keeping cap rate compression gradual.",
-    "Senior housing occupancy nears 89% with new supply at record lows since 2006 — operators have rare pricing power as 10,000+ Americans turn 65 daily and construction pipelines remain thin.",
-    "Proptech VC funding surged 176% YoY in January 2026 to $1.7B as agentic AI moves from pilot to production — four new AI-native proptech unicorns have emerged since mid-2025."
+    "Fed holds rates at 3.50-3.75% with only one cut projected for 2026, down from two previously — CRE borrowers face flat-to-higher fixed-rate costs while floating-rate borrowers benefit from declining SOFR.",
+    "Senior housing occupancy hit 88.7% with record-low new supply (0.7% YoY growth) — operators have unprecedented pricing power as Baby Boomer demand accelerates against a 29-month construction cycle.",
+    "AI-native proptech captured $4.5B of $16.7B in VC funding (68% YoY increase) as agentic AI moves from pilots to production — early adopters in CRE are automating procurement, pricing, and compliance workflows."
   ],
   "items": [
     {
       "headline": "Fed Holds Rates Steady, Signals Only One Cut in 2026",
-      "summary": "The FOMC voted 11-1 on March 18 to keep the federal funds rate at 3.5%-3.75%, raising its 2026 inflation forecast to 2.7% PCE. The dot plot still projects one cut this year and another in 2027, but timing remains uncertain amid elevated economic uncertainty. For senior housing operators, higher-for-longer rates mean continued pressure on acquisition financing and development costs.",
-      "url": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html",
+      "summary": "The FOMC kept the federal funds rate at 3.50-3.75% at its March 18 meeting, revising projections down to just one rate cut in 2026 from two previously. Chair Powell cited elevated inflation and Middle East geopolitical uncertainty as complicating factors. For senior housing operators and CRE investors, this means higher-for-longer borrowing costs and continued pressure on deal underwriting.",
+      "url": "https://finance.yahoo.com/news/live/fed-meeting-live-updates-federal-reserve-holds-rates-steady-forecasts-1-rate-cut-in-2026-180216872.html",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior Housing Occupancy Hits 89% as New Supply Falls to Record Low",
-      "summary": "NIC MAP data shows occupancy reached 88.7% in Q3 2025, the 17th consecutive quarter of improvement, with independent living surpassing 90% for the first time since 2019. Fewer than 1,500 new units were added in Primary Markets — just 0.7% YoY growth, the lowest since NIC began tracking in 2006. Industry-wide occupancy is projected to exceed 90% by year-end 2026.",
-      "url": "https://www.nicmap.com/blog/senior-housing-five-key-trends-to-watch-in-2026/",
+      "headline": "Senior Living Occupancy Surges to 88.7% Amid Record-Low Supply",
+      "summary": "NIC MAP data shows senior housing occupancy reached 88.7% in Q3 2025, the 17th consecutive quarterly increase. Independent living surpassed 90% for the first time since 2019. Fewer than 1,500 new units were added across 31 Primary Markets — just 0.7% YoY inventory growth, the lowest since NIC began tracking. This supply-demand imbalance gives operators strong pricing leverage heading into 2026.",
+      "url": "https://www.nic.org/news-press/senior-living-occupancy-rate-continues-rising-as-baby-boomers-move-in/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "86% of Investors Plan to Increase Senior Housing Exposure in 2026",
-      "summary": "JLL survey data reveals overwhelming investor appetite for senior housing, with 86% planning to grow their sector allocation this year. Discounted pricing of 30-50% off 2019 peaks across price points and regions is drawing capital back in, while average monthly rents have climbed to $5,479 with annual rent growth exceeding 4%.",
-      "url": "https://www.perenews.com/look-ahead-2026-senior-living-discounts-will-vanish-in-the-us/",
+      "headline": "AI Proptech VC Soars 68% to $16.7B as AI-Native Firms Dominate",
+      "summary": "Proptech venture capital hit $16.7B in 2025, up 68% YoY, with AI-native companies capturing $4.5B of the total — growing their share by 42% vs. 24% for traditional SaaS. Notable deals include $350M to Kiavi for AI-powered loan approvals and Bedrock Robotics reaching a $1.75B valuation. The shift signals a fundamental market reset toward AI-first platforms in CRE tech.",
+      "url": "https://www.bisnow.com/national/news/proptech/rapid-ai-advances-unsettle-cre-tech-sector-cause-vcs-to-regroup-133660",
+      "category": "AI/Tech",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Off-Grid Senior Housing Project Opens in Phoenix Using Shipping Containers",
+      "summary": "Senior Bridge, a first-of-its-kind transitional housing project for adults 55+, opened in Phoenix with 40 solar-powered shipping container units. Developed by Steel and Spark with Mercy House providing services, each unit runs on solar panels and lithium batteries, eliminating utility costs. Phase 2 will add 54 permanent supportive apartments, creating a full-campus model for senior housing innovation.",
+      "url": "https://www.kjzz.org/business/2026-03-26/first-of-its-kind-off-the-grid-transitional-senior-housing-project-opens-its-doors-in-phoenix",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Agentic AI Reshapes CRE as Proptech VC Hits $1.7B in January Alone",
-      "summary": "Venture capital firms invested $1.7B in proptech in January 2026, a 176% YoY increase. Four AI-native proptech startups have reached unicorn status since mid-2025, all automating core real estate processes. Agentic AI is moving beyond content generation to autonomous decision-making in procurement, pricing, and portfolio management.",
+      "headline": "CRE Debt Markets Stabilize as Retail Spreads Compress 44-64 bps",
+      "summary": "NAIOP's Q4 2025 debt market survey shows benchmark rates fell further while fixed-rate spreads widened modestly, keeping all-in costs flat. Fixed-rate products now comprise 52% of quotes. Retail experienced significant spread compression of 44-64 basis points for senior loans, while office quoting activity rose to 22% of total quotes — signaling renewed lender appetite for previously out-of-favor asset classes.",
+      "url": "https://www.naiop.org/news/naiop-news/2026/debt-market-survey-borrowers-find-relief-as-benchmark-rates-decline/",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Agentic AI Reshaping CRE Operations with Automated Workflows",
+      "summary": "Agentic AI is moving from concept to deployment in real estate, automating procurement, pricing, inventory management, and compliance monitoring. Walmart's AI-negotiated vendor agreements achieved 1.5% cost savings while improving vendor satisfaction. For CRE operators, the technology promises reduced administrative overhead through automated invoice reconciliation and contract management, though only 2% of firms have realized ROI so far.",
       "url": "https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "CRE Capital Markets Enter Recovery Phase with Abundant Liquidity",
-      "summary": "Commercial mortgage rates start at 5.39% as of March 27, with conventional rates ranging 4.99%-8.75%. CBRE projects cap rates for most property types to compress 5-15 basis points in 2026. The rapid repricing cycle from aggressive monetary tightening appears largely complete, though valuation recovery remains sensitive to long-term rate movements.",
+      "headline": "Senior Living Construction Pipeline Remains Thin Despite New Starts",
+      "summary": "Despite projects like Erickson's Oxford Hills in Maryland and HarborChase of Beachwalk's 172-unit community in Florida breaking ground, the senior living construction cycle has stretched to 29 months on average. Projects starting in 2026 won't deliver units until 2028, extending the supply-demand imbalance. This benefits existing operators with continued occupancy gains and pricing power through the decade.",
+      "url": "https://seniorhousingnews.com/2026/03/19/in-the-pipeline-erickson-building-in-maryland-national-church-residences-renovates-texas-community/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "CRE Sales Volume Expected to Jump 15-20% in 2026",
+      "summary": "Colliers forecasts a 15-20% increase in CRE sales volume in 2026 as institutional and cross-border capital reenters the market. Cap rates are expected to compress 5-15 basis points across most property types, with good-quality assets seeing greater compression. The rapid repricing cycle triggered by aggressive monetary tightening appears largely complete, setting the stage for a more active transaction environment.",
       "url": "https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/capital-markets",
       "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Senior Living Construction Cycle Stretches to 29 Months, Delaying Relief",
-      "summary": "Even as construction starts tick up in 2026, the average build cycle has stretched to 29 months, meaning new projects won't deliver until 2028 at earliest. Developers face stubborn costs pushing capital toward strong operators and disciplined execution. Active starts include projects by Erickson, Harbor Retirement Associates, and Charter Senior Living across Florida, Maryland, and Texas.",
-      "url": "https://seniorhousingnews.com/2026/02/05/senior-living-industry-gets-smarter-about-development-while-waiting-for-next-supply-cycle/",
-      "category": "Senior Housing",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "44% of CRE Firms Distrust AI-Generated Analysis, Slowing Adoption",
-      "summary": "Despite surging proptech investment, trust remains the primary barrier to deeper AI adoption in high-value real estate workflows. Nearly half of firms say their investment committees distrust AI-generated analysis, creating a gap between early adopters gaining operational advantages and laggards. Industry leaders emphasize building AI on strong data foundations integrated into mission-critical systems.",
-      "url": "https://commercialobserver.com/2026/03/real-estate-data-ai-risk/",
-      "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Real Estate Agents Report AI Reshaping Daily Workflows, Not Replacing Jobs",
-      "summary": "An Inman survey of real estate agents finds AI is rapidly reshaping how they work and raising expectations industry-wide. High-volume teams and solo agents alike are using AI to automate repeatable, non-client-facing tasks — freeing time for relationship building. The consensus: AI augments rather than replaces, but agents who ignore it risk falling behind.",
-      "url": "https://www.inman.com/2026/03/26/the-truth-about-ai-in-real-estate-according-to-agents/",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "NAIOP Report Details Shifting CRE Financing Landscape for 2026",
-      "summary": "A new NAIOP report outlines U.S. CRE financing trends showing abundant liquidity even as default rates increase for obsolete assets. The lending environment remains healthy overall, with capital flowing again and leasing fundamentals generally stabilizing. Good-quality assets are expected to see greater cap rate compression than the market average.",
-      "url": "https://www.naiop.org/news/naiop-news/2026/new-naiop-report-details-us-cre-financing-trends/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "HBR Study Warns Leaders About 'Trendslop' in AI Strategic Advice",
-      "summary": "Harvard Business Review research published March 16 finds that leading LLMs consistently recommend strategies aligned with managerial buzzwords rather than context-specific logic — a bias dubbed 'trendslop.' When prompted on seven key strategy questions, AI recommended the same trendy solutions regardless of context. Leaders should use AI to expand options, not make final strategic choices.",
+      "headline": "HBR Study Warns Leaders Against AI 'Trendslop' in Strategy",
+      "summary": "Harvard Business Review published research showing that leading LLMs consistently recommend trendy business concepts over context-specific strategy — a phenomenon researchers call 'trendslop.' The study found AI tools push buzzy ideas regardless of actual business circumstances. The takeaway for leaders: use AI to expand strategic options, not make final decisions, as embedded biases risk chasing fashion over genuine competitive advantage.",
       "url": "https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "CEO Ownership of AI Strategy Doubles as Half Say Their Job Is on the Line",
-      "summary": "Nearly 75% of CEOs now say they are their organization's main decision-maker on AI, double from a year ago. Half believe their position depends on AI delivering ROI. Companies plan to double AI spending in 2026, making AI governance and execution a C-suite imperative rather than a technology department initiative.",
+      "headline": "71% of Leaders Report Increased Stress; 40% Consider Leaving",
+      "summary": "DDI's Global Leadership Forecast reveals a burnout crisis threatening leadership pipelines: 71% of leaders report increased stress and 40% are considering departure. Only 19% of managers demonstrate strong delegation skills, while 77% of CHROs lack confidence in bench strength for critical roles. Organizations that invest in delegation training and psychological safety will have a significant retention and succession advantage.",
       "url": "https://www.ddi.com/blog/leadership-trends-2026",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "71% of Leaders Under Increased Stress as U.S. Layoffs Hit 10-Year High",
-      "summary": "Organizations enter 2026 lean after U.S. layoffs surged to the highest point in a decade. While restructuring and automation have streamlined teams, workloads haven't decreased — 71% of leaders report increased stress and 40% are considering leaving their roles. The trend underscores the importance of leadership wellness and retention strategies for operators scaling amid tight labor markets.",
-      "url": "https://www.siyglobal.com/blog/7-leadership-trends-for-2026",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "McKinsey Identifies Three Critical Organizational Decisions for 2026",
-      "summary": "McKinsey's State of Organizations 2026 research highlights three urgent decisions leaders must make now: how to integrate AI into core operations, how to redesign work for hybrid teams, and how to build adaptive talent pipelines. The report emphasizes that strategy must become a continuous learning system rather than an annual planning exercise.",
-      "url": "https://www.unleash.ai/strategy-and-leadership/mckinseys-the-state-of-organizations-2026-research-three-decisions-to-make-now/",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Gentry Park Orlando Holds Grand Reveal Open House",
-      "summary": "Meridian Senior Living's Gentry Park community in Orlando held its Grand Reveal Open House on March 28, 2026, showcasing newly updated spaces and inviting prospective residents to experience daily life in the community. The event reflects continued operator investment in property upgrades to attract residents in a competitive market with rising occupancy.",
-      "url": "https://www.meridiansenior.com/senior-living/fl/orlando/gentry-park/news/gentry-park-grand-reveal-open-house-on-march-28-2026",
+      "headline": "Senior Living Discounts Vanishing as Operators Gain Pricing Power",
+      "summary": "As occupancy rises across senior living, operators are shifting from discount-driven leasing to revenue maximization. Companies like Merrill Gardens, 12 Oaks Senior Living, and The Aspenwood Company are micromanaging rate increases by unit type, focusing on maximizing RevPAR. The era of pandemic-era concessions is over as demand from aging Baby Boomers outpaces available inventory.",
+      "url": "https://www.perenews.com/look-ahead-2026-senior-living-discounts-will-vanish-in-the-us/",
       "category": "Senior Housing",
-      "importance": "LOW"
+      "importance": "MEDIUM"
     },
     {
-      "headline": "Global Wellness Summit Declares 2026 the Year of 'Emotional Fitness'",
-      "summary": "The Global Wellness Summit's 2026 trends report introduces emotional fitness as a new health category, emphasizing cognitive performance and emotional resilience. Corporate wellness is shifting from isolated programs to complete well-being ecosystems. For senior housing operators, the trend signals growing resident expectations for holistic wellness programming beyond basic fitness amenities.",
-      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
+      "headline": "Residential Proptech Revival Driven by AI Transaction Tools",
+      "summary": "AI is reigniting investor interest in residential proptech, with firms like Fifth Wall backing tools that reduce transaction friction. After a downturn in proptech funding, residential-focused AI companies are attracting fresh capital by addressing pain points in mortgage underwriting, property valuation, and buyer-agent matching. The sector is pivoting from broad platform plays to targeted AI solutions that deliver measurable ROI.",
+      "url": "https://www.inman.com/2026/02/10/residential-proptech-is-back-in-focus-and-ai-is-driving-the-reset/",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Organizational Hierarchies Flattening, Demanding New Leadership Skills",
+      "summary": "The trend toward flatter organizational structures is accelerating in 2026, pushing influence-without-authority skills to the forefront. Leaders must build credibility through trust and persuasion rather than formal power, fundamentally reshaping career progression and succession planning. For senior living operators managing distributed teams across multiple communities, this shift requires investing in collaborative leadership development.",
+      "url": "https://www.aspeninstitute.org/blog-posts/what-will-great-business-leadership-look-like-in-2026/",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Commercial Mortgage Rates Start at 5.39% as of Late March",
+      "summary": "Commercial mortgage rates begin at 5.39% as of March 27, 2026, with conventional rates ranging from 4.99% to 8.75% depending on property type and borrower credit. Multifamily and industrial assets continue to command the tightest spreads, while office lending shows signs of recovery. For senior housing acquisitions, favorable spreads relative to other asset classes present an opportunity window.",
+      "url": "https://selectcommercial.com/commercial-mortgage-rates.php",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Mental Fitness Replaces Mental Health as Workplace Wellness Focus",
+      "summary": "The corporate wellness conversation is shifting from reactive mental health support to proactive mental fitness — building resilience and emotional strength before burnout occurs. Employers are rolling out mental health coaching, dedicated mental fitness days, enhanced EAPs, and subsidized wellness apps. Financial wellness has also emerged as a critical pillar, as employees increasingly connect financial stress with mental health challenges.",
+      "url": "https://blog.nisbenefits.com/2026-employee-wellness-trends",
       "category": "Lifestyle",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Personalized Wellness Goes Mainstream with AI-Driven Health Tracking",
-      "summary": "2026 marks a turning point for personalized wellness, powered by AI analytics, at-home biomarker tests, and advanced wearable devices tracking more than steps and sleep. The longevity movement is expanding into real estate design, with homes becoming wellness hubs. Senior living communities that integrate personalized health tech could gain a competitive edge in attracting health-conscious boomers.",
-      "url": "https://draxe.com/health/wellness-trends-2026/",
-      "category": "Lifestyle",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Longevity Real Estate Emerges as New Asset Class",
-      "summary": "Longevity is no longer just a service — it's becoming a lifestyle built into where people live. The wellness-real estate convergence is creating a new asset class as developers integrate health-focused design, air quality systems, and biophilic elements into residential communities. The trend has direct implications for senior housing operators designing next-generation communities.",
+      "headline": "Longevity Market Pivots to Women's Healthspan in 2026",
+      "summary": "The Global Wellness Summit identifies a major shift: the booming longevity market, traditionally designed around men's data and protocols, is pivoting to women's healthspan. New interventions target ovarian aging and life-stage-specific wellness rather than just managing menopause symptoms. For senior living operators, this trend signals growing demand for gender-specific wellness programming and health services.",
       "url": "https://www.globalwellnesssummit.com/2026trends/",
       "category": "Lifestyle",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Personalized Wellness Goes Mainstream with AI-Driven Biomarker Testing",
+      "summary": "2026 marks a turning point for personalized wellness as AI-driven analytics, at-home biomarker tests, and advanced wearables move beyond tracking steps and sleep. The global gut-health market alone is projected to surpass $90B by 2030. For senior living communities, integrating personalized health monitoring technology could become a key differentiator in attracting health-conscious residents.",
+      "url": "https://draxe.com/health/wellness-trends-2026/",
+      "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "Smart Bricks Raises $5M Pre-Seed to Automate Real Estate Investing",
-      "summary": "Smart Bricks closed a $5 million pre-seed round to build an AI platform automating real estate investment analysis and execution. The startup joins a wave of AI-native proptech firms attracting early-stage capital, reflecting investor confidence that agentic AI can streamline traditionally manual investment workflows in commercial and residential real estate.",
-      "url": "https://www.wamda.com/2026/02/smart-bricks-closes-5-million-pre-seed-automate-real-estate-investing",
-      "category": "AI/Tech",
+      "headline": "Longevity Training Enters Mainstream Fitness Culture",
+      "summary": "Functional longevity training is going mainstream as people prioritize staying capable and energetic for decades. New fitness classes blend mobility flows, single-leg strength, cross-body patterns, and reaction training. For senior living operators, this trend reinforces the importance of offering progressive fitness programming that goes beyond traditional exercise classes to attract active, health-focused older adults.",
+      "url": "https://activewellness.com/20-wellness-trends-shaping-how-we-move-feel-in-2026/",
+      "category": "Lifestyle",
       "importance": "LOW"
     }
   ]
