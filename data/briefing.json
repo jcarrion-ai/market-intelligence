@@ -1,148 +1,148 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "takeaways": [
-    "Senior housing momentum is unmistakable — occupancy hit 89.5% in Q1 (19th straight quarter of gains), 2025 transaction volume reached $24B, and REITs like Welltower and Ventas now source 80%+ of deals off-market.",
-    "Powell's term expired May 15 — the Fed is expected to pause early before a new chair potentially resumes cuts toward a 3.00–3.25% range. GSEs raised 2026 multifamily lending caps 20% to $88B each, reopening capital flows.",
-    "Proptech is booming on AI — January 2026 alone saw $1.7B invested (+176% YoY), with agentic AI moving from experimentation to operational deployment in procurement, pricing, and asset management across CRE."
+    "Senior housing M&A surges in May: Chiron Real Estate enters with a $425M acquisition of 3 luxury DC-area communities, while the LCS-Vi merger closes, creating a 130-community operator across 29 states.",
+    "Senior housing occupancy hit 89.5% in Q1 2026 — the 19th consecutive quarter of gains — even as new construction is at the lowest level since 2012, setting up sustained pricing power for operators.",
+    "Multifamily transaction volume cratered 42% QoQ to $32B in Q1 2026, but MSCI's broader CRE index climbed 18% as Fannie & Freddie raise multifamily lending caps 20% to $88B each."
   ],
   "items": [
     {
-      "headline": "REITs Dominate Off-Market Senior Living M&A in Q1 2026",
-      "summary": "Welltower sourced 37 of its 41 Q1 transactions off-market, while roughly two-thirds of Ventas' $1.7B senior living investments came off-market. The data shows public REITs leveraging speed-to-deal and operator relationships to lock up portfolios before they hit broader markets, raising the bar for private bidders like Lloyd Jones.",
-      "url": "https://seniorhousingnews.com/2026/05/14/speed-to-deal-reits-dominate-off-market-landscape-for-senior-living-ma/",
-      "category": "Senior Housing",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "LCS-Vi Merger Creates 130-Community Senior Living Operator",
-      "summary": "LCS and Vi closed their previously announced merger, creating a combined company managing 130 communities across 29 states with above-90% average occupancy in their life plan communities. The deal consolidates two of the largest CCRC operators and signals continued operator-side scale plays in luxury senior living.",
-      "url": "https://seniorhousingnews.com/2026/05/03/win-win-win-lcs-vi-execute-planned-merger-creating-230-community-company/",
-      "category": "Senior Housing",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Health Care REIT Drops $425M on 3 Luxury Senior Communities",
-      "summary": "A health care REIT made its senior living debut with a $425M acquisition of three luxury communities, underscoring the high-end thesis that capital is chasing as boomer demand strengthens. The luxury segment continues to see compressed cap rates and intense REIT competition for Class-A assets.",
+      "headline": "Chiron Real Estate enters senior living with $425M luxury portfolio buy",
+      "summary": "Chiron Real Estate (NYSE: XRN) is acquiring three luxury senior living communities in the DC metro from Silverstone Senior Living for $425M, with closing expected June 1. The deal — The Landing Alexandria, The Riviera at Alexandria ($249M combined) and the Pinnacle North Bethesda ($176M) — marks a major new institutional entrant chasing the luxury senior housing thesis Lloyd Jones is also positioned around.",
       "url": "https://seniorhousingnews.com/2026/05/07/health-care-reit-enters-senior-living-industry-with-425m-acquisition-of-3-luxury-communities/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior Housing Occupancy Hits 89.5% — 19th Straight Quarter of Gains",
-      "summary": "Q1 2026 senior housing occupancy reached 89.5%, with stabilized occupancy surpassing 90% for the first time since late 2017. Active adult occupancy averaged 91.2% across 125 markets, and occupied units climbed by 3,000 to 637,000 — the industry has now added more units than it has lost for 19 consecutive quarters.",
-      "url": "https://seniorhousingnews.com/2026/05/13/high-active-adult-demand-blunts-fears-of-housing-market-volatility-affecting-move-ins/",
+      "headline": "LCS-Vi merger closes, creating 130-community senior living operator",
+      "summary": "LCS completed its acquisition of Vi, folding 10 CCRCs into its platform and creating a combined company that now manages 130 communities across 29 states. The deal consolidates two of the longest-tenured CCRC operators and raises the bar for scale economics in luxury life-plan communities — a competitive read-through for any operator pursuing the same segment.",
+      "url": "https://seniorhousingnews.com/2026/05/03/win-win-win-lcs-vi-execute-planned-merger-creating-230-community-company/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Janus Living Lines Up $400M in Senior Living Buys After IPO",
-      "summary": "Newly public Janus Living has earmarked $400M for senior living acquisitions, joining NHI (which acquired a 7-community Colorado portfolio for $106.9M in May) and Citrine (which crossed $100M in senior living investments) in a busy dealbook quarter. Private capital remains active alongside REIT activity.",
-      "url": "https://seniorhousingnews.com/2026/05/06/janus-living-tees-up-400m-in-senior-living-acquisitions-after-ipo/",
+      "headline": "Senior housing occupancy hits 89.5% — 19th straight quarterly gain",
+      "summary": "NIC MAP reported Q1 2026 senior housing occupancy at 89.5%, the 19th consecutive quarter of improvement, with stabilized occupancy back above 90% for the first time since late 2017. With only ~17,000 units under construction in primary markets (lowest since 2012) and 10,000 Americans turning 65 daily, operators have unusually clear pricing runway through 2027.",
+      "url": "https://www.multihousingnews.com/senior-living-trends/",
       "category": "Senior Housing",
-      "importance": "MEDIUM"
+      "importance": "HIGH"
     },
     {
-      "headline": "Powell's Fed Term Expires May 15 — Pause Expected Before Chair Transition",
-      "summary": "Jerome Powell's term as Fed chair ended yesterday (May 15). Consensus is the Fed pauses early before a new chair potentially resumes cuts to bring overnight rates toward 3.00–3.25%. The Fed cut 25 bps to a 3.50–3.75% range at its final 2025 meeting, totaling 175 bps of easing since September 2024 — a meaningful tailwind for CRE refinancings.",
-      "url": "https://www.ishares.com/us/insights/fed-outlook-2026-interest-rate-forecast",
+      "headline": "Multifamily transaction volume drops 42% QoQ to $32B in Q1 2026",
+      "summary": "MSCI Real Capital Analytics reported $32B in Q1 2026 apartment sales across ~1,450 properties — 42% below Q4 2025 and well under the $55B five-year quarterly average. Average price per unit held at $204K and cap rates averaged 5.75%, signaling buyer-seller bid-ask gaps are still wide despite the broader liquidity thaw.",
+      "url": "https://www.realpage.com/analytics/apartment-transactions-1q-2026/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Fannie and Freddie Raise 2026 Multifamily Lending Caps 20% to $88B Each",
-      "summary": "Fannie Mae and Freddie Mac will each allow $88B in multifamily loans in 2026, a 20% increase that signals an open agency debt market for senior housing and apartments. Banks are also re-entering the debt market as the yield curve steepens, with all debt sources expected to remain active through 2026.",
+      "headline": "Fannie and Freddie raise 2026 multifamily caps 20% to $88B each",
+      "summary": "The agencies each gained authority to do $88B in multifamily loans for 2026 — a 20% bump — while the Mortgage Bankers Association forecasts a 24% increase in overall CRE lending volume. With banks reentering the debt market and the 10Y Treasury anchored near 4.00–4.25%, refi and acquisition financing for stabilized senior housing should materially loosen this year.",
       "url": "https://www.credaily.com/briefs/interest-rates-spur-2026-debt-capital-growth/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "CRE Transaction Volume Set to Climb 15–20% in 2026",
-      "summary": "Colliers forecasts a 15–20% increase in CRE sales volume in 2026 as institutional and cross-border capital re-enters the market. The 10-Year Treasury has stabilized around 4.00–4.25% since mid-2025, with cap rates for most property types expected to compress 5–15 bps and good-quality assets seeing greater compression.",
-      "url": "https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/capital-markets",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Multifamily Investment Hits $170B Over 12 Months as Vacancy Peaks",
-      "summary": "Apartment investment volume over the 12 months ending March 2026 totaled $170.4B, outpacing 2024 by ~10%. Vacancy ticked up to 6.8% (from 6.5%) but Q1 deliveries collapsed to 31,055 units versus a three-year quarterly average of 80,400, suggesting vacancy has reached its cycle peak. Average apartment cap rate sits at 5.8% — tightest among major property types.",
-      "url": "https://arbor.com/blog/u-s-multifamily-market-snapshot-may-2026/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "PropTech VC Investment Hits $1.7B in January 2026, Up 176% YoY",
-      "summary": "Venture capital firms poured roughly $1.7B into proptech in January 2026 alone — a 176% jump versus January 2025 — after the sector closed 2025 with $16.7B raised (up 67.9% YoY). AI-centered proptech is growing at a 42% annualized rate, nearly double the 24% rate of non-AI peers, with four new unicorns minted recently.",
-      "url": "https://www.bisnow.com/national/news/proptech/the-4-newest-proptech-unicorns-show-ais-increasing-role-in-real-estate-133304",
+      "headline": "Proptech VC surges: $16.7B in 2025, $1.7B in January alone",
+      "summary": "Proptech attracted $16.7B in VC in 2025 (up 67.9% YoY), with January 2026 alone drawing $1.7B — a 176% jump from January 2025. AI-centered proptech grew at a 42% annualized rate vs. 24% for non-AI peers, signaling capital is concentrating in tools that automate underwriting, operations and resident experience.",
+      "url": "https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli/trends/proptech-impact.html",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "Agentic AI Goes Operational in Retail and CRE Workflows",
-      "summary": "Agentic AI is moving from pilot to production in 2026, with retailers and real estate operators deploying AI agents for procurement, pricing, inventory and event programming. ICSC reports operators are reshaping cost structure and competitive strategy as autonomous agents replace point tools — a meaningful operational lever for senior housing operators in 2026.",
-      "url": "https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026",
-      "category": "AI/Tech",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Real Estate Fraud Hits $275M as PropTech Pivots to Defense",
-      "summary": "The FBI logged over 12,000 real estate fraud complaints in 2025 totaling $275M+ in reported losses, much of it AI-enabled. Proptech vendors are rapidly pivoting toward AI-driven fraud detection in rental and mortgage workflows — a category to watch for senior housing operators handling deposits and applications.",
-      "url": "https://commercialobserver.com/2026/05/proptech-mortgage-fraud-rental-fraud/",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Atlanta Fed: AI Drove 1.8% Labor Productivity Gain in 2025",
-      "summary": "A new Atlanta Fed working paper of 6,000+ executives finds AI delivered 1.8% mean labor productivity growth in 2025, with stronger gains expected in 2026 — concentrated in high-skill services and finance. Technical roles are forecast to grow 0.62% in 2026 and 1.35% by 2028, while aggregate employment is expected to decline under 0.4% due to AI.",
-      "url": "https://www.atlantafed.org/research-and-data/publications/working-papers/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Leader Burnout Surges: 71% Stressed, 40% Considering Quitting",
-      "summary": "DDI reports 71% of leaders are reporting increased stress from their roles, and 40% of those stressed leaders are thinking of quitting — coinciding with US layoffs hitting a 10-year high. Leadership development remains HR's top priority heading into 2026, with enabling innovation now a parallel mandate.",
+      "headline": "71% of leaders report rising stress; 40% considering leaving",
+      "summary": "DDI's Global Leadership Forecast shows 71% of leaders are under increased stress and 40% are considering quitting, even as U.S. layoffs hit a 10-year high. With middle management layers being thinned for AI efficiency, operators retaining experienced regional and executive directors may have a real talent moat heading into 2027.",
       "url": "https://www.ddi.com/blog/leadership-trends-2026",
       "category": "Leadership",
       "importance": "HIGH"
     },
     {
-      "headline": "Half of Talent Leaders Plan to Add Autonomous AI Agents in 2026",
-      "summary": "Korn Ferry data shows more than half of talent leaders plan to add autonomous AI agents to their teams in 2026. The shift accelerates an already-flattening org structure trend and puts a premium on human-centered leadership — managing teams that mix human and agent workers becomes a core capability.",
-      "url": "https://wbf.wobi.com/5-management-trends-for-2026-every-leader-should-know/",
-      "category": "Leadership",
+      "headline": "REITs dominate off-market senior living M&A in 2026",
+      "summary": "Public and private REITs are winning the speed-to-deal race in senior living, increasingly closing portfolios off-market before they hit broader auctions. The pattern compresses the window for non-REIT buyers and pushes operators with strong banker relationships and quick diligence capability to the front of the line on Class-A product.",
+      "url": "https://seniorhousingnews.com/2026/05/14/speed-to-deal-reits-dominate-off-market-landscape-for-senior-living-ma/",
+      "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Deloitte: 79% of Tech Leaders Now Own Enterprise Value Delivery",
-      "summary": "Deloitte's 2026 Global Technology Leadership Study finds 79% of tech leaders report enterprise value delivery is their top priority — yet 42% report low or no ROI on AI investments to date. The gap between mandate and measurable return is the headline tension for IT leaders this year.",
+      "headline": "Sonida closes $1.8B merger with CNL Healthcare Properties",
+      "summary": "Sonida Senior Living completed its $1.8B strategic merger with CNL Healthcare Properties, materially expanding Sonida's owned portfolio and balance sheet. Combined with Healthpeak's Janus Living signing $400M of LOIs and Invesco taking a majority stake in a $2.04B Class A portfolio, large-scale senior housing recapitalizations are firmly back on.",
+      "url": "https://investors.sonidaseniorliving.com/news/news-details/2026/Sonida-Senior-Living-Completes-1-8-Billion-Strategic-Merger-with-CNL-Healthcare-Properties-Inc-/default.aspx",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "RiverSpring breaks ground on $633M life plan community in the Bronx",
+      "summary": "RiverSpring Living closed $632.9M in financing for River's Edge, a 260-unit luxury life plan community on its 32-acre Riverdale campus — NYC's first CCRC. The project is a marker for how dense urban senior housing development can still pencil at scale when sponsors combine institutional debt with an existing campus footprint.",
+      "url": "https://www.multihousingnews.com/riverspring-living-begins-development-of-nycs-first-senior-life-plan-community/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Colliers forecasts 15–20% rise in CRE sales volume in 2026",
+      "summary": "Colliers expects U.S. CRE sales volume to climb 15–20% in 2026 as institutional and cross-border capital reenters the market and the yield curve steepens. MSCI's Q1 2026 quick-hits report already shows commercial volume up 18% YoY, even with the multifamily-specific pullback — capital is broadening across property types.",
+      "url": "https://knowledge-leader.colliers.com/steig_seaward/quick-hits-msci-q1-2026-volume-climbs-18-as-capital-broadens-its-reach/",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Fed holds rates at 3.50–3.75% as Powell signals data-dependence",
+      "summary": "At its January 28, 2026 meeting the Fed kept the federal funds rate at 3.50–3.75%, with Chair Powell reiterating the committee will move only on incoming data. With CRE mortgages now pricing 5.17%–12.75% off a 10Y Treasury hovering near 4.00–4.25%, underwriting models should plan for a slow rather than abrupt easing path into 2027.",
+      "url": "https://www.cbicommercial.com/blog/how-will-interest-rate-changes-affect-cre-financing-in-2026",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Agentic AI moves from pilots to production in CRE workflows",
+      "summary": "ICSC and MRI Software both flag 2026 as the inflection year when agentic AI moves from experimentation into delivery across procurement, pricing, inventory and resident-facing programming. Senior housing operators piloting AI for staffing schedules, lead nurture and rent-roll analytics are the early beneficiaries; lagging operators risk margin compression as competitors cut SG&A.",
+      "url": "https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Three new proptech unicorns since July, all AI-native",
+      "summary": "Bisnow reports three new proptech unicorns minted since July, each automating a different real estate workflow with AI — from leasing to underwriting to property operations. The cluster is a signal that institutional LPs view AI-vertical software as the durable post-zero-rate proptech thesis, not a hype cycle.",
+      "url": "https://www.bisnow.com/national/news/proptech/the-4-newest-proptech-unicorns-show-ais-increasing-role-in-real-estate-133304",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Proptech turns AI on AI: fighting rental and mortgage fraud",
+      "summary": "Commercial Observer reports a sharp rise in AI-generated rental and mortgage fraud — fake pay stubs, deepfaked IDs — and a corresponding wave of proptech tools building counter-AI verification. Multifamily and senior housing leasing teams should expect to add document-authentication and identity-proofing layers to their applicant funnel this year.",
+      "url": "https://commercialobserver.com/2026/05/proptech-mortgage-fraud-rental-fraud/",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "CEO ownership of AI strategy doubles in a year",
+      "summary": "CEO ownership of AI strategy has roughly doubled YoY, with nearly three-quarters of CEOs now saying they are the primary decision-maker on AI and half saying their job is on the line if AI investment doesn't pay off. Companies plan to double AI spending in 2026 — meaning board-level scrutiny of measurable AI ROI is about to spike.",
       "url": "https://www.deloitte.com/us/en/about/press-room/2026-global-technology-leadership-study-release.html",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "McKinsey: Three Tectonic Forces Reshaping Organizations in 2026",
-      "summary": "McKinsey's State of Organizations 2026 identifies three forces redefining how companies operate: AI integration, talent scarcity in technical roles, and the need for adaptive leadership amid record layoffs. Flatter structures and continuous learning are emerging as the dominant operating model.",
+      "headline": "Flatter org charts collide with leaner middle management",
+      "summary": "McKinsey's State of Organizations 2026 highlights tectonic forces flattening hierarchies — but warns the same cuts that produced near-term cost wins are now breaking internal communication, burning out survivors and slowing decisions. Operators consolidating regional layers should pair restructurings with explicit communication-routing investments to avoid productivity loss.",
       "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-state-of-organizations",
       "category": "Leadership",
-      "importance": "LOW"
+      "importance": "MEDIUM"
     },
     {
-      "headline": "89% of Employees Link Wellbeing to Higher Performance",
-      "summary": "Wellhub's 2026 State of Work-Life-Wellness study finds 89% of employees say prioritizing wellbeing makes them perform better at work. Wellness is shifting from perk to performance lever, with employees moving away from the work-hard-play-hard mentality and building lives around wellbeing.",
+      "headline": "89% of employees say wellbeing focus boosts performance",
+      "summary": "Wellhub's State of Work-Life-Wellness 2026 finds 89% of employees perform better when prioritizing wellbeing, and 61% with structured wellness programs report thriving vs. 40% without. For senior housing operators where frontline care quality drives both NOI and retention, the data argues for wellness benefits as a recruiting lever, not a perk.",
       "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
       "category": "Lifestyle",
       "importance": "MEDIUM"
     },
     {
-      "headline": "'Third Places' Become Core to Worker Wellness — 91% Say They Help",
-      "summary": "Wellness-focused 'third places' — gyms, yoga studios, and wellness hubs outside home and office — are emerging as central to professional wellbeing. 91% of employees say these spaces help them handle work pressures more effectively, a relevant trend for active adult and senior living amenity design.",
-      "url": "https://wellhub.com/en-us/blog/wellness-and-benefits-programs/state-of-work-life-wellness-2026-executive-summary/",
+      "headline": "Longevity becomes a comprehensive lifestyle category in 2026",
+      "summary": "Global Wellness Summit named longevity as the defining wellness trend of 2026, blending metabolic optimization, functional nutrition, strength training, restorative sleep and community connection into a single lifestyle frame. Senior living operators leaning into longevity programming — not just amenities — can credibly reposition middle-market product as wellness-forward.",
+      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "'Emotional Fitness' Emerges as the 2026 Wellness Category",
-      "summary": "Global Wellness Summit names 'emotional fitness' a new 2026 health category, pairing cognitive performance with emotional resilience. Personalization is the through-line: biomarker-based nutrition, AI wellness coaches, and longevity/metabolic health are moving from biohacking niche to mainstream lifestyle spend.",
-      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
+      "headline": "Convenience overtakes transformation in 2026 wellness spending",
+      "summary": "Draxe and Accor both report that 2026 wellness spending is shifting toward small, repeatable daily habits and convenient services that slot into existing routines, away from radical transformations. The implication for resident programming: short, repeatable, in-community offerings will likely outperform big-event wellness initiatives in both adoption and retention.",
+      "url": "https://draxe.com/health/wellness-trends-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     }
