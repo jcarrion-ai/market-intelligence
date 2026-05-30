@@ -1,148 +1,148 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "takeaways": [
-    "Senior housing occupancy hit 89.5% in Q1 — the 19th straight quarterly gain — while new construction sank to its lowest level since 2012, setting up the most favorable supply-demand dynamic in two decades for operators like Lloyd Jones.",
-    "Enterprise AI just went vertical: Anthropic ($1.5B with Goldman/Blackstone) and OpenAI ($10B with TPG/Brookfield/Bain) launched competing JVs on May 4 explicitly targeting CRE underwriting and portfolio management — the plug-and-play proptech era is ending.",
-    "The 2026 CRE refi wall is real: $735B in loan maturities hit this year as the Fed holds at 3.5–3.75% for a third straight meeting, forcing loans originated at 3–4% to refinance at 6.5–7.5%."
+    "Senior housing occupancy hit 89.5% in Q1 2026 — the 19th straight quarterly gain — with IL inventory growth at a record-low 0.4% setting up sustained pricing power for Lloyd Jones assets.",
+    "Fed held rates at 3.50–3.75% in early May with four dissents (most since 1992); Kevin Warsh takes the chair from Powell ahead of the June meeting, keeping CRE refinancing math tight on $1.5T of maturing loans.",
+    "Agentic AI is moving from pilot to production across CRE — VCs poured $1.7B into proptech in January 2026 alone (+176% YoY), with AI-first companies growing 42% vs 24% for non-AI peers."
   ],
   "items": [
     {
-      "headline": "Senior housing occupancy climbs to 89.5% as construction hits 14-year low",
-      "summary": "NIC's Q1 2026 data shows the 19th consecutive quarter of occupancy gains, with independent living above 91% and units under construction at the lowest level since 2012. Inventory growth fell to a record-low 0.4% YoY, and NIC projects occupancy will cross 90% by year-end — a 20-year high. The setup tilts pricing power firmly toward existing operators.",
-      "url": "https://www.nic.org/news-press/senior-living-occupancy-grows-amid-construction-slowdown-limiting-options-for-older-adults/",
+      "headline": "Senior housing occupancy reaches 89.5% in Q1, 19th straight quarterly gain",
+      "summary": "NIC MAP reports Q1 2026 occupancy at 89.5%, with independent living above 91% and assisted living at 87.9%. Median occupancy of 92% suggests less headroom than the average implies — Lloyd Jones operators should pivot from absorption to rate growth in stabilized communities.",
+      "url": "https://www.greystone.com/insights/senior-housing-market-q1-2026-occupancy-nears-90-supply-hits-historic-lows-investment-activity-accelerates/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Sonida moves to acquire $1.8B, 69-community CHP portfolio",
-      "summary": "Sonida Senior Living disclosed its proposed acquisition of Community Healthcare Properties, a non-traded REIT with 69 senior housing communities valued at ~$1.8B. The deal — confirmed in SEC filings on May 11 — would substantially scale Sonida's owned footprint and is part of an industry M&A surge; SLIB is on track to exceed 100 transactions in 2026 after completing 48 already.",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001043000/000119312526183657/d140656ddefa14a.htm",
+      "headline": "IL inventory growth hits record-low 0.4% as construction stalls",
+      "summary": "Annual independent living inventory growth fell to 0.4% — the lowest since NIC began tracking in 2006 — as financing costs, labor shortages, and material price spikes through March 2026 freeze new starts. The supply-demand gap is expected to intensify into the 2030s as boomers age into need-based care.",
+      "url": "https://www.nicmap.com/blog/senior-housing-five-key-trends-to-watch-in-2026/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Fed holds at 3.5–3.75% for third straight meeting; Warsh confirmation looms",
-      "summary": "The April 28–29 FOMC minutes show the Fed held rates steady for a third consecutive meeting, with markets pricing in cuts as Kevin Warsh is positioned to succeed Powell after a May 15 confirmation. The 10-year Treasury remains anchored around 4.00–4.25%, putting fixed-rate CRE loans in a 5.39–8.75% band depending on property type and borrower.",
-      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm",
+      "headline": "Fed holds at 3.50–3.75% with four dissents, most since 1992",
+      "summary": "The FOMC kept the federal funds target unchanged for a third straight meeting in early May, but Logan, Hammack, and Kashkari pushed back against an easing bias — producing four dissents, the most in 34 years. The split signals choppy CRE financing conditions through summer even as 10-year Treasury holds in the 4.00–4.25% range.",
+      "url": "https://www.cnn.com/2026/05/01/business/fed-reserve-rate-hikes",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "CRE faces $735B refi wall in 2026 as 3–4% loans roll to 6.5–7.5%",
-      "summary": "The commercial real estate sector confronts $735B in loan maturities for the remainder of 2026 on top of $540B already worked through, with loans originated at 3–4% needing to refinance at 6.5–7.5%. Banks are loosening — only 9% tightened standards as of mid-2025 vs. 30.3% in April 2024 — but the debt-service gap will pressure cap rates and force more forced sales.",
-      "url": "https://murphypc.com/news/federal-reserve-policy-and-commercial-real-estate-market/",
+      "headline": "Kevin Warsh to replace Powell as Fed Chair June 16",
+      "summary": "Powell's term expires May 15, 2026, with Kevin Warsh taking over as chair by the Fed's June meeting. The leadership transition adds a new variable to CRE rate forecasts heading into the back half of 2026, when an estimated $1.5T in commercial mortgages mature.",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Anthropic, Goldman and Blackstone launch $1.5B enterprise AI venture",
-      "summary": "Anthropic on May 4 unveiled a $1.5B joint venture with Goldman Sachs and Blackstone to deploy Claude inside PE-owned portfolio companies. Anthropic, Blackstone and Hellman & Friedman each anchored at ~$300M, with Goldman in at ~$150M and additional capital from Apollo, General Atlantic, GIC, Leonard Green and Sequoia — explicitly targeting CRE underwriting and portfolio management.",
-      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "headline": "Senior living M&A accelerates as development costs stay elevated",
+      "summary": "With new development constrained by financing and rising material costs, acquisition activity is expected to remain elevated through 2026. Transaction pricing has surpassed prior cycle peaks as institutional and private buyers compete for scale exposure to a long-duration demand curve — favorable conditions for Lloyd Jones to monetize stabilized assets.",
+      "url": "https://seniorhousingnews.com/2026/05/26/development-challenges-high-demand-keep-senior-living-ma-in-the-spotlight-in-2026/",
+      "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Proptech VC funding hits $1.7B in January 2026, up 176% YoY",
+      "summary": "Venture capital firms poured roughly $1.7B into proptech in January 2026, a 176% jump from January 2025. AI-centered proptech investment grew 42% annualized in 2025 versus 24% for non-AI peers — capital is concentrating on companies that productize agentic AI in CRE workflows.",
+      "url": "https://commercialobserver.com/2025/12/2026-proptech-predictions-ai/",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "OpenAI counters with $10B Deployment Co. backed by TPG, Brookfield, Bain",
-      "summary": "On the same day as Anthropic's announcement, OpenAI launched a $10B 'Deployment Co.' with TPG, Brookfield, Bain Capital, Advent, SoftBank and Dragoneer, with real-estate portfolio companies named as a core focus. The dual launches signal that Wall Street is now building custom AI rather than buying proptech — a major threat to plug-and-play vendors that have dominated the past decade.",
-      "url": "https://www.bisnow.com/national/news/proptech/real-estate-giants-deals-openai-anthropic-enterprise-ai-partnerships-herald-end-plug-and-play-proptech-134751",
-      "category": "AI/Tech",
+      "headline": "Colliers forecasts 15–20% jump in CRE sales volume for 2026",
+      "summary": "Colliers projects commercial sales volume to rise 15–20% in 2026 as institutional and cross-border capital reenter the market. Cap rates for most property types are expected to compress 5–15 bps, with good-quality assets seeing the largest gains — supportive of Lloyd Jones disposition strategy.",
+      "url": "https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/capital-markets",
+      "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Tim Cook out at Apple as CEO reckoning sweeps Corporate America",
-      "summary": "John Ternus is replacing Tim Cook at Apple, the latest in a wave of mega-cap transitions that already saw Greg Abel succeed Buffett at Berkshire, Josh D'Amaro replace Iger at Disney, and John Furner take over for McMillon at Walmart. CEO turnover is up across the board with 41% of new S&P 500 CEOs this quarter having prior public-company experience, vs. 25% a year ago.",
-      "url": "https://fortune.com/2026/04/21/tim-cook-apple-ceo-transition-turnover-reckoning/",
-      "category": "Leadership",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Multifamily rents climb for sixth straight month, +0.7% YoY",
-      "summary": "Apartments.com's May 2026 report shows the national average rent rising to $1,737 (+0.2% MoM), the sixth consecutive monthly gain after a flat-to-down second half of 2025. Year-over-year growth held at +0.7%, with the Midwest leading at +2.0% and Sun Belt markets still negative (South -0.8%, Mountain -1.7%) as supply overhang gradually eases.",
-      "url": "https://arbor.com/blog/u-s-multifamily-market-snapshot-may-2026/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Construction headwinds linger as tariffs and labor squeeze pipeline",
-      "summary": "Senior living's development pipeline keeps shrinking in 2026 as tariff-driven materials inflation, construction labor shortages and tight financing weigh on starts. Industry analysts warn the supply drought is great for existing operators' occupancy but creates a coming bottleneck for the swelling 80+ population, which lacks new product to absorb.",
-      "url": "https://seniorhousingnews.com/2026/05/18/construction-challenges-linger-tempering-hopes-of-senior-living-development-uptick-in-2026/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "'Woodstock Generation' pushes operators to expand independent living",
-      "summary": "Senior living providers are reweighting portfolios toward independent living to meet incoming-cohort demand for higher-touch hospitality, better design, wellness programming and richer social experiences. Independent living crossed 91% occupancy in Q1 — its highest reading in a decade across both primary and secondary markets.",
-      "url": "https://seniorhousingnews.com/2026/05/27/operators-expand-independent-living-as-woodstock-generation-moves-into-senior-living/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Affordability gap widens as memory care tops $8,000/month",
-      "summary": "Average monthly rates now run from $4,000+ in CCRCs to over $8,000 in memory care, and a growing share of households lack the financial flexibility to move into a community. Operators able to clearly articulate value vs. home care — bundled services, predictable spend, social ROI — are pulling demand from the in-home channel.",
-      "url": "https://seniorhousingnews.com/2026/05/28/how-affordability-value-can-help-senior-living-stand-out-from-home-care/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Colliers forecasts 15–20% jump in CRE sales volume in 2026",
-      "summary": "Colliers' 'Capital Markets Reawakening' outlook calls for a 15–20% rise in transaction volume as pricing finds a floor and institutional and cross-border capital re-enters. Banks are expected to retake meaningful share from alternative lenders, particularly as the yield curve steepens through the second half of the year.",
-      "url": "https://www.credaily.com/briefs/interest-rates-spur-2026-debt-capital-growth/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Agentic AI moves from experiment to operations layer for CRE",
-      "summary": "ICSC analysts say 2026 is the year agentic AI moves from POCs into procurement, pricing, inventory and event programming for real estate operators. Investment in AI-centered proptech grew at a 42% annualized rate in 2025 — nearly double the 24% pace of non-AI peers — signaling capital is racing toward the operational use cases first.",
+      "headline": "Agentic AI moves from pilot to delivery across real estate operations",
+      "summary": "ICSC+PROPTECH at ICSC LAS VEGAS in late May highlighted agentic AI as the next phase of proptech, with operators deploying AI agents for procurement, pricing, inventory, and event programming. AI is shifting from experimentation to a practical efficiency driver in 2026 — senior living operators should pilot agentic tools in leasing and procurement workflows.",
       "url": "https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026",
       "category": "AI/Tech",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Senior living affordability gap widens as monthly costs climb",
+      "summary": "Average monthly costs now range from over $4,000 at CCRCs to over $8,000 in memory care, pressuring middle-market demand. Operators are responding with hospitality-driven design over institutional models — a positioning opportunity for Lloyd Jones to differentiate on resident experience.",
+      "url": "https://www.multihousingnews.com/senior-living-trends/",
+      "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Proptech turns AI on rising rental and mortgage fraud wave",
-      "summary": "With AI tools fueling a surge in synthetic-identity rental and mortgage fraud, owners and proptech vendors are flipping the same tech to defend underwriting workflows. For senior housing operators, the bigger near-term risk is fraud in adult-child guarantor docs and POA paperwork — areas where AI verification tools are now being marketed.",
+      "headline": "Proptech firms turn AI on AI-driven rental and mortgage fraud",
+      "summary": "Rental and mortgage fraud — fueled in part by generative AI — is now being countered by proptech entrepreneurs deploying AI-based detection. Property owners and operators are increasingly applying the same technology to stem fraud at application intake, with implications for senior housing leasing pipelines.",
       "url": "https://commercialobserver.com/2026/05/proptech-mortgage-fraud-rental-fraud/",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Boards favor experienced insiders as CEO turnover accelerates",
-      "summary": "Fortune reports 41% of incoming S&P 500 CEOs this quarter had prior public-company experience, up from 25% a year ago, while outgoing CEOs averaged 11.8 years in role (vs. 8.3 last year) and searches are taking longer. Boards are de-risking by promoting insiders who can hit the ground running rather than betting on outside transformation hires.",
-      "url": "https://fortune.com/2026/04/29/ceo-turnover-boards-experienced-candidates/",
+      "headline": "62% of businesses plan AI process automation in 2026",
+      "summary": "Most businesses plan to implement AI in 2026, with focus areas of process automation (62%), predictive analytics (44%), and market intelligence (42%). Leaders remain optimistic, with 71% confident in company performance despite a challenging economy.",
+      "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "71% of leaders report higher stress, 40% weighing exits",
-      "summary": "DDI's 2026 leadership data shows 71% of leaders under increased stress and 40% considering leaving their jobs, as flatter org charts dump more scope on fewer middle managers. Burnout-driven attrition at the manager layer is becoming the top execution risk cited by HR leaders heading into the back half of 2026.",
+      "headline": "Commercial loan rates range 5.09–12.75% as benchmarks stabilize",
+      "summary": "As of late May 2026, commercial loan rates sit in the 5.09–12.75% band, with conventional CRE mortgages at 5.39–8.75% depending on property type. The 10-year Treasury has held in the 4.00–4.25% range since mid-2025, anchoring fixed-rate pricing for senior housing refis.",
+      "url": "https://commercialloandirect.com/commercial-rates",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "New Perspective Senior Living boosts security spend up to 50%",
+      "summary": "Accushield's inaugural \"Safest Places to Live\" recognized 355 operators, including New Perspective Senior Living and Priority Life Care, for meeting all eight safety standards. New Perspective increased investment in security programs and software by as much as 50% between 2025 and 2026 — a benchmark for capex planning at Lloyd Jones communities.",
+      "url": "https://seniorhousingnews.com/2026/05/26/what-perspective-priority-life-care-invest-in-to-make-senior-living-safer/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Organizational flattening reshapes middle management",
+      "summary": "Economic pressure and AI-driven efficiencies are flattening leadership hierarchies, with most organizations expected to run with fewer layers by 2030. Leaders warn that aggressive middle-management cuts can break internal communication and fuel burnout — a caution for operators rolling out AI-driven restructurings.",
       "url": "https://www.ddi.com/blog/leadership-trends-2026",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "89% of employees say wellbeing focus lifts their performance",
-      "summary": "Wellhub's State of Work-Life-Wellness 2026 finds 89% of employees perform better when wellbeing is prioritized, yet only 54% rate their own wellbeing as 'good or thriving' — down from 63% in 2024. Sleep and work stress remain the two biggest drags, with 44% saying poor sleep harms their performance.",
+      "headline": "Human-centered leadership becomes the differentiator as AI handles technical work",
+      "summary": "As AI absorbs more technical tasks, leaders' value shifts to emotional intelligence, creativity, and culture-building. World Business Forum's 2026 trends call out trust, empathy, and clarity as the foundations of teams that can handle hard truths — directly relevant to senior housing's people-heavy operating model.",
+      "url": "https://wbf.wobi.com/5-management-trends-for-2026-every-leader-should-know/",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "89% of employees say wellbeing drives higher performance",
+      "summary": "Wellhub's State of Work-Life-Wellness 2026 finds 89% of employees perform better when prioritizing wellbeing — but only 54% rated their own wellbeing as good in 2025, down from 63% in 2024. Sleep deficits (44%) and work stress (40%) lead causes — a recruiting and retention lever for senior housing operators.",
       "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
       "category": "Lifestyle",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Mental Health UK: 9 in 10 adults under high or extreme pressure",
-      "summary": "The 2026 Burnout Report finds nine in ten adults reporting high or extreme pressure over the past year, with one in five having taken time off for stress-related mental health issues. Workers aged 18–24 are most likely to need leave — a warning shot for employers banking on Gen Z to power productivity gains.",
-      "url": "https://www.britsafe.org/safety-management/2025/how-stress-and-burnout-will-shape-the-workplace-in-2026",
+      "headline": "\"Third places\" — gyms and wellness studios — emerge as productivity infrastructure",
+      "summary": "91% of users say gyms and wellness studios help them handle work pressures, with 74% visiting weekly and one in five going daily. These spaces are functioning as new \"third places\" for connection and recharging — a programming model senior housing communities can adapt for active-adult and IL residents.",
+      "url": "https://wellhub.com/en-us/blog/wellness-and-benefits-programs/state-of-work-life-wellness-2026-executive-summary/",
       "category": "Lifestyle",
-      "importance": "MEDIUM"
+      "importance": "LOW"
     },
     {
-      "headline": "Flatter org charts emerge as AI absorbs middle-management work",
-      "summary": "World Business Forum's 2026 outlook points to a structural flattening of leadership hierarchies as AI takes over coordination, reporting and routing tasks. Most organizations are projected to have fewer layers by 2030, but the transition is producing communication breakdowns and burnout among the managers left behind.",
-      "url": "https://wbf.wobi.com/5-management-trends-for-2026-every-leader-should-know/",
+      "headline": "Emotional fitness emerges as a defined wellness category in 2026",
+      "summary": "2026 marks the rise of \"emotional fitness\" — a category that combines cognitive performance and emotional resilience. Personalized wellness powered by AI analytics, at-home biomarkers, and advanced wearables is moving from niche to mainstream, with implications for senior housing wellness programming.",
+      "url": "https://draxe.com/health/wellness-trends-2026/",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Learning velocity overtakes hiring as the talent battleground",
+      "summary": "Competition for talent in 2026 is shifting from who hires fastest to who learns fastest. More professionals expect growth opportunities as part of the deal, making continuous learning a primary lever for attraction and retention across operating teams.",
+      "url": "https://www.houston.org/news/hr-and-talent-trends-shaping-2026/",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "'Emotional fitness' emerges as 2026's new wellness category",
-      "summary": "Dr. Axe's 2026 wellness trend list elevates 'emotional fitness' — training cognitive performance and emotional resilience the way we train physical fitness — alongside personalized wellness powered by at-home biomarker tests and AI analytics. For senior living, this category aligns naturally with wellness-led programming targeting the incoming cohort.",
-      "url": "https://draxe.com/health/wellness-trends-2026/",
+      "headline": "Holistic wellness reframes workplace benefits as business imperative",
+      "summary": "Forward-thinking employers are treating wellbeing as a business imperative rather than a perk, integrating nutrition, movement, rest, social connection, and purpose into benefits design. The shift mirrors what senior housing operators already build into resident programming — a chance to extend the same playbook to employees.",
+      "url": "https://www.globalwellnesssummit.com/2026trends/",
       "category": "Lifestyle",
       "importance": "LOW"
     }
