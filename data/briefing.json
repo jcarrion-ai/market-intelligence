@@ -1,149 +1,156 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "takeaways": [
-    "Senior housing occupancy hit 89.5% in Q1 2026 — the 19th straight quarterly gain — with NIC projecting the sector to cross 90% before year-end as supply growth sits at a historic-low 0.7%.",
-    "The Fed is expected to hold at 3.50–3.75% on June 16–17 (Warsh's first meeting as chair), keeping the 10-year Treasury near 4.0–4.25% while office CMBS delinquencies sit above 12%.",
-    "June is the most active AI model-release month of the year — Gemini 3.5 Pro, Claude Mythos 1, GPT-5.6 and Grok 5 are all landing, accelerating agentic AI adoption that operators tie to 31% projected portfolio growth."
+    "Senior housing occupancy hit 89.5% in Q1 2026 — the 19th straight quarterly gain — while new units under construction fell to the lowest level since 2012, setting up a demand-supply squeeze that favors existing operators like Lloyd Jones.",
+    "Senior housing posted a 3.9% total return in Q1, its best since 2017, with transaction volume at a decade high as new investors and capital re-enter the space.",
+    "The Fed held rates at 3.5–3.75% with CPI near 4.2%, keeping CRE debt expensive and office CMBS delinquency above 11% — pushing capital toward resilient sectors like senior housing and multifamily."
   ],
   "items": [
     {
-      "headline": "Senior housing occupancy nears 90% as supply hits historic low",
-      "summary": "Senior housing occupancy reached 89.5% in Q1 2026, the 19th consecutive quarterly increase, with independent living above 91% and assisted living at 87.9%. NIC projects the sector will surpass 90% before year-end while annual inventory growth sits at just 0.7%. For Lloyd Jones and other operators, tight supply and a 29-month construction cycle point to sustained pricing power and rent growth of 3–6% through 2026.",
+      "headline": "Senior housing occupancy climbs to 89.5%, 19th straight quarterly gain",
+      "summary": "NIC data shows senior housing occupancy rose 0.4 points to 89.5% in Q1 2026, with occupied units up more than 3,000 to 637,000. Analysts expect occupancy to clear 90% before year-end — a tailwind for operators like Lloyd Jones with stabilized communities and pricing power.",
       "url": "https://www.greystone.com/insights/senior-housing-market-q1-2026-occupancy-nears-90-supply-hits-historic-lows-investment-activity-accelerates/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Fed expected to hold rates at June 16–17 meeting, Warsh's first as chair",
-      "summary": "The federal funds rate sits at 3.50–3.75%, unchanged across three straight meetings, with a ~99% market probability of another hold on June 16–17 under new chair Kevin Warsh. Persistent inflation and unemployment near 4.4% keep policymakers cautious, with futures pricing less than a 10% chance of any cut this year. Stable rates anchor the 10-year Treasury at 4.0–4.25%, shaping senior housing financing and cap-rate expectations.",
-      "url": "https://www.mitrade.com/au/insights/others/cfd-trading/fed-interest-rate-decision-2026",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Senior living M&A surges; off-market deals dominate REIT activity",
-      "summary": "Senior living transaction volume hit a decade-high $24 billion in 2025 per JLL, and momentum continues into 2026 as REITs dominate off-market sourcing — Welltower closed 37 of 41 Q1 transactions off-market and two-thirds of Ventas' $1.7B senior living investments were off-market. The shift toward off-market deal flow raises the premium on relationships and operational platforms for operators like Lloyd Jones seeking growth.",
-      "url": "https://seniorhousingnews.com/2026/05/14/speed-to-deal-reits-dominate-off-market-landscape-for-senior-living-ma/",
+      "headline": "New senior housing construction falls to lowest level since 2012",
+      "summary": "Year-over-year inventory growth hit a record-low 0.4% in Q1 2026 and units under construction dropped to the lowest since 2012. The widening gap between aging-demographic demand and new supply strengthens the long-term value of existing senior living assets.",
+      "url": "https://www.nic.org/senior-housing-care-research/senior-housing-market-trends/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Office CMBS delinquencies stay above 12%, weighing on CRE recovery",
-      "summary": "Office loan delinquencies jumped to a record 12.34% in January 2026, the highest since tracking began in 2000, with the office sector still generating the largest share of newly distressed loans. While multifamily and senior housing benefit from demographic tailwinds, office distress continues to constrain bank lending appetite and CRE capital flows broadly.",
-      "url": "https://www.landairnyc.com/articles/commercial-real-estate-in-2026-stress-shift-and-signals-of-recovery",
+      "headline": "Senior housing returns 3.9% in Q1, best since 2017",
+      "summary": "Senior housing posted a 3.9% total investment return in Q1 2026 — its highest since Q4 2017 — with transaction volume at a decade high. New investors are taking aim at the sector as M&A surges, signaling reopening capital for senior living deals.",
+      "url": "https://seniorhousingnews.com/2026/01/20/wave-has-arrived-new-investors-take-aim-at-senior-living-as-ma-surges/",
+      "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Investcorp plans $1B senior living push over three years",
+      "summary": "Investcorp announced plans to deploy roughly $1 billion into senior living investments over the next three years, a notable institutional vote of confidence. Increased competition for quality assets could compress cap rates and raise acquisition costs for operators expanding portfolios.",
+      "url": "https://seniorhousingnews.com/2026/04/21/investcorp-plans-1b-in-senior-living-investments-over-next-three-years/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Operators turn inward as 2026 development hopes fade",
+      "summary": "With financing still tight and timelines lengthening, senior living operators are shifting focus from new development to optimizing existing communities. The pivot rewards operational excellence and margin discipline over ground-up growth — a strategic frame relevant to Lloyd Jones' portfolio.",
+      "url": "https://seniorhousingnews.com/2026/06/04/hopes-of-bigger-development-year-in-2026-fading-as-senior-living-operators-turn-inward/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Boutique residential assisted living models gain ground",
+      "summary": "Small-home senior living models with lower unit counts, higher staff-to-resident ratios and a home-like feel are expanding in 2026. The Gallery at Fort Collins opened June 11 as a wellness-driven community, illustrating demand for differentiated, lifestyle-led senior housing.",
+      "url": "https://seniorhousingnews.com/2026/04/10/small-homes-big-opportunity-inside-the-growth-of-residential-assisted-living-in-2026/",
+      "category": "Senior Housing",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Fed holds at 3.5–3.75% with inflation stuck near 4.2%",
+      "summary": "The June 16–17 FOMC meeting carries a 99.5% market-implied probability of no rate change, with CPI around 4.2% year-over-year keeping the Fed in wait-and-see mode. 'Higher for longer' continues to raise the cost of CRE debt and refinancing risk for leveraged assets.",
+      "url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jun",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "AI adoption becomes a gating factor for real estate capital access",
-      "summary": "Property managers deploying AI across core workflows report expected portfolio growth of 31% in 2026 versus 12% for non-adopters, and a new GRI report finds AI adoption increasingly tied to attracting real estate capital. Early adopters are seeing up to 30% energy savings and 15–30% operating-cost reductions — a direct margin lever for senior housing operators managing labor-intensive communities.",
+      "headline": "Office CMBS delinquency hits record as overall rate climbs to 7.47%",
+      "summary": "The Trepp CMBS delinquency rate rose 17 bps to 7.47% in January 2026, with office peaking at an all-time-high 11.76% on nearly $1.6B of net new delinquencies. Maturity defaults dominate, concentrating distress in weaker office assets while senior housing and multifamily hold firm.",
+      "url": "https://www.multihousingnews.com/cmbs-delinquency-rates/",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "CRE rates span 5.08%–12.75% as capital reopens cautiously",
+      "summary": "Commercial real estate loan rates ranged from 5.08% to 12.75% in June 2026 as lower base rates slowly unlock capital. Sentiment is shifting from stress toward cautious recovery, but capital availability and cost of capital remain the top concerns cited by CRE leaders.",
+      "url": "https://www.commercialrealestate.loans/commercial-mortgage-rates/",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "CRE enters 2026 with renewed momentum, uneven by sector",
+      "summary": "Deloitte and industry outlooks describe a CRE market transitioning toward balance, with industrial, multifamily and select retail resilient while office stays distressed. For senior housing investors, the divergence reinforces the case for demographically driven, needs-based asset classes.",
+      "url": "https://www.deloitte.com/us/en/insights/industry/financial-services/commercial-real-estate-outlook.html",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Capital structure beats market timing in 2026 CRE",
+      "summary": "Peachtree Group argues capital structure now matters more than market predictions, as disciplined leverage and flexible financing separate winners from distressed owners. The view underscores why operators should prioritize balance-sheet resilience over opportunistic bets in a higher-rate regime.",
+      "url": "https://www.peachtreegroup.com/news-insights/view-from-the-top-why-capital-structure-matters-more-than-market-predictions",
+      "category": "Capital Markets",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Property managers using AI broadly project 31% portfolio growth",
+      "summary": "Property management firms applying AI across core workflows expect 31% portfolio growth in 2026 versus 12% for non-adopters. AI has shifted from emerging tech to must-have operational infrastructure — a clear signal for senior housing operators to embed AI in leasing, ops and care.",
+      "url": "https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli/trends/proptech-impact.html",
+      "category": "AI/Tech",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "AI adoption becomes key to attracting real estate capital",
+      "summary": "A GRI report finds AI adoption is now a determining factor in accessing real estate capital, as investors favor operators with data-driven, tech-enabled platforms. Senior housing operators that demonstrate AI maturity may gain an edge in fundraising and deal competitiveness.",
       "url": "https://www.business-standard.com/industry/news/ai-adoption-becomes-key-to-attracting-real-estate-capital-gri-126061000692_1.html",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "EVA Live to take 51% stake in Spiro Senior Living",
-      "summary": "EVA Live announced June 12, 2026 that it reached terms for a definitive agreement to hold a 51% ownership interest across Spiro Senior Living and related operating entities, with final documentation expected around July 1. The deal adds to a steady stream of senior living consolidation and signals continued investor appetite for operating platforms in the sector.",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001983736/000149315226028382/ex99-1.htm",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Debt capital liquidity reopens as inflation stabilizes",
-      "summary": "More flexible monetary policy and stabilizing inflation are unlocking commercial real estate debt capital, with commercial rates currently ranging 5.05%–12.75% and the 10-year Treasury holding at 4.0–4.25%. Capital is returning slowly and cautiously, favoring multifamily and demographically supported asset classes — a constructive but selective backdrop for senior housing refinancing and development.",
-      "url": "https://www.credaily.com/briefs/interest-rates-spur-2026-debt-capital-growth/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Agentic AI emerges as proptech's next phase",
-      "summary": "Agentic AI is moving beyond content generation to autonomous decision-making, with operators using AI agents for procurement, pricing, inventory and event programming. The major June 2026 model wave — Gemini 3.5 Pro, Claude Mythos 1, GPT-5.6 and Grok 5 — accelerates enterprise deployment, giving senior housing operators new tools to automate back-office and resident-facing workflows.",
+      "headline": "Agentic AI moves into procurement, pricing and operations",
+      "summary": "ICSC reports agentic AI is the next proptech phase, with real estate operators deploying autonomous agents for procurement, pricing, inventory and programming. For senior living, agentic tools could automate scheduling and vendor management while staff focus on resident care.",
       "url": "https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "PropTech market projected to more than double by 2034",
-      "summary": "The global PropTech market could reach $104.57 billion by 2034, up from $44.59 billion in 2026, with AI-powered real-time valuation tools processing thousands of variables from climate risk to neighborhood sentiment. The rapid capital inflow underscores how technology is reshaping underwriting and asset management across all real estate sectors, including senior housing.",
-      "url": "https://propmodo.com/how-proptechs-biggest-platforms-are-taking-different-approaches-to-ai-agents/",
+      "headline": "AI tackles senior living burnout affecting 65% of staff",
+      "summary": "With 65% of senior living employees reporting burnout per Argentum, operators are adopting AI for scheduling, predictive staffing and communications to free care teams for resident engagement. Job candidates are now asking about workplace technology during interviews, raising the stakes on tech investment.",
+      "url": "https://www.argentum.org/ai-is-moving-into-the-physical-world-what-senior-living-leaders-should-know/",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "2026 business leaders steady on growth but cooling on the broader economy",
-      "summary": "JPMorgan's 2026 outlook finds 73% of leaders expect higher revenue and 64% expect higher profits, yet optimism about broader industry performance fell 9 points year-over-year. The gap between confidence in one's own company (71%) and the wider economy suggests leaders are doubling down on internal execution — a theme relevant to operators navigating a selective capital environment.",
+      "headline": "Global proptech market on path to $104.6B by 2034",
+      "summary": "The proptech market is projected to more than double from $44.59B in 2026 to $104.57B by 2034, per Fortune Business Insights. AI-powered valuations now update in real time using sentiment, school trends and climate-risk scores rather than quarterly snapshots.",
+      "url": "https://blog.mean.ceo/proptech-news-june-2026/",
+      "category": "AI/Tech",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Leaders shift to regional strategies to build resilience",
+      "summary": "A 2026 management theme is strategic localization — moving from one global strategy to a portfolio of regional plays with local partnerships that reduce single points of failure. For multi-market senior housing operators, decentralized, locally attuned operating models can improve resilience.",
+      "url": "https://wbf.wobi.com/5-management-trends-for-2026-every-leader-should-know/",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Business leaders steady on growth but optimism cools",
+      "summary": "JPMorgan's 2026 outlook finds 73% of leaders expect higher revenue and 64% higher profits, but industry optimism fell 9 points year-over-year. The mixed signal argues for disciplined growth planning and scenario flexibility across operating budgets.",
       "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Boomers delay senior living entry, reshaping demand for lifestyle product",
-      "summary": "Boomers are increasingly delaying entry into senior living until they want lifestyle benefits rather than care support, intensifying demand for detached and independent living — especially for underserved middle-income seniors. Harrison Street expects rental rate growth of 3–6% in 2026, but affordability for the middle market remains the industry's most pressing unresolved challenge.",
-      "url": "https://www.multihousingnews.com/senior-living-trends/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Microsoft and Google challenge Anthropic and OpenAI on coding AI",
-      "summary": "Microsoft and Google are pushing into AI coding models long dominated by Anthropic and OpenAI, while OpenAI prepares GPT-5.6 (codenamed 'Kindle') with advances in reasoning, coding and vision. Intensifying competition is driving down enterprise AI costs, lowering the barrier for mid-sized operators to adopt automation across their portfolios.",
-      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Strategic localization and adaptive strategy top 2026 management trends",
-      "summary": "Leaders are shifting from single global approaches to portfolios of regional plays with local partnerships that reduce single points of failure, while adaptive strategy — learning fastest when plans break — replaces rigid long-range planning as AI upends predictability. For multi-market senior housing operators, the localization lens reinforces the value of regionally tailored operations.",
-      "url": "https://barryoreilly.com/explore/blog/six-counterintuitive-trends-for-2026/",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Culture becomes the key differentiator as technology commoditizes",
-      "summary": "World Business Forum's 2026 trends argue that as AI and technology become broadly accessible, competitive differentiation increasingly comes from culture — how people collaborate, make decisions and stay engaged. In labor-intensive senior housing, where staff retention drives both quality and margin, culture-led leadership is a tangible operational advantage.",
-      "url": "https://wbf.wobi.com/5-management-trends-for-2026-every-leader-should-know/",
+      "headline": "Culture and adaptive learning define 2026 leadership edge",
+      "summary": "As technology commoditizes, the Aspen Institute and others say differentiation will come from culture — how teams collaborate, decide and stay engaged — and from learning fastest when strategies break. People-centric operating cultures are a durable advantage in care-driven businesses.",
+      "url": "https://www.aspeninstitute.org/blog-posts/what-will-great-business-leadership-look-like-in-2026/",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "U.S. News names 1,600+ communities 'Best Senior Living' for 2026",
-      "summary": "More than 1,600 communities received the 'Best Senior Living' designation from U.S. News & World Report, a recognition that increasingly influences consumer choice as occupancy tightens. Strong third-party ratings are becoming a meaningful lead-generation and differentiation tool for operators in competitive submarkets.",
-      "url": "https://seniorhousingnews.com/2026/04/13/over-1600-communities-receive-best-senior-living-designation-from-u-s-news-world-report/",
-      "category": "Senior Housing",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Emotional fitness emerges as new wellness category for 2026",
-      "summary": "2026 introduces 'emotional fitness' as a distinct health category emphasizing cognitive performance and emotional resilience, alongside hyper-personalized, data-driven wellness via biomarker nutrition and AI coaches. Senior housing operators can fold these holistic wellness pillars — fitness, mindfulness, nutrition, sleep — into programming that resonates with lifestyle-focused incoming residents.",
-      "url": "https://draxe.com/health/wellness-trends-2026/",
-      "category": "Lifestyle",
-      "importance": "LOW"
-    },
-    {
-      "headline": "89% of employees say prioritizing wellbeing lifts their performance",
-      "summary": "Wellhub's State of Work-Life Wellness 2026 finds 89% of employees perform better when they prioritize wellbeing, with scheduled restoration improving productivity, mood and resilience. For senior housing employers wrestling with staffing, holistic wellness benefits are emerging as both a retention and a performance lever.",
+      "headline": "Wellness now a top-ROI talent strategy as 89% link it to performance",
+      "summary": "Wellhub's 2026 State of Work-Life Wellness finds 89% of employees perform better when prioritizing wellbeing, making wellness one of the highest-ROI talent strategies. June's longer days favor social connection and outdoor movement — a cue for senior living wellness programming and staff engagement.",
       "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
       "category": "Lifestyle",
-      "importance": "LOW"
+      "importance": "MEDIUM"
     },
     {
-      "headline": "Incap restructures leadership into regional model to fuel growth",
-      "summary": "Incap Corporation reorganized its management on June 10, 2026 into a geographically organized model with new regional presidents for Asia Pacific and Europe, citing more effective leadership and growth-strategy execution. The move mirrors the broader 'strategic localization' trend of decentralizing decision-making closer to regional markets.",
-      "url": "https://www.tradingview.com/news/modular_finance:1d67e367b06c3:0-changes-in-incap-s-management-team-incap-updates-its-leadership-model-to-support-its-growth-strategy/",
-      "category": "Leadership",
-      "importance": "LOW"
-    },
-    {
-      "headline": "June ushers in outdoor movement and social-connection wellness push",
-      "summary": "Longer days and warmer weather make June ideal for leaning into social connection and outdoor movement — two engagement drivers that often fade in hybrid environments. Senior living communities can capitalize seasonally with outdoor programming that supports both resident wellbeing and staff engagement.",
-      "url": "https://wellhub.com/en-us/blog/wellness-and-benefits-programs/employee-wellness-calendar/",
+      "headline": "'Emotional fitness' emerges as 2026's defining wellness category",
+      "summary": "The Global Wellness Summit names emotional fitness — pairing cognitive performance with emotional resilience — as a leading 2026 trend, alongside personalization and prevention. Senior living communities can differentiate by building these evidence-based wellness principles into resident lifestyle offerings.",
+      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
       "category": "Lifestyle",
-      "importance": "LOW"
-    },
-    {
-      "headline": "NIC MAP expands coverage to 214 markets for sharper sector visibility",
-      "summary": "NIC MAP expanded its data coverage to 214 markets, giving investors and operators deeper visibility into senior housing performance across more metros. Broader, more granular data supports better underwriting and benchmarking — useful for operators evaluating expansion into secondary and tertiary markets.",
-      "url": "https://www.streetinsider.com/Business+Wire/NIC+MAP+Expands+Coverage+to+214+Markets,+Providing+New+Visibility+Into+Senior+Housing+Performance/26406403.html",
-      "category": "Senior Housing",
       "importance": "LOW"
     }
   ]
