@@ -3,7 +3,7 @@
   "takeaways": [
     "Senior housing occupancy hit 89.5% in Q1 — the 19th straight quarterly gain — and is on pace to break 90% this year, while permanent lending sits at multi-year highs ($2.5B in Q4 alone).",
     "The Fed is holding at 3.50%–3.75% with no cut priced before September, yet CRE lending is projected to jump 38% to $805B in 2026 — capital is flowing without rate relief.",
-    "The AI adoption gap is stark: 88% of CRE firms are piloting AI but only 5% are hitting program goals — winners embed AI into existing workflows, as Zillow's Gemini partnership shows."
+    "Buckled columns at NYC's Pfizer HQ office-resi conversion put Madison Realty Capital's record $720M loan in the spotlight — a harsh reality check for the conversion boom as lenders rethink complex projects."
   ],
   "items": [
     {
@@ -11,6 +11,27 @@
       "summary": "NIC MAP data shows occupancy up 230 bps over twelve months, rising ~50 bps per quarter for two-plus years. Industry-wide occupancy should push past 90% later in 2026 — pricing power is shifting to operators like Lloyd Jones as supply stays disciplined.",
       "url": "https://www.nicmap.com/blog/senior-housing-five-key-trends-to-watch-in-2026/",
       "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Anatomy of a Buckle: Pfizer HQ conversion scare rattles NYC office-resi",
+      "summary": "Workers found buckled columns and bending beams on the 21st floor of Metro Loft's mammoth Pfizer HQ conversion, forcing evacuations before the building stabilized. Nathan Berman is in triage mode on Madison Realty Capital's record $720M loan ($550/sf basis), with Mayor Mamdani calling it 'an extremely serious situation' — headline risk now hangs over every big conversion player from Vanbarton to RXR. (via The Promote)",
+      "url": "https://www.thepromote.com/p/anatomy-of-a-buckle",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "WSJ: NYC high-rise scare is reality check for office-to-apartment boom",
+      "summary": "After the partial-collapse risk at the former Pfizer headquarters, investors and lenders tell the WSJ they're reconsidering commitments to complex conversions. A sentiment shift here could tighten financing for the conversion pipeline nationwide. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/real-estate/nyc-high-rise-scare-is-harsh-reality-check-for-office-to-apartment-conversion-boom-8656d4be",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "S2pocalypse: Scott Everett declares $400M multifamily fund a total loss",
+      "summary": "S2 Capital's GP confirmed the $400M value-add multifamily fund is a complete wipeout — the capstone of the syndication era's Icarus arc. A cautionary tale on floating-rate leverage and aggressive underwriting that strengthens the case for disciplined operators. (via The Promote)",
+      "url": "https://podcasts.apple.com/us/podcast/s2pocalypse-now-pimcos-puppet-master/id1801355295?i=1000775942398",
+      "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
@@ -56,6 +77,20 @@
       "importance": "HIGH"
     },
     {
+      "headline": "Pimco's puppet master: lenders set up for payday on Columbia Property bust",
+      "summary": "The Promote's podcast digs into Pimco's lifeline on its Columbia Property Trust office bet and how Greenbarn and Axonic, who stepped in after default, positioned for a massive payday. A useful lens on the opportunities deep in the capital stack. (via The Promote)",
+      "url": "https://podcasts.apple.com/us/podcast/s2pocalypse-now-pimcos-puppet-master/id1801355295?i=1000775942398",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Wall Street's peace trade collides with renewed Iran fighting",
+      "summary": "The explosive end of the Iran ceasefire threatens to reopen ruptures in the oil market, catching investors positioned for de-escalation offside. Renewed energy volatility is a watch item for inflation — and therefore the Fed's rate path. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/stocks/wall-streets-peace-trade-collides-with-renewed-iran-fighting-86b83d67",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
       "headline": "LTC Properties upsizes credit facility to $1.1B; $41.1M construction loan on Long Island",
       "summary": "LTC boosted commitments from $800M to $1.1B, and Benchmark Senior Living with National Development secured a JLL-arranged $41.1M construction loan for a new East Islip, NY community. Fresh evidence that both REIT credit and construction debt are open for senior housing.",
       "url": "https://www.mcknightsseniorliving.com/news/actions-transactions-july-6-2026/",
@@ -74,6 +109,20 @@
       "summary": "Fannie Mae and Freddie Mac expanded capacity as MBA projects a 24% rise in total CRE lending. Agency debt remains the backbone of multifamily and seniors housing finance — more room for competitive takeout financing this year.",
       "url": "https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/capital-markets",
       "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "China weighs limits on the AI models American companies love",
+      "summary": "Beijing is considering tightening its grip on homegrown AI models widely used by U.S. firms as the AI supremacy race heats up. Potential restrictions could reshape vendor choices for companies building on open Chinese models. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "San Francisco home prices jump 22.2% as AI boom lifts real estate",
+      "summary": "The median single-family home price in San Francisco surged 22.2%, driven by the city's AI hiring and wealth wave. A vivid example of AI-industry growth translating directly into housing demand and pricing power. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/san-francisco-real-estate-ai-boom-4eea9d24",
+      "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
@@ -129,6 +178,13 @@
       "headline": "'Movement snacks' and AI wearables reshape everyday fitness",
       "summary": "Short movement bursts throughout the day are displacing long workouts, while wearables pair biometric data with AI-generated fitness plans. Both trends translate well to active-adult and independent-living wellness programs.",
       "url": "https://draxe.com/health/wellness-trends-2026/",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "He earns $33 an hour as a Costco cashier. Now he's a millionaire.",
+      "summary": "WSJ profiles Tony Barzar, one of Costco's rank-and-file 'secret weapons' who built seven-figure wealth on an hourly wage. A feel-good case study in long-tenure compensation design and employee ownership culture. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/business/retail/he-earns-33-an-hour-as-a-costco-cashier-now-hes-a-millionaire-1e9ba725",
       "category": "Lifestyle",
       "importance": "LOW"
     }
