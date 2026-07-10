@@ -1,9 +1,9 @@
 {
   "date": "2026-07-10",
   "takeaways": [
-    "The former Pfizer HQ office-to-resi tower buckled in Midtown, evacuating the building and testing Madison Realty Capital's record $720M loan — a harsh reality check for the conversion trend meant to absorb distressed office space.",
-    "Senior housing occupancy hit 89.9% in Q2 2026 (90%+ in 15 of 31 primary markets), a 20th straight quarter of gains, while inventory growth stays below 1% and operating margins top 25% — pushing operators toward service expansion.",
-    "A ~$936B CRE debt maturity wall looms in 2026 with office loans 68% in special servicing this month, even as the 10-year Treasury holds at 4.00–4.25% and lenders keep underwriting disciplined."
+    "The former Pfizer HQ office-to-resi tower buckled in Midtown, testing Madison Realty Capital's record $720M loan — a reality check for conversions as investors and lenders rethink complex adaptive-reuse deals.",
+    "Senior housing keeps compounding: occupancy hit 89.9% in Q2 2026, and dealmaking stayed hot in early July with NHP closing $197M across 16 communities and Brookdale refinancing part of its 2027 maturities.",
+    "CRE distress and caution persist — $913M of Texas loans headed to July foreclosure auctions and ~$875B in debt maturing in 2026 — while a hawkish Fed under Kevin Warsh holds at 3.50%–3.75% with a July 29 decision looming."
   ],
   "items": [
     {
@@ -22,22 +22,22 @@
     },
     {
       "headline": "Senior housing occupancy hits 89.9% in Q2 2026",
-      "summary": "Senior living occupancy reached 89.9% in Q2 2026, hitting or exceeding 90% in 15 of the 31 primary markets — the 20th consecutive quarter of gains as demand outpaces a thin development pipeline. With supply stalled, operators are pivoting to service expansion as a competitive necessity. The sustained occupancy strength supports elevated acquisition interest across the sector. (via web search)",
+      "summary": "Senior living occupancy reached 89.9% in Q2 2026, hitting or exceeding 90% in 15 of the 31 primary markets — the 20th consecutive quarter of gains as demand outpaces a thin development pipeline. With supply stalled, operators are pivoting to service expansion as a competitive necessity. The sustained occupancy strength supports elevated acquisition interest across the sector.",
       "url": "https://www.mcknightsseniorliving.com/news/senior-living-operators-pivot-to-service-expansion-as-occupancy-grows-supply-stalls/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "~$936B CRE maturity wall looms; office loans 68% in special servicing",
-      "summary": "Nearly $936B in U.S. commercial real estate loans mature in 2026, with retail leading July CMBS maturities at $1.18B (46%) and office at $840M (33%). For office, 68.4% of the July maturity balance is already in special servicing, signaling workouts ahead of outright default where refinances are out of reach. Roughly $1.5 trillion in CRE debt must be refinanced, sold or recapitalized across 2025–2027. (via web search)",
-      "url": "https://finance.yahoo.com/real-estate/articles/retail-leads-july-cmbs-maturity-081633372.html",
-      "category": "Capital Markets",
+      "headline": "NHP closes $197M in deals; Brookdale addresses 2027 debt maturities",
+      "summary": "National Healthcare Properties closed roughly $197M across two transactions — 14 communities for $99M in early July plus two Midwest communities for $98M in late June. Separately, Brookdale Senior Living completed two financing transactions addressing part of its 2027 debt maturities while expanding and extending its revolving credit agreement. Both signal that senior housing acquisition and refinancing capital is actively flowing this summer.",
+      "url": "https://seniorhousingnews.com/2026/07/08/senior-living-dealbook-nhp-closes-on-197m-transactions-brookdale-addresses-portion-of-debt-maturities/",
+      "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "NYC high-rise scare a reality check for office-to-apartment conversions",
-      "summary": "After the partial-collapse risk at the former Pfizer headquarters, investors and lenders say they are reconsidering future commitments to complex real-estate conversions. The incident is a harsh reality check for the office-to-apartment trend many had counted on to absorb distressed office space. It could tighten capital availability for adaptive-reuse deals nationwide. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/real-estate/nyc-high-rise-scare-is-harsh-reality-check-for-office-to-apartment-conversion-boom-8656d4be",
+      "headline": "$913M of Texas CRE loans headed to July foreclosure auctions",
+      "summary": "Roughly $913M in Texas commercial real estate loans were flagged for July foreclosure auctions, per The Real Deal's distress report — down from surges past $1B in May and June but still elevated. The pipeline spans office, multifamily and retail as owners struggle to refinance maturing debt at today's rates. It's a reminder that distress remains concentrated in overleveraged, rate-sensitive assets.",
+      "url": "https://therealdeal.com/texas/2026/07/06/texas-biggest-loans-headed-to-foreclosure-auctions-in-july/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
@@ -49,30 +49,44 @@
       "importance": "HIGH"
     },
     {
-      "headline": "Iran ceasefire collapse threatens Wall Street's peace trade",
-      "summary": "President Trump's Iran peace plan fell apart, and the explosive end of the ceasefire threatens to reopen ruptures in the oil market. Wall Street's 'peace trade' is now colliding with renewed Iran fighting, raising fresh volatility for energy prices and equities that could ripple into rates and CRE financing conditions. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/finance/stocks/wall-streets-peace-trade-collides-with-renewed-iran-fighting-86b83d67",
+      "headline": "NYC high-rise scare a reality check for office-to-apartment conversions",
+      "summary": "After the partial-collapse risk at the former Pfizer headquarters, investors and lenders say they are reconsidering future commitments to complex real-estate conversions. The incident is a harsh reality check for the office-to-apartment trend many had counted on to absorb distressed office space. It could tighten capital availability for adaptive-reuse deals nationwide. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/real-estate/nyc-high-rise-scare-is-harsh-reality-check-for-office-to-apartment-conversion-boom-8656d4be",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "2026 senior living: demand leads as capital reopens",
-      "summary": "Senior living enters 2026 with strong momentum as demand from older adults rises and development pipelines stay thin by historical standards. Capital is reopening to the sector, drawing institutional and private buyers seeking scalable exposure to a long-duration demand curve. The setup favors well-capitalized operators positioned to acquire and expand. (via web search)",
-      "url": "https://www.multihousingnews.com/senior-living-trends/",
+      "headline": "Hawkish Fed holds at 3.50%–3.75% ahead of July 29 decision",
+      "summary": "June FOMC minutes show officials split on direction, with some making the case for a hike as 2026 PCE inflation projections were raised to 3.6%. The Fed has now held for four straight meetings, and a weak June jobs report (payrolls up just 57,000 vs. 115,000 expected) trimmed July hike odds to roughly 25–30% ahead of the July 29 decision. For CRE, it reinforces underwriting to current rates rather than hoped-for cuts.",
+      "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Benchmark, National Development acquire NY senior living site",
+      "summary": "Benchmark Senior Living and National Development acquired an East Islip, New York site to develop a 90-unit assisted living and memory care community slated to open in 2028, while Asbury Place Maryville rebranded. The deal reflects continued appetite for new senior housing development in supply-constrained Northeast markets despite elevated construction costs.",
+      "url": "https://seniorhousingnews.com/2026/07/01/senior-living-dealbook-benchmark-national-development-acquire-new-york-site-asbury-place-maryville-rebrands/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Senior housing inventory growth below 1% as margins top 25%",
-      "summary": "Inventory growth has fallen below 1% for four consecutive quarters — the lowest since NIC MAP began tracking supply in 2006 — while average operating margins surpassed 25% in mid-2025, the highest since 2018. Rent growth has normalized above 4% annually as occupancy and rents outpace expense inflation. Constrained new supply should keep acquisition activity elevated through 2026. (via web search)",
-      "url": "https://www.nicmap.com/blog/senior-housing-five-key-trends-to-watch-in-2026/",
-      "category": "Senior Housing",
+      "headline": "Breakthrough Properties lands $465M CMBS loan for San Diego life-science campus",
+      "summary": "Breakthrough Properties secured a $465M CMBS loan for a 520,000-square-foot life-science campus in San Diego, with JPMorgan Chase funding and Deutsche Bank and Goldman Sachs as co-lenders. The financing shows large-scale CMBS debt remains available for high-quality, specialized assets even amid a cautious lending market. (via web search)",
+      "url": "https://www.commercialsearch.com/news/commercial-real-estate-transactions/",
+      "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "10-year Treasury holds at 4.00–4.25% as CRE underwriting stays disciplined",
-      "summary": "Most fixed-rate CRE loans price off the 10-Year Treasury, which has stabilized around 4.00%–4.25% since mid-2025, with commercial mortgage rates ranging roughly 5.15%–8.81% by property and credit. Debt capital remains available with ample dry powder, but underwriting stays disciplined and borrowers refinancing face materially tougher terms than at acquisition. (via web search)",
-      "url": "https://www.commercialrealestate.loans/commercial-mortgage-rates/",
+      "headline": "Digital Realty to pay $3.5B to expand Northern Virginia data centers",
+      "summary": "Digital Realty agreed to pay $3.5B to increase its ownership stake in three Northern Virginia data centers totaling 288 megawatts of capacity under construction. The deal underscores how AI-driven demand is channeling record capital into data-center real estate, a bright spot amid broader CRE caution. (via web search)",
+      "url": "https://www.commercialsearch.com/news/commercial-real-estate-transactions/",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Iran ceasefire collapse threatens Wall Street's peace trade",
+      "summary": "President Trump's Iran peace plan fell apart, and the explosive end of the ceasefire threatens to reopen ruptures in the oil market. Wall Street's 'peace trade' is now colliding with renewed Iran fighting, raising fresh volatility for energy prices and equities that could ripple into rates and CRE financing conditions. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/stocks/wall-streets-peace-trade-collides-with-renewed-iran-fighting-86b83d67",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
@@ -84,10 +98,17 @@
       "importance": "MEDIUM"
     },
     {
-      "headline": "Warner-Paramount merger to carry nearly $80B in debt",
-      "summary": "The merger of Paramount Skydance and Warner Bros. Discovery is set to emerge with nearly $80 billion in debt. That burden could weigh on key decisions — from streaming investment to sports rights — under David Ellison's combined company, a reminder of how leverage constrains strategy in a high-rate environment. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/media/the-80-billion-debt-cloud-hanging-over-david-ellisons-warner-deal-aaf8aabd",
-      "category": "Capital Markets",
+      "headline": "Proptech AI funding accelerates; 2026 pace could top $20B",
+      "summary": "AI-native proptech is drawing record capital: January 2026 alone attracted $1.7B (up 176% year over year), and if the pace holds, full-year 2026 proptech investment could exceed $20B — the largest on record. The strongest startups embed intelligence into existing systems rather than replacing them, favoring faster adoption and measurable ROI for operators. (via web search)",
+      "url": "https://www.theaiconsultingnetwork.com/blog/proptech-ai-investment-surge-2026-cre-investors",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "July 1 brings CEO changeovers at Dow, BHP and Bosch",
+      "summary": "A wave of leadership transitions took effect July 1: Dow named COO Karen S. Carter as CEO, BHP installed Brandon Craig, and Bosch elevated Dr. Christian Fischer to replace Dr. Stefan Hartung. The reshuffle across industrials and materials signals boards prioritizing operational leaders as companies navigate a slower-growth, higher-cost environment. (via web search)",
+      "url": "https://intellizence.com/insights/executive-appointments/latest-ceo-changes-and-appointments/",
+      "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
@@ -98,51 +119,23 @@
       "importance": "MEDIUM"
     },
     {
-      "headline": "Union alarm and political scrutiny hit Pfizer tower conversion",
-      "summary": "A steamfitters' union rep alleged the developers 'chose profit over safety,' saying the I-beams were bending — a claim Berman dismissed as 'total nonsense.' Gov. Kathy Hochul weighed in, local reporting surfaced a history of site safety violations, and Mamdani-administration officials are expected to demand detailed updates. Regulatory and labor scrutiny adds risk to high-profile conversions. (via The Promote)",
-      "url": "https://therealdeal.com/new-york/2026/07/07/freak-accident-pfizer-building-developer-denies-risk-of-collapse/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Proptech market hits $44.6B as AI reshapes real estate operations",
-      "summary": "The global proptech market is estimated at $44.59 billion in 2026, up from $40.19 billion in 2025, as AI moves from experimentation to adoption. Zillow's new partnership with Google Gemini lets U.S. renters discover listings and schedule tours directly through the assistant, while operators increasingly treat predictive maintenance and portfolio analytics as standard infrastructure. (via web search)",
-      "url": "https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli/trends/proptech-impact.html",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Business leaders enter 2026 confident but wary of the economy",
-      "summary": "In J.P. Morgan's 2026 outlook, 71% of leaders are confident in their own company's performance, though 49% cite uncertain economic conditions as a top challenge. New products/services lead growth strategies (up to 58%), strategic partnerships rose to 49%, and M&A appetite climbed 8 points to 39%. The dealmaking appetite signals continued consolidation pressure. (via web search)",
-      "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "HousApp raises €4.3M as AI proptech funding accelerates",
-      "summary": "HousApp, an AI platform for real estate agents, raised €4.3 million in seed funding led by Arches Capital and Antler, while Xpanner landed an $18 million Series B to retrofit construction equipment with robotics. The strongest startups are embedding AI into existing infrastructure rather than replacing it, favoring faster adoption and measurable ROI. (via web search)",
+      "headline": "HousApp raises €4.3M for AI platform serving real estate agents",
+      "summary": "HousApp, an AI platform that automates administrative work for real estate agents, raised €4.3M in a July 6 seed round led by Arches Capital and Antler with angel participation. The tool supports agents across the full sales process, from first seller contact to closing — another sign of capital flowing into AI tools that augment, rather than replace, existing real estate workflows. (via web search)",
       "url": "https://proptechconnect.com/housapp-secures-e43-million-to-expand-its-ai-platform-for-real-estate-agents",
       "category": "AI/Tech",
       "importance": "LOW"
     },
     {
-      "headline": "Over half of talent leaders adding autonomous AI agents in 2026",
-      "summary": "More than half of talent leaders plan to add autonomous AI agents to their teams in 2026, as leadership development stays HR's top priority and automation absorbs administrative work. The shift lets teams move from process to priorities, rewarding organizations that learn fastest when strategies break. (via web search)",
-      "url": "https://www.houston.org/news/hr-and-talent-trends-shaping-2026/",
-      "category": "Leadership",
-      "importance": "LOW"
-    },
-    {
-      "headline": "'Emotional fitness' emerges as 2026's defining wellness category",
-      "summary": "2026 introduces emotional fitness as a new health category emphasizing cognitive performance and emotional resilience, with research showing 89% of employees perform better when prioritizing wellbeing. Employees increasingly favor gyms and wellness hubs over bars as 'third places' for managing stress — a cue for senior living amenity and staff-wellness programming. (via web search)",
-      "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
+      "headline": "Yale study links positive views on aging to real health gains",
+      "summary": "A Yale School of Public Health study tracking nearly 4,000 adults aged 19–94 over three years found 45% of adults 65+ improved in at least one area — about 32% cognitively and 28% physically — with those holding more positive attitudes about aging significantly more likely to gain. The findings reinforce the value of engagement- and purpose-driven programming in senior living communities. (via web search)",
+      "url": "https://www.success.com/longevity-research-2026-new-findings",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "Sleep optimization named the ultimate 2026 health upgrade",
-      "summary": "Sleep optimization is heralded as 2026's ultimate health upgrade, moving from necessity to strategic wellness pillar, alongside hyper-personalized, data-driven nutrition and AI wellness coaches. The trend points to resident and employee wellness offerings built around recovery and biometric personalization. (via web search)",
-      "url": "https://draxe.com/health/wellness-trends-2026/",
+      "headline": "GLP-1 microdosing for longevity draws expert caution",
+      "summary": "A wave of July coverage examined the growing practice of taking sub-therapeutic 'microdoses' of GLP-1 drugs for purported longevity and wellness benefits, with telehealth clinics marketing the approach directly to consumers. Experts caution that GLP-1s were never designed or studied for longevity use — a trend worth watching as it reaches older adults and wellness programming. (via web search)",
+      "url": "https://www.readinsearchof.com/p/the-weekly-brief-longevity-and-preventative",
       "category": "Lifestyle",
       "importance": "LOW"
     },
