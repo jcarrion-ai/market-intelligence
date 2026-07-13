@@ -1,149 +1,149 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-13",
   "takeaways": [
-    "The former Pfizer HQ office-to-resi tower buckled in Midtown, testing Madison Realty Capital's record $720M loan — a reality check for conversions as investors and lenders rethink complex adaptive-reuse deals.",
-    "Senior housing keeps compounding: occupancy hit 89.9% in Q2 2026, and dealmaking stayed hot in early July with NHP closing $197M across 16 communities and Brookdale refinancing part of its 2027 maturities.",
-    "CRE distress and caution persist — $913M of Texas loans headed to July foreclosure auctions and ~$875B in debt maturing in 2026 — while a hawkish Fed under Kevin Warsh holds at 3.50%–3.75% with a July 29 decision looming."
+    "New Fed Chair Kevin Warsh faces his first big call — whether to undo last year's rate cuts — as economists say the Iran war left inflation stickier and boxed the Fed in, reinforcing higher-for-longer underwriting for CRE and senior housing debt.",
+    "Senior housing momentum holds: M&A is still surging in a seller's market, and development is advancing (Thrive's 400-unit Tennessee campus, NYC's 229 affordable senior homes) even as a thin pipeline pushes operators to lean on data.",
+    "CRE credit is splitting — June brought relief as $3.49B of CMBS loans cured and office delinquency eased to ~11.2%, but more than half of ~$100B in 2026 securitized maturities may not pay off, and NYC opened an investigation into the buckling Pfizer-HQ conversion."
   ],
   "items": [
     {
-      "headline": "Former Pfizer HQ conversion tower buckles, Midtown evacuated",
-      "summary": "Workers at the former Pfizer HQ office-to-residential conversion found buckled columns and bending beams on the 21st floor, forcing evacuation before the building was stabilized. Co-developer Nathan Berman of Metro Loft dismissed the structural concerns as 'very small' and part of construction, but the scare reignited debate over whether large office-to-resi conversions are worth the trouble. For senior housing operators eyeing adaptive-reuse, it underscores the execution risk in complex conversions. (via The Promote)",
-      "url": "https://therealdeal.com/new-york/2026/07/07/freak-accident-pfizer-building-developer-denies-risk-of-collapse/",
+      "headline": "Warsh's first big call: whether to undo last year's rate cuts",
+      "summary": "New Federal Reserve Chair Kevin Warsh faces his first major decision — whether to reverse the interest-rate cuts made last year — an early signal of his monetary-policy direction. For CRE and senior housing borrowers, the prospect of a hawkish reversal reinforces underwriting to current rates rather than hoped-for relief. It keeps financing costs front and center heading into the next FOMC meeting. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/economy/central-banking/warshs-first-big-call-whether-to-undo-last-years-cuts-cdcdb367",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Madison Realty Capital's record $720M office-resi loan under scrutiny",
-      "summary": "Madison Realty Capital set a record for NYC's largest office-resi loan, lending the Pfizer HQ developers $720M — a basis of roughly $550/sf or ~$450K per unit — split into senior and mezzanine notes. Berman told Bloomberg the buckling incident wouldn't impact the loan, noting the project is ahead of schedule, though Madison would scrutinize Bad Boy carveouts and completion guarantees if the situation escalated. The episode is a live test of conversion-lending risk. (via The Promote)",
-      "url": "https://www.thepromote.com/p/record-office-resi-financing-meridian-rainmaker-feud-goes-nuclear",
+      "headline": "Quarter-trillion-dollar AI bond onslaught tests investors' limits",
+      "summary": "The investment-grade bond market struggled to absorb roughly $75B of recent issuance from Nvidia, SpaceX and Amazon, as Wall Street signals tech firms to slow their historic AI-infrastructure borrowing spree. It marks a shift from earlier in 2026 when investors eagerly funded AI hyperscalers. Tighter appetite for AI debt could ripple into broader credit conditions that affect CRE lending. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/investing/the-quarter-trillion-dollar-onslaught-of-ai-bonds-is-testing-investors-limits-e4cd2bda",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior housing occupancy hits 89.9% in Q2 2026",
-      "summary": "Senior living occupancy reached 89.9% in Q2 2026, hitting or exceeding 90% in 15 of the 31 primary markets — the 20th consecutive quarter of gains as demand outpaces a thin development pipeline. With supply stalled, operators are pivoting to service expansion as a competitive necessity. The sustained occupancy strength supports elevated acquisition interest across the sector.",
-      "url": "https://www.mcknightsseniorliving.com/news/senior-living-operators-pivot-to-service-expansion-as-occupancy-grows-supply-stalls/",
+      "headline": "NYC opens investigation into buckling Manhattan office conversion",
+      "summary": "New York City's Department of Investigation launched an inquiry into the Manhattan high-rise — the former Pfizer HQ office-to-residential conversion — where two supporting columns buckled earlier in the week. The official scrutiny escalates a case that had already rattled conversion lenders backing Madison Realty Capital's record $720M loan. For senior housing operators eyeing adaptive reuse, it underscores the execution and regulatory risk in complex conversions. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/us-news/new-york-city-department-of-investigation-opens-inquiry-into-buckling-office-building-f8f27939",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Senior living M&A still surging in a selective seller's market",
+      "summary": "Senior living M&A remains competitive and hot in 2026, with continued positive sentiment and new investors chasing strong operators and stabilized properties. The dynamic keeps it a seller's market as buyers compete for scarce quality assets amid a thin development pipeline. Sustained demand supports elevated valuations for well-run senior housing portfolios. (via web search)",
+      "url": "https://seniorhousingnews.com/2026/07/01/competitive-selective-hot-senior-living-ma-still-surging-in-2026/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "NHP closes $197M in deals; Brookdale addresses 2027 debt maturities",
-      "summary": "National Healthcare Properties closed roughly $197M across two transactions — 14 communities for $99M in early July plus two Midwest communities for $98M in late June. Separately, Brookdale Senior Living completed two financing transactions addressing part of its 2027 debt maturities while expanding and extending its revolving credit agreement. Both signal that senior housing acquisition and refinancing capital is actively flowing this summer.",
-      "url": "https://seniorhousingnews.com/2026/07/08/senior-living-dealbook-nhp-closes-on-197m-transactions-brookdale-addresses-portion-of-debt-maturities/",
-      "category": "Senior Housing",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "$913M of Texas CRE loans headed to July foreclosure auctions",
-      "summary": "Roughly $913M in Texas commercial real estate loans were flagged for July foreclosure auctions, per The Real Deal's distress report — down from surges past $1B in May and June but still elevated. The pipeline spans office, multifamily and retail as owners struggle to refinance maturing debt at today's rates. It's a reminder that distress remains concentrated in overleveraged, rate-sensitive assets.",
-      "url": "https://therealdeal.com/texas/2026/07/06/texas-biggest-loans-headed-to-foreclosure-auctions-in-july/",
+      "headline": "CMBS delinquencies improve sharply in June as $3.49B of loans cured",
+      "summary": "About $3.49B of previously delinquent CMBS loans were made performing again in June, cutting the overall delinquent volume by 3.7%, while office delinquency eased to roughly 11.2% from January's all-time high near 12.3%. The improvement suggests distress may be stabilizing off peak levels even as office remains ground zero. It offers a modest positive signal for CRE credit conditions. (via web search)",
+      "url": "https://crenews.com/2026/07/10/cmbs-delinquency-numbers-see-big-improvement-in-june/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "China weighs limits on AI models American companies rely on",
-      "summary": "As the AI supremacy race heats up, Beijing is considering tightening its grip on homegrown AI models that U.S. companies increasingly depend on. The move could disrupt American firms — including proptech and operations vendors — that have built products atop Chinese-developed open models. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b",
-      "category": "AI/Tech",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "NYC high-rise scare a reality check for office-to-apartment conversions",
-      "summary": "After the partial-collapse risk at the former Pfizer headquarters, investors and lenders say they are reconsidering future commitments to complex real-estate conversions. The incident is a harsh reality check for the office-to-apartment trend many had counted on to absorb distressed office space. It could tighten capital availability for adaptive-reuse deals nationwide. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/real-estate/nyc-high-rise-scare-is-harsh-reality-check-for-office-to-apartment-conversion-boom-8656d4be",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Hawkish Fed holds at 3.50%–3.75% ahead of July 29 decision",
-      "summary": "June FOMC minutes show officials split on direction, with some making the case for a hike as 2026 PCE inflation projections were raised to 3.6%. The Fed has now held for four straight meetings, and a weak June jobs report (payrolls up just 57,000 vs. 115,000 expected) trimmed July hike odds to roughly 25–30% ahead of the July 29 decision. For CRE, it reinforces underwriting to current rates rather than hoped-for cuts.",
-      "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Benchmark, National Development acquire NY senior living site",
-      "summary": "Benchmark Senior Living and National Development acquired an East Islip, New York site to develop a 90-unit assisted living and memory care community slated to open in 2028, while Asbury Place Maryville rebranded. The deal reflects continued appetite for new senior housing development in supply-constrained Northeast markets despite elevated construction costs.",
-      "url": "https://seniorhousingnews.com/2026/07/01/senior-living-dealbook-benchmark-national-development-acquire-new-york-site-asbury-place-maryville-rebrands/",
+      "headline": "Thrive plans 400-unit, 80-acre senior living campus in Tennessee",
+      "summary": "Thrive Senior Living unveiled plans for an 80-acre campus in Ooltewah, Tennessee, with roughly 400 units spanning 55+ single-family homes for sale, independent living cottages and apartments, assisted living and memory care. The full-continuum scale reflects developer confidence in long-run demand despite elevated construction costs. It's a notable pipeline addition in a supply-constrained sector. (via web search)",
+      "url": "https://seniorhousingnews.com/2026/07/09/in-the-pipeline-thrive-plans-tennessee-development-redico-ciel-announce-jv/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Breakthrough Properties lands $465M CMBS loan for San Diego life-science campus",
-      "summary": "Breakthrough Properties secured a $465M CMBS loan for a 520,000-square-foot life-science campus in San Diego, with JPMorgan Chase funding and Deutsche Bank and Goldman Sachs as co-lenders. The financing shows large-scale CMBS debt remains available for high-quality, specialized assets even amid a cautious lending market. (via web search)",
-      "url": "https://www.commercialsearch.com/news/commercial-real-estate-transactions/",
+      "headline": "NYC closes financing on 229 affordable senior homes in the Bronx",
+      "summary": "New York City announced the financial closing for Sol on Park, creating 229 affordable homes for older residents on NYCHA's Morris Houses campus, including 80 units for current NYCHA residents, 69 for formerly homeless seniors and 79 via the Housing Connect lottery. The deal highlights sustained public-sector capital for affordable senior housing in high-cost Northeast markets. It underscores demand at the affordable end of the spectrum. (via web search)",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/07/mamdani-administration-announces-financial-closing-for-sol-on-pa",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Senior living firms lean on data as new development stays tough",
+      "summary": "With ground-up projects still hard to pencil, senior living companies are increasingly using data and analytics to make more granular decisions about how and where to grow. Operators are weighing market-level demand, competitive supply and demographic signals before committing capital. The shift reflects disciplined, precision-driven growth in a constrained pipeline. (via web search)",
+      "url": "https://seniorhousingnews.com/2026/07/10/senior-living-companies-use-data-to-stay-ahead-of-development-difficulties/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Over half of 2026's ~$100B in CMBS maturities may not pay off",
+      "summary": "More than half of roughly $100B in securitized commercial mortgages maturing in 2026 are unlikely to pay off at maturity — a sharp drop from payoff rates above 80% in 2023 and around 75% in 2024–2025. The gap points to continued refinancing strain for rate-sensitive, overleveraged assets. It keeps maturity risk a central theme for CRE lenders and owners this year. (via web search)",
+      "url": "https://www.multihousingnews.com/cmbs-delinquency-rates/",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Digital Realty to pay $3.5B to expand Northern Virginia data centers",
-      "summary": "Digital Realty agreed to pay $3.5B to increase its ownership stake in three Northern Virginia data centers totaling 288 megawatts of capacity under construction. The deal underscores how AI-driven demand is channeling record capital into data-center real estate, a bright spot amid broader CRE caution. (via web search)",
-      "url": "https://www.commercialsearch.com/news/commercial-real-estate-transactions/",
+      "headline": "War leaves inflation stickier, boxing in the Fed on rate cuts",
+      "summary": "Economists project the Iran war did less economic damage than feared but left inflation more persistent, leaving the Federal Reserve little room to cut interest rates. The stickier backdrop constrains monetary policy and supports a higher-for-longer stance. For CRE and senior housing, it reinforces financing costs staying elevated through 2026. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/economy/central-banking/war-leaves-economy-with-more-stubborn-inflation-economists-project-b83af0ba",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Iran ceasefire collapse threatens Wall Street's peace trade",
-      "summary": "President Trump's Iran peace plan fell apart, and the explosive end of the ceasefire threatens to reopen ruptures in the oil market. Wall Street's 'peace trade' is now colliding with renewed Iran fighting, raising fresh volatility for energy prices and equities that could ripple into rates and CRE financing conditions. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/finance/stocks/wall-streets-peace-trade-collides-with-renewed-iran-fighting-86b83d67",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "San Francisco home prices surge 22.2% on AI wealth",
-      "summary": "The median single-family home price in San Francisco jumped 22.2% from May 2025 to May 2026 as AI wealth drives demand. Buyers are racing to buy ahead of anticipated public offerings from giants like OpenAI and Anthropic, concentrating housing-cost pressure in AI hubs. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/san-francisco-real-estate-ai-boom-4eea9d24",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Proptech AI funding accelerates; 2026 pace could top $20B",
-      "summary": "AI-native proptech is drawing record capital: January 2026 alone attracted $1.7B (up 176% year over year), and if the pace holds, full-year 2026 proptech investment could exceed $20B — the largest on record. The strongest startups embed intelligence into existing systems rather than replacing them, favoring faster adoption and measurable ROI for operators. (via web search)",
-      "url": "https://www.theaiconsultingnetwork.com/blog/proptech-ai-investment-surge-2026-cre-investors",
+      "headline": "Apple mounts 'thermonuclear' legal response to the OpenAI threat",
+      "summary": "Apple CEO Tim Cook is going on the offensive against OpenAI, betting that litigation can slow a rival from upending the iPhone era. The aggressive legal strategy frames Apple's defense of its core business as AI reshapes consumer devices. The fight signals how incumbents may use the courts to blunt AI disruption. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/tech/ai/apples-thermonuclear-response-to-the-openai-threat-8d51c814",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "July 1 brings CEO changeovers at Dow, BHP and Bosch",
-      "summary": "A wave of leadership transitions took effect July 1: Dow named COO Karen S. Carter as CEO, BHP installed Brandon Craig, and Bosch elevated Dr. Christian Fischer to replace Dr. Stefan Hartung. The reshuffle across industrials and materials signals boards prioritizing operational leaders as companies navigate a slower-growth, higher-cost environment. (via web search)",
-      "url": "https://intellizence.com/insights/executive-appointments/latest-ceo-changes-and-appointments/",
+      "headline": "Landowners strike it rich as AI data-center buildout accelerates",
+      "summary": "A Pennsylvania family received a $22M windfall for selling struggling farmland to a data-center developer, joining a new class of landowners cashing in on the AI infrastructure boom. The story shows how AI-driven demand is channeling record capital into land and real estate near power and fiber. It's a vivid marker of where AI dollars are flowing in the built environment. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/real-estate/commercial/the-americans-striking-it-rich-in-the-data-center-buildout-71c6a8a8",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Business leaders enter 2026 confident despite economic uncertainty",
+      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders confident about their own company's performance, even as optimism about their industry fell 9 points year over year and 49% cite uncertain economic conditions as a top concern. Growth strategies tilt toward new products or services, rising to 58% from 53%. The mix signals cautious optimism and a focus on controllable execution. (via web search)",
+      "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Conversion poster child Nathan Berman in crisis-management mode",
-      "summary": "Metro Loft principal Nathan Berman, the city's poster child for office-to-residential conversions, went into triage after the Pfizer HQ buckling — huddling with contractors, reassuring his lender and LPs, and managing city officials who had made the project a showpiece. The episode tests the operational discipline behind his prolific conversion track record. (via The Promote)",
-      "url": "https://www.thepromote.com/p/the-promote-nathan-berman-s-alchemy-tase-me-i-m-dreaming-condo-buyout-limbo-the-mouser-rebbe",
+      "headline": "Goldman GC Ruemmler digs in, complicating succession search",
+      "summary": "Goldman Sachs general counsel Kathryn Ruemmler is staying put rather than stepping aside, complicating the bank's search for a successor. Her decision, amid scrutiny over past ties, keeps a key leadership seat in limbo at a major CRE lender. Succession uncertainty at the top of legal is a governance watch item for the firm. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/kathryn-ruemmler-digs-in-at-goldman-complicating-search-for-next-general-counsel-e9e37afc",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "HousApp raises €4.3M for AI platform serving real estate agents",
-      "summary": "HousApp, an AI platform that automates administrative work for real estate agents, raised €4.3M in a July 6 seed round led by Arches Capital and Antler with angel participation. The tool supports agents across the full sales process, from first seller contact to closing — another sign of capital flowing into AI tools that augment, rather than replace, existing real estate workflows. (via web search)",
-      "url": "https://proptechconnect.com/housapp-secures-e43-million-to-expand-its-ai-platform-for-real-estate-agents",
+      "headline": "How to invest when the global crises never stop",
+      "summary": "WSJ's James Mackintosh argues the standard playbook for protecting portfolios against shocks may no longer work in a world of persistent wars, trade conflicts and extreme weather. He reassesses traditional hedges and diversification for an era of continuous disruption. The framing is a useful lens for long-horizon real estate allocators. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/investing/how-to-invest-when-the-global-crises-never-stop-3c8cc542",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "AI adoption in property management jumps from 20% to 58%",
+      "summary": "AI adoption in property management climbed from 20% in 2024 to 58% in 2025, though only 8% of firms had fully automated any process, per emerging-trends research. AI adopters expect 31% portfolio growth in 2026 versus 12% for non-adopters. The data suggests real operational upside for senior housing operators embedding AI into document-heavy workflows. (via web search)",
+      "url": "https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli/trends/proptech-impact.html",
       "category": "AI/Tech",
       "importance": "LOW"
     },
     {
-      "headline": "Yale study links positive views on aging to real health gains",
-      "summary": "A Yale School of Public Health study tracking nearly 4,000 adults aged 19–94 over three years found 45% of adults 65+ improved in at least one area — about 32% cognitively and 28% physically — with those holding more positive attitudes about aging significantly more likely to gain. The findings reinforce the value of engagement- and purpose-driven programming in senior living communities. (via web search)",
-      "url": "https://www.success.com/longevity-research-2026-new-findings",
+      "headline": "'Emotional fitness' emerges as a defining 2026 wellness category",
+      "summary": "2026 wellness trends spotlight 'emotional fitness' — pairing cognitive performance with emotional resilience — alongside a shift toward simpler, data-driven, personalized well-being. Research also links wellbeing to performance, with 89% of employees saying they work better when prioritizing it. The themes point to programming opportunities for engagement-focused senior living communities. (via web search)",
+      "url": "https://draxe.com/health/wellness-trends-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "GLP-1 microdosing for longevity draws expert caution",
-      "summary": "A wave of July coverage examined the growing practice of taking sub-therapeutic 'microdoses' of GLP-1 drugs for purported longevity and wellness benefits, with telehealth clinics marketing the approach directly to consumers. Experts caution that GLP-1s were never designed or studied for longevity use — a trend worth watching as it reaches older adults and wellness programming. (via web search)",
-      "url": "https://www.readinsearchof.com/p/the-weekly-brief-longevity-and-preventative",
+      "headline": "In the Galápagos, animals always come first",
+      "summary": "Ecuador is the only nation to grant animals distinct constitutional rights, and in the Galápagos it shows — marine iguanas sprawl across boardwalks and a sea lion named Panchito commandeers beach loungers on Isabela Island. The piece is a light travel read on how a place organizes life around its wildlife. A pleasant human-interest break from the market grind. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/lifestyle/travel/galapagos-islands-animals-constitution-ecuador-2e2be959",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "A Costco cashier earning $33 an hour becomes a millionaire",
-      "summary": "WSJ profiles Tony Barzar, a long-tenured Costco cashier-turned-millionaire and one of the retailer's 'secret weapons.' The story highlights how hourly employees earning around $33 an hour have built substantial wealth — a reminder of the retention value of stable pay and tenure in frontline workforces. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/retail/he-earns-33-an-hour-as-a-costco-cashier-now-hes-a-millionaire-1e9ba725",
+      "headline": "He's 17 and his family's de facto financial adviser",
+      "summary": "Dave Lee, a 17-year-old who taught himself investing in middle school, has become his family's go-to financial adviser, persuading his mother to open her first brokerage account and coaching his parents on retirement. The profile is a human-interest look at generational shifts in financial literacy. It's a reminder of how early money habits form. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/personal-finance/hes-17-years-old-and-his-familys-financial-adviser-37732ed2",
       "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "McKinsey: three moves to close the strategy-execution gap",
+      "summary": "New management research highlights the widening gap between the company leaders think they run and the one employees actually experience, and lays out actions to bridge strategy and execution. Redesigning how teams collaborate across time horizons is framed as a durable advantage. The guidance is relevant for multi-site operators aligning corporate strategy with frontline delivery. (via web search)",
+      "url": "https://hbr.org/the-latest",
+      "category": "Leadership",
       "importance": "LOW"
     }
   ]
