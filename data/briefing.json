@@ -1,150 +1,172 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "takeaways": [
-    "Senior housing hits 89.9% occupancy — its 20th straight quarterly gain — with $33.3B in trailing-12-month investment sales, up 83%. The demand-supply setup keeps improving for operators.",
-    "FIFA scrapped its $20B World Cup commercial-rights sale just 72 hours after the plan leaked — JPMorgan's pitch collapsed under global backlash.",
-    "Trump called off a fresh strike on Iran, saying 'the perimeters of a deal' to reopen the Strait of Hormuz are agreed — potential relief for freight costs and rate-sensitive CRE markets."
+    "South Florida is about to set a construction-financing record: JPMorgan is leading a ~$1.3B package for Stern and Soffer's 800-unit Mercedes-Benz Places in Brickell, eclipsing Ross's $800M CityPlace deal — proof that money is available for the right sponsor and the right story.",
+    "Senior housing occupancy hit 89.9% in Q2, the 20th straight quarter of gains, with fewer than 16,000 units under construction nationwide. Demand keeps climbing while supply stays frozen — the strongest operating setup in a decade.",
+    "The Fed held at 3.50–3.75% on a 9-3 vote with three members pushing for a hike, killing the easy-money narrative. Underwrite for flat-to-higher financing costs, not for rate relief."
   ],
   "items": [
     {
-      "headline": "Senior housing occupancy hits 89.9%, 20th consecutive quarterly gain",
-      "summary": "Occupied units rose nearly 3,700 in Q2 to 639,650, and NIC expects occupancy to top 90% before year-end. With fewer than 16,000 units under construction, the supply-demand imbalance keeps strengthening pricing power for operators like Lloyd Jones.",
-      "url": "https://finance.yahoo.com/real-estate/articles/senior-housing-occupancy-nears-90-143338764.html",
+      "headline": "JPMorgan Leads Record $1.3B Miami Construction Loan for Stern, Soffer",
+      "summary": "JDS Development's Michael Stern and new equity partner Jeff Soffer of Fontainebleau Development are finalizing a roughly $1.3B financing package led by JPMorgan for the 800-unit Mercedes-Benz Places tower in Brickell, including a ~$250M C-PACE slug from Nuveen. It would be South Florida's largest-ever construction financing, topping Steve Ross's ~$800M CityPlace package. Walker & Dunlop's Aaron Appel and Jonathan Schwartz are running the process, with both sponsors co-guaranteeing and a close expected next month. (via The Promote)",
+      "url": "https://www.thepromote.com/p/stern-soffer-near-record-jpm-financing-in-brickell",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Senior Housing Occupancy Hits 89.9%, 20th Straight Quarter of Gains",
+      "summary": "NIC MAP reports average occupancy across 31 primary markets reached 89.9% in Q2, up 40 basis points from Q1 and marking 20 consecutive quarters of growth. Fifteen of 31 markets are already at or above 90%, led by Boston (93.3%), San Francisco (92.7%) and Baltimore (91.8%). At the steady ~50 bps per quarter pace, industry-wide occupancy should clear 90% before year-end — a full recovery from the ~80% pandemic trough.",
+      "url": "https://seniorshousingbusiness.com/nic-seniors-housing-occupancy-nears-90-percent/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior housing investment sales surge 83% to $33.3B",
-      "summary": "Trailing-12-month investment sales through May reached $33.3 billion, up 83% year-over-year. Ventas alone has deployed nearly $5.7 billion into U.S. senior housing acquisitions since late 2024, including $1.7 billion this year — institutional capital is back in force.",
-      "url": "https://www.multihousingnews.com/senior-housing-bounces-into-its-golden-years/",
+      "headline": "Fed Holds at 3.50–3.75% on 9-3 Vote With Three Hawkish Dissents",
+      "summary": "The FOMC kept rates unchanged at Chairman Kevin Warsh's second meeting, but the 9-3 split — with Hammack, Kashkari and Logan all voting for a 25 bps increase — signals the next move may be up, not down. CRE borrowers counting on 2026 rate relief to refinance 2021-vintage debt should stress-test flat-to-higher scenarios instead.",
+      "url": "https://www.commercialsearch.com/news/fed-holds-rates-but-cre-focuses-on-whats-next/",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "SEC Charges Tampa REIT in $150M Faith-Flavored CRE Fraud",
+      "summary": "The SEC charged RAD Diversified REIT, run by Brandon \"Dutch\" Mendenhall and Amy Vaughn, with raising more than $150M from 5,500-plus investors under false pretenses while spending $5M+ on jewelry, jets and nightclubs. The firm touted 20% target returns and urged investors to tap IRAs, credit cards and home-equity loans, propping up sentiment with share valuations set by Mendenhall's brother. Over $50M allegedly moved to a private account; the REIT filed Chapter 11 in 2024. (via The Promote)",
+      "url": "https://www.thepromote.com/p/stern-soffer-near-record-jpm-financing-in-brickell",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Mamdani Rent Freeze Squeezes Bondholders on Teetering A&E CMBS Deal",
+      "summary": "New York City's rent freeze is cutting into cash flow at A&E Real Estate's rent-stabilized portfolio, piling pressure on an already strained CMBS capital structure. A live reminder that regulatory risk can impair debt service faster than any operating miss — relevant to any operator underwriting rent growth in politically active markets. (via The Promote)",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/mamdani-s-rent-freeze-heaps-pressure-on-a-teetering-cmbs-deal",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "LTC Properties Pushes 2026 Senior Housing Investments Toward $285M",
+      "summary": "LTC Properties acquired a Wisconsin senior living community for $40M and forged a new operating relationship with Health Dimensions Group, bringing year-to-date SHOP investments to nearly $285M. REIT capital is clearly reopening to senior housing operating structures — a favorable backdrop for operators seeking recapitalization partners.",
+      "url": "https://www.mcknightsseniorliving.com/news/ltc-properties-hdg-health-dimensions-group-shop-senior-housing-operating-portfolio-growth/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "FIFA scraps $20B World Cup commercial-rights sale after global revolt",
-      "summary": "Barely 72 hours after a leaked plan to sell part of the World Cup's commercial rights sparked outrage, FIFA President Gianni Infantino abandoned the proposal. JPMorgan had pitched a $20 billion valuation on the deal before the stunning reversal. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/sports/soccer/fifa-scraps-controversial-plan-to-sell-commercial-rights-to-private-investors-c9910a89",
-      "category": "Capital Markets",
+      "headline": "Under 16,000 Senior Housing Units Under Construction Nationwide",
+      "summary": "New senior housing construction remains near historic lows, with fewer than 16,000 total units under way as of Q2. With the 80+ population accelerating and no meaningful supply response, existing well-located communities hold pricing power that should persist for several years — the core thesis for stabilized acquisitions today.",
+      "url": "https://www.multihousingnews.com/senior-housing-market-update/",
+      "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Trump calls off new Iran attack, citing agreed deal framework",
-      "summary": "President Trump called off a planned strike after Iranian drone attacks on Kuwait widened the conflict, saying 'the perimeters of a deal' to reopen the Strait of Hormuz and end Tehran's nuclear threat are agreed. De-escalation would ease the commodity and freight-cost pressures that have been pushing up prices economy-wide. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "HOA foreclosures hit 6,376 filings, up nearly 40% in two years",
-      "summary": "HOA-related foreclosure filings reached 6,376 U.S. properties in Q1, up nearly 40% from two years earlier, as rising costs squeeze homeowners associations into taking a harder line on delinquent dues. A signal of household stress worth watching across residential real estate. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/real-estate/homeowners-associations-are-foreclosing-on-more-residents-aba6f027",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Warsh floats fewer Fed meetings in substantial policy shift",
-      "summary": "Kevin Warsh has floated reducing the number of times the Federal Reserve meets to set interest rates — a substantial operational shift for the central bank. Fewer scheduled decisions could mean longer stretches of rate certainty, with implications for CRE debt pricing. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/economy/central-banking/warsh-floats-fewer-fed-meetings-debf5a23",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "How OpenAI lost its AI crown to Anthropic — and its fight back",
-      "summary": "OpenAI fell behind Anthropic after betting on consumer chatbots and side projects while its rival seized the lead in AI coding. Its newest hire, Fields-level mathematician Jacob Tsimerman, joined believing AI safety is the most important problem he can solve. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695",
+      "headline": "Blackstone, Brookfield Build Real Estate AI Tools In-House",
+      "summary": "The largest owners are no longer waiting on proptech vendors — Blackstone and Brookfield are developing AI tools internally, from underwriting assistants to asset management copilots. For mid-sized owner-operators, the practical takeaway is that the competitive gap is now about proprietary data readiness, not software licenses.",
+      "url": "https://commercialobserver.com/2026/08/ai-real-estate-tech-brookfield-blackstone-proptech/",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "Lone Star refinances senior housing portfolio with $235M note",
-      "summary": "Lone Star Funds closed a $235 million refinancing across its senior housing portfolio, the latest sign that debt markets have reopened for the sector. Lenders re-engaging at scale supports valuations and exit optionality for operators and owners.",
-      "url": "https://www.multihousingnews.com/lone-star-refinances-senior-housing-portfolio-for-235m/",
+      "headline": "Stern, Soffer Clear G4 Note at Dolce & Gabbana Tower, Seek $650M",
+      "summary": "The partners paid off the $46M acquisition loan on the Dolce & Gabbana-branded tower at 888 Brickell, squaring up with lender G4 Capital after the note had been shopped to debt investors including Beach Hill Capital. A term sheet is out for roughly $650M on the 250-unit project, even as JDS remains in litigation with Cottonwood Group over distressed Mercedes-Benz paper. (via The Promote)",
+      "url": "https://www.thepromote.com/p/stern-soffer-near-record-jpm-financing-in-brickell",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Avison Young Bank Accounts Frozen Over Tax Demand",
+      "summary": "The brokerage had accounts frozen following a tax demand, per Bloomberg — another setback for a firm already mid-turnaround. Worth watching for anyone with active listings or valuation engagements at the firm, as service continuity risk is real. (via The Promote)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/property-broker-avison-young-had-accounts-frozen-over-tax-demand",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "National Healthcare Properties Closes $197M in Senior Living Buys",
+      "summary": "NHP closed roughly $197M of acquisitions for its senior housing operating portfolio since late June, following a March RIDEA deal covering 13 assisted living properties across eight states with Discovery Senior Living as operating partner. RIDEA structures continue to be the preferred vehicle for REIT capital entering senior housing.",
+      "url": "https://www.mcknightsseniorliving.com/news/national-healthcare-properties-closes-197m-in-senior-living-acquisitions/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Dealbook: Brookdale buys Houston community; Berkadia closes Fannie Mae loan",
-      "summary": "Brookdale acquired the Brookdale Galleria community in Houston for $23.4 million, and Berkadia secured Fannie Mae financing for Vitality Living Franklin, a 126-unit AL/memory care community in Tennessee, on behalf of Clarion Partners. Deal flow remains competitive and selective.",
-      "url": "https://seniorhousingnews.com/2026/07/16/senior-living-dealbook-brookdale-announces-acquisition-health-wave-partners-acquires-florida-community/",
+      "headline": "Welltower Adds $98M of Chicago Senior Housing From Capitol Seniors",
+      "summary": "Welltower bought Arbor Terrace Highland Park and Arbor Terrace Glenview for $58M and $40M respectively from D.C.-based developer Capitol Seniors Housing, continuing its Chicago repositioning. High-barrier suburban submarkets with limited new supply remain the clearest bid in the market.",
+      "url": "https://therealdeal.com/chicago/2026/07/17/welltower-buys-98m-in-chicago-senior-facilities/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Mamdani's luxury second-home tax draws backlash from NY homeowners",
-      "summary": "New York's new tax on luxury second homes is drawing complaints from homeowners who say the city wrongly flagged their primary residences as pieds-a-terre. The messy rollout comes as populist housing policies gain traction in key primaries nationwide. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/real-estate/homeowners-say-mamdanis-new-tax-rollout-wrongly-targets-them-b33bbfd1",
-      "category": "Capital Markets",
+      "headline": "Discovery Retains 36 Communities as Ownership Changes Hands",
+      "summary": "Discovery Senior Living acted as the \"connective tissue\" in HF Acquisitions Holding's purchase of 23 communities, retaining management on 20 it already ran and adding three new ones. Operator continuity is increasingly the deciding factor in transitions — a competitive advantage for platforms that can hold the census through a trade.",
+      "url": "https://seniorhousingnews.com/2026/07/14/discovery-senior-living-acts-as-connective-tissue-among-owners-to-retain-36-communities-changing-hands/",
+      "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Ellison takes $81B Warner deal to trial over California lawsuit",
-      "summary": "After clearing regulators worldwide, David Ellison is taking his $81 billion Warner deal to trial to overcome a California lawsuit threatening the Paramount merger — one of the largest M&A fights in media history. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/media/david-ellison-paramount-warner-strategy-deal-39a4ba62",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "CBRE: cap rates to compress 5-15 bps as banks re-enter CRE lending",
-      "summary": "CBRE's 2026 outlook sees cap rates falling 5-15 basis points this year, with compression concentrated in higher-quality assets and ample dry powder keeping debt markets liquid. Traditional banks are lending again alongside private credit, setting up a robust year for originations.",
-      "url": "https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/capital-markets",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Silicon Valley races to build American alternative to cheap Chinese AI",
-      "summary": "A new crop of startups is building open-weight AI models to compete with cheaper Chinese rivals like DeepSeek and Qwen, but many investors are reluctant to fund them — the race to challenge China is becoming as much a funding battle as a technology one. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
+      "headline": "Proptech VC Hits $16.7B as AI-Native Startups Take $4.5B Share",
+      "summary": "Venture investment in proptech reached $16.7B in 2025, up 68% year over year, with AI-native companies capturing $4.5B — a 42% jump in share, roughly double the growth of traditional SaaS peers. Capital is concentrating in construction robotics, asset management and building-systems automation, the categories most likely to hit senior housing opex.",
+      "url": "https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli/trends/proptech-impact.html",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Wachtell defections to Gibson Dunn shatter Big Law's old order",
-      "summary": "Six partners left Wachtell for Gibson Dunn, shocking a legal world where poaching among white-shoe firms was unheard of and pay tracked seniority. Elite firms are losing rainmakers to bigger rivals offering NBA-star-level pay packages — a case study in talent-retention economics. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/wachtell-gibson-dunn-william-savitt-506ccab7",
+      "headline": "AI Adoption in Property Management Jumps 20% to 58% in One Year",
+      "summary": "Property management AI adoption nearly tripled from 20% in 2024 to 58% in 2025, but only 8% of companies have fully automated any single process. The gap between pilots and production is where the value sits — operators who finish one workflow end-to-end will outrun those running a dozen experiments.",
+      "url": "https://www.technbrains.com/blog/ai-in-proptech/",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Big Tech Earnings Split Valuations as AI Debt Wave Nears Bond Market",
+      "summary": "The latest round of Big Tech results pushed technology valuations in sharply divergent directions rather than lifting the group. WSJ's Telis Demos warns a tidal wave of AI-related debt is set to flood bond markets — a supply dynamic that could widen spreads across all corporate and CRE credit. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Snap Subleases 200K SF From Verizon at Vornado's Penn Plaza",
+      "summary": "Snap is taking roughly 200,000 square feet of sublease space from Verizon at Vornado's Penn Plaza complex in Manhattan, adding another large tech tenant to the Penn District repositioning. Sublease absorption at this scale is one of the more encouraging office datapoints of the summer. (via The Promote)",
+      "url": "https://www.thepromote.com/p/stern-soffer-near-record-jpm-financing-in-brickell",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Struggling Colleges Raid Restricted Donor Funds to Pay Bills",
+      "summary": "WSJ finds colleges in real financial trouble covering day-to-day operating expenses with endowment money donors had restricted for entirely different purposes, without their knowledge or consent. A cautionary tale in governance drift: when cash gets tight, controls erode quietly before they fail loudly. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/us-news/education/colleges-restricted-endowments-financial-trouble-247c7d3c",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Mastercard's new CFO takes over today in leadership shakeup",
-      "summary": "Ling Hai, President of APAC, Europe, Middle East and Africa, becomes Mastercard's CFO effective August 3, succeeding Sachin Mehra as part of broader leadership updates to advance strategy and support growth.",
+      "headline": "Mastercard Names Ling Hai CFO in Leadership Reshuffle",
+      "summary": "Effective August 3, Ling Hai — previously President of Asia Pacific, Europe, Middle East and Africa — became Mastercard's Chief Financial Officer as part of an alignment aimed at strengthening execution and deepening enterprise leadership experience. Elevating a regional operator into the CFO seat is a notable bet on commercial fluency over pure finance pedigree.",
       "url": "https://www.businesswire.com/news/home/20260602739836/en/Mastercard-announces-leadership-updates-to-advance-strategy-and-support-continued-growth",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Helicopter parents now co-pilot their adult children's careers",
-      "summary": "Parents are increasingly managing adult children's careers — negotiating on their behalf and even lurking offscreen during Zoom meetings. What started as ride-alongs to job interviews has escalated into full-scale career co-piloting, a challenge for managers hiring Gen Z. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/lifestyle/careers/helicopter-parents-adult-children-careers-146601ab",
-      "category": "Lifestyle",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "JPMorgan: 71% of business leaders confident despite tougher economy",
-      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders confident in their own company's performance. New products/services top the strategy list (58%, up from 53%), with strategic partnerships rising to 49%.",
+      "headline": "71% of Business Leaders Confident Despite Tougher Economy",
+      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders confident in their own company's performance, 73% expecting revenue growth and 64% expecting higher profits. New product and service launches lead growth strategies at 58% (up from 53%), with strategic partnerships rising from 43% to 49% — a build-and-partner posture rather than pure cost cutting.",
       "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "PwC: AI moves from experiment to efficiency driver in real estate",
-      "summary": "PwC and ULI's Emerging Trends research finds AI shifting from pilot projects to practical operations across real estate — streamlining underwriting, leasing, and building management. The gap between adopters and holdouts keeps widening.",
-      "url": "https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli/trends/proptech-impact.html",
-      "category": "AI/Tech",
-      "importance": "LOW"
-    },
-    {
-      "headline": "National Wellness Month kicks off with focus on decision reduction",
-      "summary": "August is National Wellness Month, and 2026's theme centers on simplicity: using routines, defaults, and systems to cut unnecessary decisions, reduce stress, and free up energy. A timely angle for resident-experience and staff-wellbeing programming.",
-      "url": "https://www.awarenessdays.com/awareness-days-calendar/national-wellness-month/",
+      "headline": "89% of Workers Say Prioritizing Health Lifts Their Performance",
+      "summary": "Wellhub's State of Work-Life Wellness 2026 finds 89% of workers perform better when they prioritize health, and companies embedding wellbeing into leadership and performance management report 20–25% higher productivity. With 90% of employees reporting burnout symptoms in the past year, this is an operational lever for high-turnover senior living frontline roles.",
+      "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "89% of employees say wellbeing directly drives work performance",
-      "summary": "Wellhub's 2026 State of Work-Life-Wellness report finds 89% of employees perform better when they prioritize wellbeing, positioning wellness investment as one of the highest-ROI talent strategies — relevant for senior living operators battling frontline turnover.",
-      "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
+      "headline": "Longevity Goes Mainstream as 2026's Defining Wellness Category",
+      "summary": "Wellness forecasters point to longevity becoming a full lifestyle framework in 2026 — metabolic optimization, functional nutrition, strength training, restorative sleep and community connection — alongside a new emphasis on \"emotional fitness.\" For senior living, this is the vocabulary prospective residents and their adult children are already using.",
+      "url": "https://draxe.com/health/wellness-trends-2026/",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Spider-Man Opens to $927M Globally, Second-Biggest Debut Ever",
+      "summary": "Sony's \"Spider-Man: Brand New Day\" pulled an estimated $927M worldwide in its opening weekend, including a $355M domestic take — the largest of 2026 by a wide margin and the second-biggest global debut in history. A rare bright spot for a superhero genre that had been in a prolonged slump. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/business/media/spider-man-box-office-record-2026-3640f9fc",
       "category": "Lifestyle",
       "importance": "LOW"
     }
   ]
 }
+
