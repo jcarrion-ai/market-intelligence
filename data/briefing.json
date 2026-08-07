@@ -1,176 +1,155 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "takeaways": [
-    "Brookdale is buying the real estate under 17 leased communities for $157M and locking in $249M of fixed-rate mortgage debt through 2028 — the nation's largest operator now owns ~77% of its units. Owning beats leasing when rates are sticky.",
-    "Senior housing occupancy hit 89.9% in Q2 2026, a 20th straight quarterly gain, with fewer than 16,000 units under construction and inventory growing just 0.4% YoY. NIC expects the sector to clear 90% before year-end.",
-    "The AI buildout is now a $4 trillion debt story — JPMorgan pegs capex at $5.5T through 2030 against a $10T institutional CRE universe — and New York just imposed the first hyperscale data-center moratorium as ~$130B of projects stalled in Q1 alone."
+    "Supply is the whole senior housing story: construction starts sit below 7,000 units and inventory growth hit a record-low 0.4%, while occupancy holds at 89.9% after 20 straight quarterly gains. Owners, not renters, hold the pricing power.",
+    "Institutional capital is crowding in — Ventas closed $2.2B of senior living deals in Q2 and lifted its 2026 target to $4.5B, with half of its 807 SHOP communities already above 90% occupancy.",
+    "Office is still the release valve: CMBS office delinquency hit a record 12.3% against $100B+ of 2026 maturities, and a record 90,300 apartments are now in office conversion — up 28% year over year."
   ],
   "items": [
     {
-      "headline": "Brookdale buys real estate under 17 leased communities for $157M",
-      "summary": "Brookdale Senior Living is acquiring the real estate of 17 communities it currently leases for roughly $157 million, pushing its share of owned units to about 77%. The company separately secured $249 million of fixed-rate mortgage financing that clears all remaining mortgage maturities through 2028. The continued lease-to-own migration by the largest US operator is a template for mid-size operators weighing lease exits.",
-      "url": "https://seniorhousingnews.com/2026/08/05/brookdale-senior-living-to-acquire-real-estate-of-17-communities-for-157m/",
+      "headline": "Senior housing construction starts fall to lowest level since 2012",
+      "summary": "NIC MAP reports year-over-year inventory growth of just 0.4% in Q1 2026 — the lowest in the 20-year history of the dataset — with fewer than 7,000 units started across the 31 primary markets over the trailing twelve months. Absorption has outpaced inventory growth for 19 consecutive quarters. NIC attributes the bottleneck to capital availability, not demand, which means existing well-located assets like Lloyd Jones' portfolio face minimal new competition through at least 2028.",
+      "url": "https://www.nic.org/news-press/senior-living-occupancy-grows-amid-construction-slowdown-limiting-options-for-older-adults/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior housing occupancy hits 89.9%, 20th straight quarterly gain",
-      "summary": "NIC MAP data puts Q2 2026 senior housing occupancy at 89.9%, with 15 of 31 primary markets at or above 90%. Inventory grew just 0.4% year over year and fewer than 16,000 units are under development, the lowest construction pipeline in over a decade. NIC expects industry-wide stabilized occupancy near 93% by 2028 — pricing power for operators who can staff to it.",
-      "url": "https://finance.yahoo.com/real-estate/articles/senior-housing-occupancy-nears-90-143338764.html",
+      "headline": "Ventas: half of 807 SHOP communities now above 90% occupancy",
+      "summary": "CIO Justin Hutchens told the TRENDS stage that roughly half of Ventas' 807 same-store senior housing operating communities are at or above 90% occupancy, with another 10% approaching 100%. Hutchens argued the industry's definition of 'stabilized' is obsolete and the new standard is 'zero lost revenue days.' Operators still underwriting to 88–90% stabilization are leaving NOI on the table.",
+      "url": "https://seniorhousingnews.com/2026/08/06/ventas-cio-hutchens-rising-occupancy-means-senior-living-must-evolve-beyond-old-standard/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "The $5.5T AI buildout is really a $4T debt story",
-      "summary": "JPMorgan pegs the AI buildout at roughly $5.5 trillion through 2030, against an entire institutional real estate universe of about $10 trillion (via The Promote). With hyperscalers borrowing an estimated 75% of costs, roughly $4 trillion of new debt enters the system, including ~$1.5 trillion of private credit against only ~$11B of CMBS/ABS originations YTD. The last time 75% LTV construction financing was standard in CRE, default rates hit 30%.",
-      "url": "https://www.thepromote.com/p/this-ai-thing-better-work",
+      "headline": "Ventas closes $2.2B in Q2 senior living deals, raises 2026 target to $4.5B",
+      "summary": "Ventas closed $2.2 billion of senior living investments in the second quarter and lifted its full-year investment target to $4.5 billion — the second increase of 2026. The REIT continues shifting NOI mix toward SHOP. For private operators, this signals sustained competition for the same acquisition targets and continued cap rate compression on quality product.",
+      "url": "https://seniorhousingnews.com/2026/07/30/ventas-increases-senior-living-investments-for-second-time-in-2026-to-4-5b-planned/",
+      "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Office CMBS delinquency hits record 12.3% against $100B maturity wall",
+      "summary": "Office delinquencies in CMBS pushed past 12% in early 2026, the highest reading on record, with more than $100 billion of CMBS loans maturing this year and over half expected to default. The driver is maturity default rather than missed payments — sponsors with cash-flowing assets simply cannot refinance at current rates and valuations. The 2016 ten-year and 2021 five-year vintages are hitting simultaneously.",
+      "url": "https://www.credaily.com/briefs/cmbs-office-distress-hits-2026-maturity-wall/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Hochul signs first hyperscale data center moratorium; $130B stalled",
-      "summary": "Gov. Kathy Hochul signed an executive order creating the nation's first moratorium on new hyperscale data centers, pausing New York state environmental permits for up to a year (via The Promote). More than 300 data center bills hit statehouses in the first six weeks of 2026, 14 states floated moratoriums, and roughly $130B of projects were blocked or delayed in Q1 alone versus $100B for all of 2025. Gallup finds 70% of Americans oppose a data center near their home.",
-      "url": "https://www.thepromote.com/p/this-ai-thing-better-work",
+      "headline": "Office-to-apartment conversions hit record 90,300 units, up 28%",
+      "summary": "A record 90,300 apartments are under conversion from office nationwide entering 2026, up 28% from 70,600 a year earlier, with another 180,000 units in the adaptive reuse pipeline. Conversions now account for 47% of all planned adaptive reuse units. New York leads with 16,000+ units, followed by Washington D.C. (8,479) and Chicago (4,360); Denver, Philadelphia and St. Louis more than doubled their pipelines.",
+      "url": "https://www.credaily.com/briefs/office-conversions-hit-90k-boosting-adaptive-reuse/",
       "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Fannie Mae pursues syndicator Alan Stalcup personally for $6.6M",
-      "summary": "Fannie Mae is going after GVA Management's Alan Stalcup on personal guarantees tied to a $30.5M loan on a San Antonio multifamily property (via The Promote). The GSE alleges Stalcup tripped bad-boy covenants by letting roughly $200K of mechanic's liens accumulate and about $3M of disrepair, putting him personally on the hook for $6.6M plus interest. Fannie follows Starwood and Benefit Street Partners, who already won against him — GSEs are now enforcing recourse as aggressively as debt funds.",
-      "url": "https://www.thepromote.com/p/this-ai-thing-better-work",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Trump calls Fed Chair Warsh repeatedly, breaking decades of precedent",
-      "summary": "President Trump has phoned newly installed Fed Chairman Kevin Warsh repeatedly since he took the job, an unusually casual channel that departs from decades of practice on Fed independence (via WSJ 10-Point). Trump has sought Warsh's counsel on topics including how the Iran conflict is affecting the economy. Any perceived politicization of the Fed feeds directly into the long-end volatility that drives senior housing cap rates.",
-      "url": "https://www.wsj.com/politics/policy/trump-has-called-warsh-repeatedly-since-he-became-fed-chair-32804cf7",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "10-year Treasury hits 4.60%, highest in 15 months",
-      "summary": "The 10-year Treasury yield reached roughly 4.60% in early August, the highest level in about 15 months, on persistent inflation, elevated oil prices and federal deficit concerns. Commercial mortgage rates now start at 5.70% for multifamily loans above $6M, 6.11% for apartment loans under $6M, and 6.63% for CMBS. Returns in 2026 will be income-driven, not cap-rate-driven — underwriting discipline matters more than exit assumptions.",
-      "url": "https://selectcommercial.com/commercial-mortgage-rates.php",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Apollo, Blackstone and Broadcom build a $35B chip-leasing machine",
-      "summary": "The new AI XPV Platform launches with $35B of capital targeting more than 20 gigawatts of compute through 2028, with Anthropic as first customer (via The Promote). Broadcom books the chip revenue and guarantees the debt that buys its own chips — vendor-financed demand dressed as organic tenant demand. Strip the branding and it resembles a securitized equipment lease, a structure worth understanding before underwriting data-center-adjacent land.",
-      "url": "https://www.thepromote.com/p/this-ai-thing-better-work",
-      "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
       "headline": "Blackstone and Brookfield build AI real estate tech in-house",
-      "summary": "The largest real estate owners are increasingly building AI tools internally rather than buying from proptech vendors, betting their proprietary portfolio data is the moat. That shift squeezes point-solution vendors and raises the bar for what mid-size owners can expect from third-party software. Operators without scale will need to be selective about which workflows justify custom tooling.",
+      "summary": "Commercial Observer reports the largest owners are increasingly building proprietary AI tooling internally rather than licensing from proptech vendors, betting their proprietary portfolio data is the durable advantage. That squeezes third-party vendors and raises the bar for mid-sized owners who must decide between buying, partnering, or falling behind on underwriting and operations analytics.",
       "url": "https://commercialobserver.com/2026/08/ai-real-estate-tech-brookfield-blackstone-proptech/",
       "category": "AI/Tech",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "LTC Properties' SHOP growth marks 'dramatic shift' from two years ago",
+      "summary": "LTC Properties' expansion of its SHOP portfolio in 2026 reflects what executives describe as a dramatic change in strategy versus two years ago, as the REIT moves from triple-net leases toward operating structures that capture occupancy upside directly. The trend across healthcare REITs toward RIDEA/SHOP structures increases demand for capable third-party operators.",
+      "url": "https://seniorhousingnews.com/2026/08/06/ltc-shop-growth-in-2026-reflecting-dramatic-shift-from-two-years-ago/",
+      "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Google posts first negative cash flow quarter in 22 years",
-      "summary": "Big tech capex went from about $150B a year three years ago to $600B now, on pace for $1T in 2027, and Google just reported its first negative cash flow quarter as a public company (via The Promote). Oracle's debt-fueled expansion pushed it to BBB-, with bonds near 7% versus mid-5s for peers. Five hyperscalers also carry roughly $1.65 trillion of off-balance-sheet debt.",
-      "url": "https://www.thepromote.com/p/this-ai-thing-better-work",
+      "headline": "Acts Retirement breaks ground on $200M expansion; Covenant Living grows",
+      "summary": "Acts Retirement-Life Communities has started construction on a $200 million campus expansion while Covenant Living continues its own growth pipeline, per Senior Housing News' development roundup. Nonprofit CCRC sponsors are among the few developers still able to finance new senior housing at scale, largely through tax-exempt bond markets unavailable to for-profit sponsors.",
+      "url": "https://seniorhousingnews.com/2026/08/06/in-the-pipeline-acts-starts-on-200m-expansion-covenant-living-continues-growth/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Commercial mortgage rates: multifamily starts at 5.70%, CMBS at 6.63%",
+      "summary": "As of August 6, commercial mortgage rates start at 5.70% for multifamily loans above $6 million, 6.11% for apartment loans under $6 million, 6.63% for CMBS, and 6.03% for SBA 504. Rates have drifted lower but remain well above the 2021 vintage coupons now coming due, keeping refinance math tight for deals underwritten three to five years ago.",
+      "url": "https://selectcommercial.com/commercial-mortgage-rates.php",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Multifamily rents up just 0.2% annually; Sun Belt still negative",
+      "summary": "National average advertised asking rent reached $1,763 in June, up only $4 year over year for 0.2% growth, with first-half gains of 1% running 170 bps below the pre-pandemic norm. Gateway markets led — New York +5.6%, San Francisco +4.7% — while Austin (-4.0%), Denver (-3.1%), Tampa (-2.8%) and Phoenix (-2.7%) kept declining as supply deliveries clear.",
+      "url": "https://www.multihousingnews.com/rent-growth-2026/",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Colliers forecasts 15–20% jump in 2026 CRE sales volume",
+      "summary": "Colliers expects transaction volume to rise 15–20% this year as institutional and cross-border capital returns, with cap rates compressing 5–15 basis points across most property types and the compression concentrated in higher-quality assets. Multifamily and industrial are positioned for the most active investor interest; office remains sharply bifurcated between trophy and commodity product.",
+      "url": "https://www.credaily.com/briefs/commercial-real-estate-outlook-2026/",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Weekly briefing: multifamily CMBS delinquency rises as rates constrain deals",
+      "summary": "Chandan Economics' August 3–7 rental housing briefing flags rising multifamily CMBS delinquency even as private rental demand stays firm. Persistently elevated rates continue to constrain borrowing, refinancing and transaction activity — a reminder that strong fundamentals do not offset a broken capital stack on 2021-vintage bridge debt.",
+      "url": "https://www.chandan.com/post/rental-housing-weekly-briefing-august-3-7-2026",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "CoStar launches Apartments.com Ai conversational rental search",
+      "summary": "CoStar Group rolled out Apartments.com Ai, a conversational search layer built on its multifamily listing data and Matterport 3D tours, adding voice interaction and guided community comparisons. The predecessor Smart Search logged 35 million sessions in its first two months with a self-reported 56% lift in lead conversion. Owners should expect renter expectations for instant, natural-language answers to migrate into senior housing inquiries.",
+      "url": "https://www.costargroup.com/press-room/2026/costar-group-launches-apartmentscom-ai-redefining-future-apartment-search",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "OpenAI bleeds $21B operating loss while Anthropic files confidential S-1",
-      "summary": "Leaked OpenAI financials verified by the FT show $34B of costs on $13B of revenue in 2025 — a $21B operating loss, up from $9B in 2024 (via The Promote). Anthropic by contrast is reportedly tracking to operating profitability, with revenue set to more than double to $10.9B in Q2 and roughly $559M of operating profit last quarter, and has filed a confidential draft S-1. The divergence matters for anyone betting a vendor's AI roadmap survives the next funding cycle.",
-      "url": "https://www.thepromote.com/p/this-ai-thing-better-work",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Proptech VC hit $16.7B in 2025, with AI-native firms taking $4.5B",
-      "summary": "Venture capital investment in proptech reached $16.7 billion in 2025, a 68% jump year over year, with AI-native companies capturing $4.5 billion — a 42% increase in share of proptech dollars, nearly double their SaaS counterparts. Capital is consolidating behind AI-first platforms rather than legacy property management software. Expect vendor consolidation and pricing pressure over the next 18 months.",
-      "url": "https://www.marketscale.com/industries/engineering-and-construction/ai-drives-a-wave-of-proptech-funding-as-construction-and-commercial-real-estate-startups-attract-fresh-capital",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "AI adoption in property management jumps to 58% — but only 8% automate fully",
-      "summary": "AI adoption in property management climbed from 20% in 2024 to 58% in 2025, yet only 8% of companies have fully automated any single process. Adopters project 31% portfolio growth in 2026 versus 12% for non-adopters. The gap between piloting and operationalizing is where most of the value is still sitting for senior housing operators.",
+      "headline": "AI adopters project 31% portfolio growth vs 12% for holdouts",
+      "summary": "AI adoption in property management jumped from 20% in 2024 to 58% in 2025, yet only 8% of firms have fully automated any single process — most deployments remain assistive. Adopters forecast 31% portfolio growth in 2026 against 12% for non-adopters, suggesting the gap is as much about operator sophistication as about the technology itself.",
       "url": "https://www.technbrains.com/blog/ai-in-proptech/",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Active adult occupancy climbs to 92.6%, outpacing the broader sector",
-      "summary": "Occupancy at communities catering expressly to active adults rose 1.4 percentage points in Q2 2026 to 92.6%, running ahead of the 89.9% senior housing average. The segment continues to absorb demand from residents delaying entry into higher-acuity settings. Rent-growth headroom in active adult remains the strongest in the sector.",
-      "url": "https://www.nicmap.com/blog/senior-housing-five-key-trends-to-watch-in-2026/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Senior living called at 'a critical juncture' as margins meet full occupancy",
-      "summary": "Industry analysts warn that operators clearing 90% occupancy face a harder second act: sustaining service quality, staffing levels and margin as communities fill. Operators like 12 Oaks and Ascent Living are holding margins on the path toward 100% by tightening labor models before the last 10 points of occupancy arrive. Staffing discipline, not lease-up marketing, is the 2027 differentiator.",
-      "url": "https://seniorhousingnews.com/2026/07/27/how-12-oaks-ascent-living-maintain-margins-on-the-road-to-100-occupancy/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Multifamily makes up 80% of recent CRE CLO collateral pools",
-      "summary": "Recent CRE CLO deals totaling $4.68 billion show apartment collateral at 79.8% of aggregate balance, followed by hospitality at 8.1% and industrial at 5.2%, with office, retail and health care each around 1% or less. Full-term interest-only loans account for 95% of collateral balance, meaning minimal principal paydown before maturity. Transitional multifamily remains the only property type bridge lenders will size aggressively.",
-      "url": "https://commercialobserver.com/2026/07/multifamily-cre-clo-collateral-cred-iq/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "SpaceX pre-IPO fund investors say their shares vanished",
-      "summary": "When SpaceX went public this summer, investors in special-purpose vehicles marketed as holding pre-IPO shares expected a windfall (via WSJ 10-Point). Investors in Late Stage Management say their returns evaporated after the firm claimed it had sold the underlying shares years earlier, despite online portals and tax documents suggesting otherwise. Hundreds of similar pre-IPO SPVs face the same test as the lockup expires — a reminder to diligence SPV custody, not just the underlying asset.",
-      "url": "https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Federal prosecutors probed whistleblower claims against JPMorgan",
-      "summary": "Federal prosecutors earlier this year reviewed whistleblower allegations that JPMorgan Chase mishandled customer fraud cases (via WSJ 10-Point). The review examined the bank's internal handling of fraud complaints. Heightened scrutiny of large-bank compliance tends to tighten lending processes at the margin.",
-      "url": "https://www.wsj.com/finance/regulation/prosecutors-probed-whistleblower-claims-that-jpmorgan-mishandled-fraud-cases-3f941dc9",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Business leaders report 71% confidence despite tougher economy",
-      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders confident in their own company's performance even as the macro backdrop hardens. New product and service launches are the top growth strategy, rising from 53% in 2025 to 58% in 2026, while strategic partnerships climbed from 43% to 49%. Partnership-led growth is cheaper than capital-led growth when debt costs 6%.",
+      "headline": "JPMorgan: 71% of business leaders confident despite tougher economy",
+      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders confident in their own company's performance, 73% expecting revenue growth and 64% expecting higher profits. New product and service launches lead growth strategies at 58% (up from 53%), while strategic partnerships and investments climbed from 43% to 49%.",
       "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Mastercard names Ling Hai CFO in leadership reshuffle",
-      "summary": "Mastercard announced leadership updates effective August 3, 2026, elevating Ling Hai — President of Asia Pacific, Europe, Middle East and Africa — to Chief Financial Officer. The move pairs regional operating experience with the finance seat, a pattern showing up across large-cap succession planning. Operating-side CFOs are increasingly favored over pure finance backgrounds.",
-      "url": "https://www.businesswire.com/news/home/20260602739836/en/Mastercard-announces-leadership-updates-to-advance-strategy-and-support-continued-growth",
+      "headline": "99% of CEOs expect AI-driven headcount reductions within two years",
+      "summary": "Nearly every surveyed CEO anticipates AI will reduce workforce size over the next 24 months, even as leading firms reframe employees as assets to develop through a 'People P&L' rather than a cost line. CEOs are also shifting to 'strategy sprints' — short direction-setting cycles with constant reassessment — and from global-default operating models to portfolios of regional plays.",
+      "url": "https://wbf.wobi.com/5-management-trends-for-2026-every-leader-should-know/",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "89% of employees say wellbeing drives their performance",
-      "summary": "The State of Work-Life Wellness 2026 report finds 89% of employees perform better when prioritizing wellbeing, while 90% report burnout symptoms in the past year and nearly 40% experience them weekly. McKinsey Health Institute research links integrating wellbeing into leadership practice and performance management to 20-25% higher productivity. For senior housing operators facing chronic staffing pressure, this is a retention lever, not a perk.",
+      "headline": "90% of employees reported burnout symptoms in the past year",
+      "summary": "Wellhub's State of Work-Life Wellness 2026 finds 90% of workers experienced burnout symptoms over the last twelve months and nearly 40% experience them at least weekly, while 89% say they perform better when prioritizing wellbeing. For senior housing operators fighting caregiver turnover, burnout is a direct driver of agency labor spend and occupancy risk.",
       "url": "https://wellhub.com/en-us/blog/press-releases/state-of-wlw-2026/",
       "category": "Lifestyle",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Airlines push back against ICE enforcement inside U.S. airports",
-      "summary": "Carriers are resisting federal efforts to expand immigration enforcement into terminals and gate areas (via WSJ 10-Point). The friction reflects a broader pattern of private operators being asked to accommodate enforcement activity on their premises. Any employer with a large frontline workforce should watch how this precedent develops.",
-      "url": "https://www.wsj.com/business/airlines/airlines-push-back-against-ice-enforcement-at-airports-50a49ff0",
+      "headline": "Firms treating AI as strategic partner grow revenue 1.7x faster",
+      "summary": "Companies that position AI as a strategic partner rather than a cost-cutting tool are growing revenue 1.7 times faster than competitors, with the highest returns going to leaders who use AI to sharpen human judgment rather than replace it. The practical takeaway for operators: start with underwriting, leasing velocity and labor scheduling, not headcount elimination.",
+      "url": "https://tradeflock.com/ceo-leadership-trends-2026-speed-ai-and-agile-strategy/",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "'Emotional fitness' emerges as 2026's defining wellness category",
-      "summary": "August is National Wellness Month, and 2026's dominant trend is a shift from generic wellness programming toward personalization — AI-driven analytics, at-home biomarker tests and devices tracking more than steps and sleep. A new category, emotional fitness, emphasizes cognitive performance and emotional resilience over physical metrics alone. Resident-facing wellness programming is a differentiator worth testing in senior communities.",
-      "url": "https://draxe.com/health/wellness-trends-2026/",
+      "headline": "Proptech VC hit $16.7B in 2025 with AI-native firms taking $4.5B",
+      "summary": "Venture investment in proptech reached $16.7 billion in 2025, a 68% year-over-year increase, with AI-native companies capturing $4.5 billion — a 42% jump in their share of proptech dollars. Construction and CRE startups drew the bulk of fresh capital, meaning the vendor landscape owners evaluate this year will look materially different by 2027.",
+      "url": "https://www.marketscale.com/industries/engineering-and-construction/ai-drives-a-wave-of-proptech-funding-as-construction-and-commercial-real-estate-startups-attract-fresh-capital",
+      "category": "AI/Tech",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Embedding wellbeing in operating design lifts productivity 20–25%",
+      "summary": "Organizations that build wellbeing into leadership practice, performance management and org design report 20–25% higher productivity and measurable reductions in burnout-related costs, according to the Global Wellness Institute. The distinction that matters is structural: perks and app subscriptions underperform changes to scheduling, staffing ratios and manager behavior.",
+      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/07/workplace-wellbeing-initiative-trends-for-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "FIFA's Infantino stays on, will seek re-election in March",
-      "summary": "FIFA President Gianni Infantino will remain in the role and intends to run for re-election next March, having secured backing from senior executives during an emergency meeting (via WSJ 10-Point). The vote comes as FIFA navigates commercial expansion around the expanded tournament format.",
-      "url": "https://www.wsj.com/sports/soccer/gianni-infantino-fifa-73712725",
+      "headline": "'Emotional fitness' emerges as 2026's defining wellness category",
+      "summary": "2026 is introducing emotional fitness — cognitive performance paired with emotional resilience — as a distinct wellness category alongside the established pillars of fitness, mindfulness, therapy, nutrition and sleep. The underlying behavioral insight is that routines, defaults and systems reduce decision load, which is directly applicable to designing resident programming and staff workflows.",
+      "url": "https://draxe.com/health/wellness-trends-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     }
