@@ -1,193 +1,164 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-13",
   "takeaways": [
-    "Discounted office keeps trading: 601W Cos. is closing on the ground lease at BXP's 7 Times Square for roughly $700M (~$580/sf) — half the $1,150/sf mark set when Norges bought in at a $1.5B valuation in 2013.",
-    "Senior housing remains the strongest fundamentals story in CRE. Welltower raised 2026 same-store senior housing NOI growth guidance to 18.5%–21.5% on occupancy up 330 bps to 89.4%, and roughly half of Ventas's 807 communities now sit at or above 90%.",
-    "Debt is the pressure point. The Fed held at 3.50%–3.75% on July 29 with three dissents favoring a hike, commercial mortgage rates start at 5.70%, and ~$1 trillion of loans matures in 2026 as apartment CMBS delinquencies hit a nine-year high."
+    "Inflation cooled again — July CPI rose just 0.1%, bringing annual inflation to 3.4% and core to 2.5%, easing pressure for a September Fed rate hike and keeping the CRE refinancing window open.",
+    "GO Residential is buying H&R REIT's Sunbelt portfolio in a $2.8B deal adding 10,000+ multifamily units — the boldest move yet in the reset-basis consolidation wave sweeping multifamily.",
+    "Senior housing occupancy hit a record 89.9% in Q2 — the 20th straight quarterly gain — while inventory growth stayed under 1%, and Janus Living's $1B acquisition spree shows institutional capital piling in."
   ],
   "items": [
     {
-      "headline": "601W nears $700M deal for BXP's 7 Times Square ground lease",
-      "summary": "601W Cos. (Mark Karasick, Victor Gerstein, Michael Silberberg, with Harry Skydell leading) is finalizing a purchase of the ground lease on 7 Times Square, the 1.2M sf Manhattan tower BXP began shopping via Eastdil in May at about $700M, or ~$580/sf. That is a steep haircut from 2013, when Norges Bank paid $684M for a 45% stake at a $1.5B valuation ($1,150/sf). Tenants include KnitWell, Snowflake and several law firms; 60-plus years remain on the city ground lease. (via The Promote)",
-      "url": "https://www.thepromote.com/p/601w-closing-in-on-bxp-tower-petty-cash",
+      "headline": "July CPI cools to 3.4%, easing September rate-hike pressure",
+      "summary": "Consumer prices rose just 0.1% in July, with annual inflation at 3.4% and core at 2.5% — both down 0.1 point from June. The in-line print keeps the Warsh Fed positioned to hold rates at the Sept. 15-16 FOMC meeting, preserving a friendlier backdrop for CRE refinancing and senior housing acquisition debt.",
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Welltower raises 2026 senior housing NOI guidance to 18.5%–21.5%",
-      "summary": "Welltower posted Q2 2026 EPS of $1.60 versus $0.64 expected on revenue of $3.54B, up 39.1% year over year. Same-store senior housing occupancy rose 330 bps to 89.4% with RevPOR growth of 5.2% against expense growth per room of just 0.7%. The REIT also closed the 38-community Amica Senior Lifestyles portfolio for $1.91B while shedding $7.2B of outpatient medical assets — a clear signal of where institutional capital sees the best risk-adjusted returns.",
-      "url": "https://commercialobserver.com/2026/07/welltower-q2-2026-earnings-call/",
+      "headline": "GO Residential grabs H&R's Sunbelt portfolio in $2.8B deal",
+      "summary": "Meyer Orbach and Josh Gotlib's TSX-listed GO Residential REIT is acquiring 27 properties from Canada's H&R REIT — including the 23-property Lantower Sunbelt multifamily package (10,000+ units) plus stakes in Miami's River Landing and LIC's Jackson Park — mostly paid in GO shares, with $550M CAD corporate and $1.1B property-level debt assumed. The deal takes GO to 13,300+ units and positions it for REIT index inclusion. (via The Promote)",
+      "url": "https://www.thepromote.com/p/only-mortals-go-s-empire-building",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Senior housing occupancy hits record 89.9% as supply stays thin",
+      "summary": "NIC MAP data shows Q2 2026 occupancy climbed 0.4 points to 89.9% — the 20th consecutive quarterly increase — with occupied units up nearly 3,700 to a record 639,650 and 15 of 31 primary markets at or above 90%. Inventory growth stayed below 1% for the fifth straight quarter, sustaining pricing power for operators like Lloyd Jones.",
+      "url": "https://www.nic.org/blog/senior-housing-occupancy-climbs-in-second-quarter-2026/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Ventas CIO: rising occupancy means senior living must evolve past 'old standard'",
-      "summary": "Ventas CIO John Hutchens says about half of the REIT's 807 same-store senior housing communities are at or above 90% occupancy, and another 10% are approaching 100%. With census climbing toward practical capacity, the growth lever shifts from lease-up to rate, program differentiation and operating margin. For Lloyd Jones, this argues for pushing RevPOR and resident experience investment now rather than waiting for occupancy tailwinds.",
-      "url": "https://seniorhousingnews.com/2026/08/06/ventas-cio-hutchens-rising-occupancy-means-senior-living-must-evolve-beyond-old-standard/",
+      "headline": "Janus Living crosses $1B in senior housing acquisitions this year",
+      "summary": "Janus Living completed roughly $1.0 billion of senior housing acquisitions through August 3 across six transactions with six different operating partners — 18 communities totaling 2,475 units. The buying spree underscores how aggressively institutional capital is re-entering the sector as occupancy sets records.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002100805/000162828026052603/ex99106302026.htm",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "CMBS distress concentrates in a handful of top U.S. metros",
-      "summary": "Commercial Observer's August analysis maps where CMBS distress is clustering, with office delinquencies having pushed to a record 12.3% by January 2026 and the overall Trepp delinquency rate at 7.55% in May. Distress is not evenly distributed — a small set of gateway and high-supply metros carry a disproportionate share. Operators refinancing in 2026 should expect lender pricing to reflect metro-level distress data, not just asset performance.",
-      "url": "https://commercialobserver.com/2026/08/cmbs-distress-top-u-s-metro-areas/",
+      "headline": "350 Park capstack takes shape: $3.3B loan, Citadel anchors 1.05M sf",
+      "summary": "Vornado exercised its option for a 36% stake in 350 Park Ave, with Ken Griffin at 60% and the Rudins at 4%; Citadel will anchor the tower with 1.05M sf. Steve Roth says the team is lining up a $3.3B construction loan (53% LTC, ~$1,700/sf basis) and teasing a 25% club-deal stake sale — a bet on Manhattan office rents now firmly in the $200s/sf. (via The Promote)",
+      "url": "https://www.thepromote.com/p/only-mortals-go-s-empire-building",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Apartment CMBS delinquencies hit nine-year high as distress sales stay slow",
-      "summary": "Trepp data show multifamily CMBS delinquencies at their highest level in nine years, with special servicing rates climbing even as distressed sales volume remains muted — a sign owners and lenders are still extending rather than transacting. Recent newly delinquent loans include $61M on Ariza Forest View in Santa Rosa Beach, FL and $53.1M on Mirasol in Las Vegas. The gap between distress on paper and distress in the market is where 2026 acquisition opportunities will emerge.",
-      "url": "https://www.multifamilydive.com/news/trepp-special-servicing-multifamily-deliquency-rates-cmbs/760284/",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Fed holds at 3.50%–3.75% with three dissents; CRE rates start at 5.70%",
-      "summary": "The FOMC held the funds rate steady on July 29 with three regional presidents dissenting in favor of a hike, and Chair Kevin Warsh signaled no hesitation to fight inflation — markets now price little chance of near-term cuts. As of August 10, multifamily loans over $6M start at 5.70%, apartment loans under $6M at 6.11%, CMBS at 6.63% and SBA 504 at 6.03%. With nearly $1 trillion maturing in 2026, refinancing math stays tight.",
-      "url": "https://selectcommercial.com/commercial-mortgage-rates.php",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "AI push puts CRE on track for a $605 billion investment year",
-      "summary": "Commercial real estate investment is pacing toward roughly $605 billion in 2026, a 16% jump over 2025, driven substantially by AI-related data center and infrastructure demand. About 80% of data center capacity under development is expected to be leased before it opens. The capital crowding into digital infrastructure is a competing bid for the same institutional dollars chasing senior housing and multifamily.",
-      "url": "https://allwork.space/2026/08/commercial-real-estate-is-on-track-for-a-605-billion-investment-year-thanks-to-ai",
+      "headline": "Nvidia's $500B financing pact reshapes the AI capital pipeline",
+      "summary": "Nvidia's loose $500 billion arrangement with Wall Street titans will juice financing for weaker AI players while leaving the chipmaker partly on the hook if things go wrong. Separately, Bank of America plans to deploy $250 billion toward U.S. data centers, energy, and critical minerals — capital flows with direct implications for CRE land and power markets. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "AvalonBay–Equity Residential $71B merger gets a cool market reception",
-      "summary": "The roughly $71B AVB–EQR multifamily mega-merger is drawing skepticism from investors, with JLL Income Property Trust's Allan Swaringen conceding that 'the market has not piled into [AVB-EQR].' The Promote frames the tie-up as a marriage of convenience rather than a growth story. A consolidating institutional apartment landscape narrows the buyer pool for large portfolios but can free up mid-market assets. (via The Promote)",
-      "url": "https://www.thepromote.com/p/multi-s-marriage-of-convenience-a-phantom-megaproject",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "RFR buys $1M condo purely to veto SL Green's air-rights deal",
-      "summary": "RFR bought a $1M apartment at 5 E. 44th St. to gain owner status and block SL Green's pending purchase of the building's unused air rights for its 346 Madison assemblage, exploiting the condo board's unanimous-consent rule. SLG paid $160M for the former Brooks Brothers site about a year ago and has since brought in Mori Building as a JV partner. The board meets this week to move to supermajority approval; RFR has sued to void its contract. (via The Promote)",
-      "url": "https://www.thepromote.com/p/601w-closing-in-on-bxp-tower-petty-cash",
-      "category": "Capital Markets",
+      "headline": "Record occupancy, but cautious lenders keep construction stalled",
+      "summary": "McKnight's reports senior living occupancy at record highs while conservative construction lending keeps new development stalled — assisted living construction costs are up in early 2026 while starts remain thin. For existing operators, the supply-demand imbalance extends the runway on rate growth.",
+      "url": "https://www.mcknightsseniorliving.com/news/senior-living-occupancy-hits-record-high-as-cautious-lenders-stall-construction/",
+      "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "601W's split screen: buying at discounts while defaulting on legacy debt",
-      "summary": "601W has become one of the most acquisitive national buyers of discounted post-Covid office, taking Wells Fargo Center North in DTLA for $180M ($130/sf) against $500M+ of debt and Durst's 42nd St. tower for $165M at a reported mid-7s cap, across a ~21M sf national portfolio. Simultaneously it defaulted on a $343M Blackstone loan on One South Wacker in Chicago and is seeking a three-year extension on Aon Center debt. The playbook — let legacy basis go, buy the reset — is the defining move of this cycle. (via The Promote)",
-      "url": "https://www.thepromote.com/p/601w-closing-in-on-bxp-tower-petty-cash",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Senior housing occupancy on track for 90% in 2026, 93% by 2028",
-      "summary": "NIC MAP and industry forecasts put senior housing occupancy reaching 90% in 2026 and stabilizing near 93% by 2028, with rent growth normalizing above 4% annually and transaction activity described as robust. Demand is leading and capital is reopening after a constrained 2023–2025 stretch. The constraint shifts from filling units to having units — new development remains well below demographic need.",
+      "headline": "Ventas boosts 2026 senior living investment 50% to $4.5B+",
+      "summary": "Ventas is raising its 2026 senior living investment target from $3 billion to over $4.5 billion as the sector shifts from defensive positioning to proactive growth. Big-REIT capital chasing senior housing validates valuations and deepens the buyer pool for operators considering dispositions.",
       "url": "https://www.multihousingnews.com/senior-living-trends/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Senior living workforce strategy shifts from shortages to long-term stability",
-      "summary": "McKnight's reports that operators have moved past emergency staffing tactics toward sustainable workforce strategy, focused on the financial burden of competitive compensation and building a caregiver pipeline. While 75% are raising wages and bonuses, 81% are investing in workplace culture, 49% in internal training and upskilling, and 46% in career ladders. Retention spend is diversifying away from pure wage escalation.",
-      "url": "https://www.mcknightsseniorliving.com/news/senior-living-workforce-strategy-focus-shifts-from-shortages-to-long-term-stability/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Ziegler: compensation holds at 56% of senior living operating budgets",
-      "summary": "Ziegler's July 2026 CFO Hotline finds employee compensation averaging 56% of operating budgets year to date, essentially flat versus 2025 — evidence that wage inflation has finally normalized. Still, 62.3% of departing workers cited non-competitive pay as a factor in leaving the industry. Flat comp ratios against rising RevPOR is exactly the margin expansion story driving REIT NOI guidance upgrades.",
-      "url": "https://www.ziegler.com/media/0vlf4kv1/july-cfo-hotline-2026-state-of-the-senior-living-workforce.pdf",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Multifamily rents rose again in July, led by Sun Belt metros",
-      "summary": "Yardi data show average advertised rent up $4, or 0.2%, from June to $1,771, with many Sun Belt metros posting strong monthly gains. After 2025's negative-to-flat rent growth and occupancy in the low 92%–94% range, supply moderation is finally letting pricing power return. High-supply Sun Belt and Mountain markets still face a timeline pushed to late 2026 for durable positive asking-rent growth.",
-      "url": "https://www.multifamilydive.com/news/multifamily-rents-july-yardi/827341/",
+      "headline": "Tariff refunds turbocharge earnings: $9.6B across 40+ companies",
+      "summary": "Over 40 S&P 500 companies have reported some $9.6 billion in tariff refunds in the past quarter, with at least $2.1 billion in cash already received — Apple nearly $2.2B, Nike $986M, FedEx ~$800M. The unexpected earnings tailwind is arriving far faster than analysts warned. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/business/telecom/tariff-refunds-are-hereand-turbocharging-earnings-1af269a2",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Apartment REITs signal growing Sun Belt confidence on Q2 calls",
-      "summary": "Several multifamily REIT leaders — Camden and MAA notably — expressed growing confidence about Sun Belt prospects on Q2 2026 earnings calls as the record supply wave moderates. The narrative has flipped from defense to selective offense in markets that were oversupplied 18 months ago. For Lloyd Jones's Sun Belt exposure, the read-through is that concessions should begin burning off through late 2026.",
-      "url": "https://www.multifamilydive.com/news/apartment-reit-q2-earnings-reports/827436/",
+      "headline": "Retail investors sit on record $3 trillion in money-market cash",
+      "summary": "Individual investors are holding more than $3 trillion in retail money-market funds — near record highs — and advisers are struggling to move it into bonds or real assets even as yields fall. A massive pool of sidelined capital that could migrate toward income-producing real estate as rates ease. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/personal-finance/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-ba18dbaf",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "AI phone agents and billing bots start showing hard ROI in senior living",
-      "summary": "Phoenix Senior Living deployed AI phone agents across its 57 communities to guide prospect inquiries, and Bickford Senior Living credits an AI billing-reconciliation system with roughly $1 million in net new annual revenue. Argentum's survey found ~70% of senior living tech and C-suite executives already use AI for predictive analytics, with staff efficiency and resident chatbots close behind. These are back-office wins with measurable payback, not pilots.",
-      "url": "https://seniorhousingnews.com/2026/06/29/senior-living-operators-find-good-and-bad-in-new-ai-platforms/",
+      "headline": "Developer Josh Schuster gets 4 years for Ponzi scheme",
+      "summary": "Silverback Development's Josh Schuster was sentenced to four years in federal prison for defrauding investors who thought their funds were equity in Manhattan development projects. Judge Valerie Caproni rejected his addiction defense: 'The issue with fraudsters is that it's really hard to know whether you're being sincere.' A reminder on sponsor-level due diligence. (via The Promote)",
+      "url": "https://www.justice.gov/usao-sdny/pr/former-new-york-city-real-estate-developer-sentenced-four-years-defrauding-investors",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "CRE debt costs at 6.57% vs. 6.34% cap rates — razor-thin spread",
+      "summary": "Average CRE borrowing costs are hovering near 6.57% against average cap rates of 6.34%, an exceptionally tight (negative) spread that pressures levered buyers. Still, Colliers forecasts a 15-20% jump in 2026 sales activity as institutional and cross-border capital returns to the market.",
+      "url": "https://smartcapitalcenter.com/blog-post/2026-cre-outlook",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "North Korean operatives used AI and stolen IDs to infiltrate U.S. jobs",
+      "summary": "A year-long WSJ investigation found thousands of North Korean operatives using stolen identities and AI tools to land remote jobs at U.S. companies — one team infiltrated at least eight firms in months — funneling millions to Kim Jong Un's regime. A sharp warning for any company hiring remote workers, including back-office real estate roles. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/business/north-koreans-use-stolen-ids-ai-to-land-u-s-jobsand-funnel-millions-to-kims-regime-1385adf7",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Providers tell HHS that AI adoption needs infrastructure investment first",
-      "summary": "Provider groups told HHS that AI adoption across aging services is bottlenecked by digital infrastructure gaps — connectivity, data systems and readiness — particularly in assisted living and nursing homes. LeadingAge flagged limited adoption capacity across the care continuum as the core barrier to private-sector innovation. Operators budgeting for AI should assume the first dollars go to plumbing, not algorithms.",
-      "url": "https://www.mcknightsseniorliving.com/news/ai-adoption-in-senior-living-requires-infrastructure-investments-to-fill-in-digital-gaps-provider-groups-tell-hhs/",
+      "headline": "AI adoption in property management jumps to 58%, but automation lags",
+      "summary": "AI adoption in property management leapt from 20% in 2024 to 58% in 2025, yet only 8% of companies have fully automated any process. The gap between experimentation and execution means operators who operationalize AI — leasing bots, billing, document intelligence — still have a first-mover edge.",
+      "url": "https://www.technbrains.com/blog/ai-in-proptech/",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "AI property management adopters project 31% portfolio growth vs 12% for holdouts",
-      "summary": "AI adoption in property management jumped from 20% in 2024 to 58% in 2025, though only 8% of companies have fully automated any single process. Adopters expect 31% portfolio growth in 2026 versus 12% for non-adopters. Analysts peg the total unlock at $430–550 billion in annual value across real estate, construction and development — the gap is execution depth, not experimentation.",
-      "url": "https://www.schoolofestate.com/blog/170/how-ai-and-proptech-are-changing-real-estate-in-2026",
+      "headline": "Hassabis pitched an AI oversight body before DeepMind exit",
+      "summary": "Before stepping down as Google DeepMind CEO, Demis Hassabis pitched government officials and rival AI lab leaders on creating an independent safety entity to set guardrails for artificial general intelligence — a signal of where AI governance debates are heading. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "LAZ-led group takes control of Hartford's distressed Stilts Building",
-      "summary": "An investment group led by parking operator LAZ acquired Hartford's landmark 'Stilts Building' from Shelbourne, ending a foreclosure on the distressed downtown tower. Local operator-led recapitalizations are increasingly the resolution path for secondary-market office distress where institutional bidders have stepped away. (via The Promote)",
-      "url": "https://hartfordbusiness.com/article/laz-led-investment-group-acquires-hartfords-stilts-building-ending-foreclosure/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "NYC homeowners sue over Mamdani's pied-a-terre tax rollout",
-      "summary": "A group of New York City homeowners filed suit challenging how Mayor Mamdani's pied-a-terre tax on non-primary residences is being implemented. The case injects legal risk into a marquee revenue measure and adds to underwriting uncertainty for NYC residential owners. (via The Promote)",
-      "url": "https://www.wsj.com/us-news/new-york-city-homeowners-sue-over-mamdanis-pied-a-terre-tax-rollout-1795d9a5",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "71% of leaders report rising stress; 40% weighing an exit",
-      "summary": "DDI's 2026 leadership research finds 71% of leaders under increased stress, with 40% considering leaving their jobs — a retention risk concentrated in the middle-management layer that actually executes strategy. Meanwhile companies using AI as a strategic partner are growing revenue 1.7x faster than peers, raising the performance bar on already-stretched teams. Leadership bench depth is becoming the binding constraint on growth plans.",
-      "url": "https://www.ddi.com/blog/leadership-trends-2026",
+      "headline": "JPMorgan: 71% of business leaders confident despite tougher economy",
+      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders confident in their own company's performance. New products/services top the strategy list (58%, up from 53%), with strategic partnerships and investments rising to 49% — growth plays over cost-cutting.",
+      "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Global data center buildout accelerates with multibillion-dollar August starts",
-      "summary": "August brought a wave of new data center commitments: ByteDance broke ground on a $38.4B campus at Brazil's Pecém port with 200 MW initial capacity, AWS expanded in Hyderabad under a $48B India plan, and DigitalBridge launched Nippon Gateway Infrastructure with assets acquired from NEC. Power availability, not capital, is now the gating factor. The competition for sites and electricity has direct knock-on effects for land pricing in growth metros.",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026",
-      "category": "AI/Tech",
+      "headline": "Intern-to-hire conversion jumps to 63.1% as AI takes menial work",
+      "summary": "63.1% of interns converted into full-time employees last year, up from 50.6% two years ago. With AI absorbing routine tasks, companies are handing interns real responsibility — from leading projects to business trips — making internship programs a sharper talent pipeline. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/lifestyle/careers/forget-about-fetching-coffee-this-summer-the-interns-are-running-the-show-d1b54f99",
+      "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Senior living enters 2026 'at a critical juncture'",
-      "summary": "McKnight's frames 2026 as an inflection point for senior living: demand demographics are undeniable, capital is returning, but development starts remain far below what the 80+ cohort will require. Operators that fix labor stability and technology plumbing now will be positioned when the supply gap becomes acute later this decade.",
-      "url": "https://www.mcknightsseniorliving.com/news/senior-living-enters-2026-at-a-critical-juncture/",
-      "category": "Senior Housing",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Wellbeing-integrated management linked to 20–25% higher productivity",
-      "summary": "McKinsey Health Institute research finds companies that embed wellbeing into leadership practice, performance management and org design report up to 20–25% higher productivity and measurable reductions in burnout costs. Separately, 90% of employees report burnout symptoms in the past year, nearly 40% at least weekly. In a labor-intensive business like senior living, this is an operating metric, not an HR nicety.",
-      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/07/workplace-wellbeing-initiative-trends-for-2026/",
-      "category": "Lifestyle",
-      "importance": "LOW"
-    },
-    {
-      "headline": "'Emotional fitness' emerges as 2026's defining wellness category",
-      "summary": "Wellhub's State of Work-Life Wellness 2026 finds 89% of employees perform better when prioritizing wellbeing, and employees now weigh wellbeing as heavily as salary. The year's dominant trend is 'emotional fitness' — cognitive performance plus emotional resilience — supported by AI-driven analytics, at-home biomarker tests and richer wearables. Resident-facing wellness programming is the obvious application for senior living operators.",
-      "url": "https://wellhub.com/en-us/blog/wellness-and-benefits-programs/state-of-work-life-wellness-2026-executive-summary/",
-      "category": "Lifestyle",
-      "importance": "LOW"
-    },
-    {
-      "headline": "CEOs shift from questioning AI to compounding speed with it",
-      "summary": "2026 CEO research points to a decisive shift: leaders have stopped debating whether AI works and are competing on how fast they can operationalize it, alongside a move from global-default supply chains to portfolios of regional plays. A related trend is the 'People P&L' — tracking growth per individual rather than just revenue per employee. Speed of decision-making is the differentiator leaders are optimizing for.",
-      "url": "https://tradeflock.com/ceo-leadership-trends-2026-speed-ai-and-agile-strategy/",
+      "headline": "How Canary Wharf brought down the Reichmann empire",
+      "summary": "The Promote's trilogy on Olympia & York concludes with Canary Wharf — the megaproject where the Reichmanns' creative financing and cinematic self-belief, the very traits that built one of history's greatest real estate empires, turned against them. A cautionary leadership tale for every developer. (via The Promote)",
+      "url": "https://www.thepromote.com/p/only-mortals-go-s-empire-building",
       "category": "Leadership",
+      "importance": "LOW"
+    },
+    {
+      "headline": "'Datamaxxers' turn AI into hyperpersonalized health coaches",
+      "summary": "Health obsessives are feeding every biomarker and workout into AI systems that act as personalized trainers and assistants — the leading edge of 2026's data-driven wellness trend, with obvious crossover potential for wellness programming in senior living. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/tech/ai/the-datamaxxers-feeding-their-every-health-move-to-ai-df0af9b5",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Europe's new EES passport system is the curse word of the summer",
+      "summary": "The EU's new automated entry/exit system — facial recognition and fingerprints instead of passport stamps — is producing wildly inconsistent waits for U.S. travelers, from breezing through to hours-long lines on the same trip. Worth planning around for fall trips abroad. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/lifestyle/travel/europe-has-a-new-passport-systemand-its-driving-travelers-crazy-9decaa87",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Greek island-hopping dreams meet the 'vomit comet'",
+      "summary": "High-speed ferries through the Aegean have become Odyssean ordeals — bucket-list trips that require an actual bucket when seasickness hits. WSJ's guide to island-hopping without the misery. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/lifestyle/travel/everyone-dreams-of-island-hopping-through-greeceuntil-they-board-the-vomit-comet-287b97c6",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Wellness 2026: the backlash against over-optimization begins",
+      "summary": "The Global Wellness Summit's 2026 trends flag a bold return of pleasure and joy over relentless self-optimization, alongside wellness tackling nervous-system exhaustion and disaster preparedness — with August marking National Wellness Month.",
+      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
+      "category": "Lifestyle",
       "importance": "LOW"
     }
   ]
-}
-
+    }
