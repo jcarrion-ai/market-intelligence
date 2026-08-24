@@ -1,164 +1,144 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-24",
   "takeaways": [
-    "Inflation cooled again — July CPI rose just 0.1%, bringing annual inflation to 3.4% and core to 2.5%, easing pressure for a September Fed rate hike and keeping the CRE refinancing window open.",
-    "GO Residential is buying H&R REIT's Sunbelt portfolio in a $2.8B deal adding 10,000+ multifamily units — the boldest move yet in the reset-basis consolidation wave sweeping multifamily.",
-    "Senior housing occupancy hit a record 89.9% in Q2 — the 20th straight quarterly gain — while inventory growth stayed under 1%, and Janus Living's $1B acquisition spree shows institutional capital piling in."
+    "The U.S.-Canada trade war is on — Washington imposed 50% tariffs on roughly $20B of Canadian goods after talks collapsed, and Canada is retaliating after Labor Day. Watch construction materials costs and a fresh inflation impulse just as the Fed weighs its next move.",
+    "A pivotal rates week: Fed Chair Kevin Warsh makes his Jackson Hole debut Thursday, with Nvidia earnings and July core PCE (forecast 3.3% y/y) both landing Wednesday — together they set the September rate path that governs the CRE refinancing window.",
+    "Senior housing deal flow keeps accelerating — experts now call for a record acquisition year, Berkadia just sold a 246-unit Jacksonville community, and Sonida landed a $380M Ally loan — even as an executive exodus at Fannie Mae injects new uncertainty into agency lending."
   ],
   "items": [
     {
-      "headline": "July CPI cools to 3.4%, easing September rate-hike pressure",
-      "summary": "Consumer prices rose just 0.1% in July, with annual inflation at 3.4% and core at 2.5% — both down 0.1 point from June. The in-line print keeps the Warsh Fed positioned to hold rates at the Sept. 15-16 FOMC meeting, preserving a friendlier backdrop for CRE refinancing and senior housing acquisition debt.",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "headline": "U.S. slaps 50% tariffs on $20B of Canadian goods; trade war spirals",
+      "summary": "After trade talks broke down, the U.S. imposed 50% tariffs on about $20 billion worth of Canadian goods, and Canada announced retaliatory post-Labor Day tariffs as the two countries spiral toward an all-out trade war. For developers and operators, tariffs on Canadian lumber, steel and aluminum threaten construction and renovation budgets and add a fresh inflation impulse ahead of the Fed's September meeting. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/economy/trade/u-s-to-impose-50-tariffs-on-some-canadian-goods-after-failed-talks-d1510425",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "GO Residential grabs H&R's Sunbelt portfolio in $2.8B deal",
-      "summary": "Meyer Orbach and Josh Gotlib's TSX-listed GO Residential REIT is acquiring 27 properties from Canada's H&R REIT — including the 23-property Lantower Sunbelt multifamily package (10,000+ units) plus stakes in Miami's River Landing and LIC's Jackson Park — mostly paid in GO shares, with $550M CAD corporate and $1.1B property-level debt assumed. The deal takes GO to 13,300+ units and positions it for REIT index inclusion. (via The Promote)",
-      "url": "https://www.thepromote.com/p/only-mortals-go-s-empire-building",
+      "headline": "Fannie Mae sheds a dozen senior executives, stoking mortgage-market worries",
+      "summary": "Roughly a dozen high-ranking officials were let go at Fannie Mae in a single week, raising concerns about deeper turmoil at one of the firms backing major portions of the U.S. mortgage market. Instability at the agencies matters directly for multifamily and senior housing borrowers who rely on agency debt for acquisitions and refis. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/regulation/fannie-mae-hit-by-turmoil-in-senior-ranks-as-at-least-10-executives-depart-9f0f40e0",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior housing occupancy hits record 89.9% as supply stays thin",
-      "summary": "NIC MAP data shows Q2 2026 occupancy climbed 0.4 points to 89.9% — the 20th consecutive quarterly increase — with occupied units up nearly 3,700 to a record 639,650 and 15 of 31 primary markets at or above 90%. Inventory growth stayed below 1% for the fifth straight quarter, sustaining pricing power for operators like Lloyd Jones.",
-      "url": "https://www.nic.org/blog/senior-housing-occupancy-climbs-in-second-quarter-2026/",
+      "headline": "Warsh's Jackson Hole debut, Nvidia earnings and July PCE collide this week",
+      "summary": "Fed Chair Kevin Warsh delivers his first Jackson Hole keynote Thursday, while Wednesday brings a data convergence: Nvidia's Q2 results after the close, July core PCE (forecast 3.3% y/y), revised Q2 GDP and durable goods. An in-line PCE print would further reduce rate-hike odds and firm up the fall financing window for CRE deals.",
+      "url": "https://www.capitalstreetfx.com/market-analysis/nvidia-earnings-jackson-week-ahead-us-24-29-august-2026/",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Senior living dealbook: 246-unit Jacksonville community trades hands",
+      "summary": "Berkadia sold Wyndham Lakes, a 246-unit IL/AL/memory care community in suburban Jacksonville, to Michigan-based Stagecoach Capital, which plans to expand the acuity mix — a notable Florida trade in Lloyd Jones's backyard. Berkadia also moved a 138-unit AL/MC community to JDI Realty (Evolve Senior Living to manage), and Blueprint closed a two-community, 96-unit memory care portfolio near Cleveland.",
+      "url": "https://seniorhousingnews.com/2026/08/17/senior-living-dealbook-246-unit-community-comes-under-new-ownership-refinancing-secured-for-kansas-community/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Janus Living crosses $1B in senior housing acquisitions this year",
-      "summary": "Janus Living completed roughly $1.0 billion of senior housing acquisitions through August 3 across six transactions with six different operating partners — 18 communities totaling 2,475 units. The buying spree underscores how aggressively institutional capital is re-entering the sector as occupancy sets records.",
-      "url": "https://www.sec.gov/Archives/edgar/data/0002100805/000162828026052603/ex99106302026.htm",
+      "headline": "Experts call for record senior living acquisition year; Sonida lands $380M",
+      "summary": "With occupancy near 90%, construction starts thin and REIT/public buyers' share of acquisitions up to 32% from 24% in 2024, industry experts say 2026 could set a record for senior living and care acquisitions. Recent prints back it up: Sonida Senior Living secured a $380M loan from Ally Bank and a Lewes, Delaware community sold for $85.5M — liquidity is returning across the capital stack.",
+      "url": "https://www.mcknightsseniorliving.com/news/2026-could-see-record-acquisitions-in-senior-living-and-care-experts-say/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "350 Park capstack takes shape: $3.3B loan, Citadel anchors 1.05M sf",
-      "summary": "Vornado exercised its option for a 36% stake in 350 Park Ave, with Ken Griffin at 60% and the Rudins at 4%; Citadel will anchor the tower with 1.05M sf. Steve Roth says the team is lining up a $3.3B construction loan (53% LTC, ~$1,700/sf basis) and teasing a 25% club-deal stake sale — a bet on Manhattan office rents now firmly in the $200s/sf. (via The Promote)",
-      "url": "https://www.thepromote.com/p/only-mortals-go-s-empire-building",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Nvidia's $500B financing pact reshapes the AI capital pipeline",
-      "summary": "Nvidia's loose $500 billion arrangement with Wall Street titans will juice financing for weaker AI players while leaving the chipmaker partly on the hook if things go wrong. Separately, Bank of America plans to deploy $250 billion toward U.S. data centers, energy, and critical minerals — capital flows with direct implications for CRE land and power markets. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482",
+      "headline": "Nvidia bets $6B on Poolside to build America's open-weight AI answer",
+      "summary": "Nvidia is spending $6 billion with startup Poolside to build one of the world's most powerful open-weight AI models under its Nemotron project, aiming to rival both Chinese open models and U.S. frontier labs within a year. Cheaper, customizable open models would lower the cost of deploying AI in operations-heavy businesses like property management. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "Record occupancy, but cautious lenders keep construction stalled",
-      "summary": "McKnight's reports senior living occupancy at record highs while conservative construction lending keeps new development stalled — assisted living construction costs are up in early 2026 while starts remain thin. For existing operators, the supply-demand imbalance extends the runway on rate growth.",
-      "url": "https://www.mcknightsseniorliving.com/news/senior-living-occupancy-hits-record-high-as-cautious-lenders-stall-construction/",
+      "headline": "Boomers are smoking more pot — and retirement communities are fuming",
+      "summary": "Seniors are among the fastest-growing demographics for marijuana use, and rising cannabis use inside retirement communities is sparking conflicts with neighbors. For operators, it's a live policy question: smoke-free rules, designated areas, and state-law patchworks are becoming resident-relations issues, not hypotheticals. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/health/wellness/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-d3d05e5f",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Ventas boosts 2026 senior living investment 50% to $4.5B+",
-      "summary": "Ventas is raising its 2026 senior living investment target from $3 billion to over $4.5 billion as the sector shifts from defensive positioning to proactive growth. Big-REIT capital chasing senior housing validates valuations and deepens the buyer pool for operators considering dispositions.",
-      "url": "https://www.multihousingnews.com/senior-living-trends/",
+      "headline": "Senior living websites are still too static, sales leaders warn",
+      "summary": "Senior Housing News reports that despite recent web upgrades, operators' sites remain too static for an increasingly web-savvy boomer customer — sales and marketing leaders are pushing toward interactive pricing tools, virtual tours and AI-driven personalization. Digital presence is becoming a real occupancy lever as the 80-plus wave arrives.",
+      "url": "https://seniorhousingnews.com/2026/08/20/senior-living-websites-are-still-too-static-heres-how-operators-can-evolve/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Tariff refunds turbocharge earnings: $9.6B across 40+ companies",
-      "summary": "Over 40 S&P 500 companies have reported some $9.6 billion in tariff refunds in the past quarter, with at least $2.1 billion in cash already received — Apple nearly $2.2B, Nike $986M, FedEx ~$800M. The unexpected earnings tailwind is arriving far faster than analysts warned. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/telecom/tariff-refunds-are-hereand-turbocharging-earnings-1af269a2",
+      "headline": "The wild week Scott Bessent was schooled by the bond market",
+      "summary": "The Treasury Department's bond buyback announcement stemmed a Treasury selloff — but not for long, as yields resumed climbing in a turbulent week for government debt. Long-end volatility feeds straight into CRE: benchmark rates, not just Fed policy, will decide where senior housing acquisition debt prices this fall. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/investing/the-wild-week-when-scott-bessent-was-schooled-by-the-bond-market-a244aca2",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Retail investors sit on record $3 trillion in money-market cash",
-      "summary": "Individual investors are holding more than $3 trillion in retail money-market funds — near record highs — and advisers are struggling to move it into bonds or real assets even as yields fall. A massive pool of sidelined capital that could migrate toward income-producing real estate as rates ease. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/personal-finance/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-ba18dbaf",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Developer Josh Schuster gets 4 years for Ponzi scheme",
-      "summary": "Silverback Development's Josh Schuster was sentenced to four years in federal prison for defrauding investors who thought their funds were equity in Manhattan development projects. Judge Valerie Caproni rejected his addiction defense: 'The issue with fraudsters is that it's really hard to know whether you're being sincere.' A reminder on sponsor-level due diligence. (via The Promote)",
-      "url": "https://www.justice.gov/usao-sdny/pr/former-new-york-city-real-estate-developer-sentenced-four-years-defrauding-investors",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "CRE debt costs at 6.57% vs. 6.34% cap rates — razor-thin spread",
-      "summary": "Average CRE borrowing costs are hovering near 6.57% against average cap rates of 6.34%, an exceptionally tight (negative) spread that pressures levered buyers. Still, Colliers forecasts a 15-20% jump in 2026 sales activity as institutional and cross-border capital returns to the market.",
-      "url": "https://smartcapitalcenter.com/blog-post/2026-cre-outlook",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "North Korean operatives used AI and stolen IDs to infiltrate U.S. jobs",
-      "summary": "A year-long WSJ investigation found thousands of North Korean operatives using stolen identities and AI tools to land remote jobs at U.S. companies — one team infiltrated at least eight firms in months — funneling millions to Kim Jong Un's regime. A sharp warning for any company hiring remote workers, including back-office real estate roles. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/north-koreans-use-stolen-ids-ai-to-land-u-s-jobsand-funnel-millions-to-kims-regime-1385adf7",
+      "headline": "Inside Camp Kotok: Wall Street's wilderness retreat is spooked by AI",
+      "summary": "At money manager David Kotok's invite-only Maine fishing retreat, financiers and policymakers spent the weekend voicing peak anxiety about the AI trade — questioning the hype while continuing to pour money in. With Nvidia reporting Wednesday, the paradox captures the market's biggest single-stock risk. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/investing/we-went-to-wall-streets-exclusive-wilderness-camp-everyone-was-spooked-by-ai-e16dbe10",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "AI adoption in property management jumps to 58%, but automation lags",
-      "summary": "AI adoption in property management leapt from 20% in 2024 to 58% in 2025, yet only 8% of companies have fully automated any process. The gap between experimentation and execution means operators who operationalize AI — leasing bots, billing, document intelligence — still have a first-mover edge.",
-      "url": "https://www.technbrains.com/blog/ai-in-proptech/",
+      "headline": "Proptech consolidation: Dwelly raises ~$93M, makes 7th acquisition of 2026",
+      "summary": "UK proptech Dwelly raised roughly $93M in blended equity and debt from General Catalyst, Begin Capital, S16VC and Trinity Capital to roll up independent letting agencies, announcing its seventh acquisition of the year, while Giraffe360 closed a $10M Series B. Investors are betting AI automation will compress agency margins — property shares are already reacting.",
+      "url": "https://blog.mean.ceo/proptech-news-august-2026/",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Hassabis pitched an AI oversight body before DeepMind exit",
-      "summary": "Before stepping down as Google DeepMind CEO, Demis Hassabis pitched government officials and rival AI lab leaders on creating an independent safety entity to set guardrails for artificial general intelligence — a signal of where AI governance debates are heading. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "JPMorgan: 71% of business leaders confident despite tougher economy",
-      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders confident in their own company's performance. New products/services top the strategy list (58%, up from 53%), with strategic partnerships and investments rising to 49% — growth plays over cost-cutting.",
-      "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
+      "headline": "Jack Daniel's heirs fight to keep control amid $15B hostile bid",
+      "summary": "Brown-Forman's founding family — in control for 150+ years — is split over how to respond to a $15 billion hostile takeover bid as profits shrink, shares sit 60% below their five-year high and the CEO heads for the exit. A case study in how family-controlled companies handle succession, governance and unsolicited capital. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/business/retail/brown-forman-heirs-feud-jack-daniels-takeover-4ecdfba9",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Intern-to-hire conversion jumps to 63.1% as AI takes menial work",
-      "summary": "63.1% of interns converted into full-time employees last year, up from 50.6% two years ago. With AI absorbing routine tasks, companies are handing interns real responsibility — from leading projects to business trips — making internship programs a sharper talent pipeline. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/lifestyle/careers/forget-about-fetching-coffee-this-summer-the-interns-are-running-the-show-d1b54f99",
+      "headline": "British grads skip top colleges for white-collar apprenticeships",
+      "summary": "British high-school graduates are increasingly bypassing university for white-collar apprenticeships, questioning the value of a degree in a job market reshaped by AI. A leading indicator for U.S. talent pipelines: employers that build earn-while-you-learn tracks may win the next generation of operations and site-level talent. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/lifestyle/careers/british-kids-are-skipping-top-colleges-for-white-collar-apprenticeships-77a47f5c",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "How Canary Wharf brought down the Reichmann empire",
-      "summary": "The Promote's trilogy on Olympia & York concludes with Canary Wharf — the megaproject where the Reichmanns' creative financing and cinematic self-belief, the very traits that built one of history's greatest real estate empires, turned against them. A cautionary leadership tale for every developer. (via The Promote)",
-      "url": "https://www.thepromote.com/p/only-mortals-go-s-empire-building",
+      "headline": "Moderna surges 177% on melanoma vaccine breakthrough",
+      "summary": "Moderna and Merck's personalized mRNA melanoma vaccine posted successful late-stage trial results, vaulting Moderna's market value from about $25 billion to roughly $60 billion in a week. Beyond the market story, targeted mRNA cancer therapy arriving this decade has real implications for senior health and longevity. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3",
+      "category": "Lifestyle",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Boards and CEOs are sharply divided on who owns AI",
+      "summary": "IMD's 2026 leadership research finds boards, CEOs and executives split on who should own AI strategy, arguing the winning organizations won't be those with the most polished strategies but the ones that learn fastest when strategies break. Clear AI ownership is becoming a governance question, not just an IT one.",
+      "url": "https://www.imd.org/blog/leadership/leadership-trends-that-will-dominate/",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "'Datamaxxers' turn AI into hyperpersonalized health coaches",
-      "summary": "Health obsessives are feeding every biomarker and workout into AI systems that act as personalized trainers and assistants — the leading edge of 2026's data-driven wellness trend, with obvious crossover potential for wellness programming in senior living. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/the-datamaxxers-feeding-their-every-health-move-to-ai-df0af9b5",
+      "headline": "AI's hunger for training data puts rare-book dealers in a bind",
+      "summary": "Used-book sellers worldwide have traced waves of mysterious bulk orders — hundreds of books at a time, no haggling — to AI companies' need for fresh LLM training content, with many volumes ending up sliced, scanned and destroyed. Dealers worry irreplaceable books are being 'sent to the guillotine.' (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
+      "category": "AI/Tech",
+      "importance": "LOW"
+    },
+    {
+      "headline": "The secret's out on the Catskills real estate boom",
+      "summary": "NYC buyers priced out of the Hudson Valley have pushed north and west into the Catskills, fueling multimillion-dollar renovations and new construction, with revamped farmhouses selling at once unheard-of prices. Another data point in the migration of urban wealth toward lifestyle markets. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/catskills-real-estate-market-a9da9070",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "Europe's new EES passport system is the curse word of the summer",
-      "summary": "The EU's new automated entry/exit system — facial recognition and fingerprints instead of passport stamps — is producing wildly inconsistent waits for U.S. travelers, from breezing through to hours-long lines on the same trip. Worth planning around for fall trips abroad. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/lifestyle/travel/europe-has-a-new-passport-systemand-its-driving-travelers-crazy-9decaa87",
+      "headline": "Chasing total solar eclipses is strangely addictive",
+      "summary": "WSJ's Pamela Paul, hooked since 2017, joined eclipse chasers from around the world on cliffs outside León, Spain for this month's totality — birds hush, dogs bark, grown adults weep. A reminder that awe is a bucket-list amenity money can still buy. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/lifestyle/travel/how-i-got-hooked-on-chasing-solar-eclipses-7d3ddb84",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "Greek island-hopping dreams meet the 'vomit comet'",
-      "summary": "High-speed ferries through the Aegean have become Odyssean ordeals — bucket-list trips that require an actual bucket when seasickness hits. WSJ's guide to island-hopping without the misery. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/lifestyle/travel/everyone-dreams-of-island-hopping-through-greeceuntil-they-board-the-vomit-comet-287b97c6",
-      "category": "Lifestyle",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Wellness 2026: the backlash against over-optimization begins",
-      "summary": "The Global Wellness Summit's 2026 trends flag a bold return of pleasure and joy over relentless self-optimization, alongside wellness tackling nervous-system exhaustion and disaster preparedness — with August marking National Wellness Month.",
-      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
+      "headline": "Could you beat a high-schooler on the new AP personal-finance test?",
+      "summary": "More than half of U.S. states now require a stand-alone personal-finance course to graduate, and the College Board is rolling out a new AP Business with Personal Finance course this school year. WSJ shares sample questions so you can test yourself against the teenagers. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/personal-finance/could-you-beat-a-high-schooler-on-the-new-ap-personal-finance-test-64b05f92",
       "category": "Lifestyle",
       "importance": "LOW"
     }
   ]
-    }
+}
+
