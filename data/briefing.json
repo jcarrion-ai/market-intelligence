@@ -1,14 +1,21 @@
 {
   "date": "2026-08-24",
   "takeaways": [
-    "The U.S.-Canada trade war is on — Washington imposed 50% tariffs on roughly $20B of Canadian goods after talks collapsed, and Canada is retaliating after Labor Day. Watch construction materials costs and a fresh inflation impulse just as the Fed weighs its next move.",
-    "A pivotal rates week: Fed Chair Kevin Warsh makes his Jackson Hole debut Thursday, with Nvidia earnings and July core PCE (forecast 3.3% y/y) both landing Wednesday — together they set the September rate path that governs the CRE refinancing window.",
+    "The Chetrit empire is teetering — Meyer Chetrit testified the once multibillion-dollar portfolio is now worth negative $80M as lenders chase hundreds of millions in personal guarantees, including Wells Fargo's suit over a $481M CMBS loan. The distress cycle is still claiming CRE's biggest names.",
+    "Wednesday is the pivot point: Nvidia is projected to post record $92B quarterly sales, July core PCE (forecast 3.3% y/y) lands the same morning, and Fed Chair Kevin Warsh makes his Jackson Hole debut Thursday — together they set the September rate path that governs the CRE refinancing window.",
     "Senior housing deal flow keeps accelerating — experts now call for a record acquisition year, Berkadia just sold a 246-unit Jacksonville community, and Sonida landed a $380M Ally loan — even as an executive exodus at Fannie Mae injects new uncertainty into agency lending."
   ],
   "items": [
     {
-      "headline": "U.S. slaps 50% tariffs on $20B of Canadian goods; trade war spirals",
-      "summary": "After trade talks broke down, the U.S. imposed 50% tariffs on about $20 billion worth of Canadian goods, and Canada announced retaliatory post-Labor Day tariffs as the two countries spiral toward an all-out trade war. For developers and operators, tariffs on Canadian lumber, steel and aluminum threaten construction and renovation budgets and add a fresh inflation impulse ahead of the Fed's September meeting. (via WSJ 10-Point)",
+      "headline": "Chetrit empire checkmated? Meyer claims portfolio is worth negative $80M",
+      "summary": "In a stunning March deposition surfaced by Mack Real Estate's Hotel Carter case, Meyer Chetrit testified the family's once multibillion-dollar portfolio is now worth -$80M. Creditors are chasing personal guarantees: Maverick won a $130M+ judgment, Mack holds $30M+ in judgments, and Wells Fargo is suing Meyer personally over a $481M CMBS loan on the Roco multifamily portfolio. Both brothers have suffered strokes, and Iron Hound's Rob Verrone is brokering lender workout talks. (via The Promote)",
+      "url": "https://www.thepromote.com/p/chetrits-checkmated-or-playing-possum",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "U.S. slaps 50% tariffs on $20B of Canadian goods as Carney walks away",
+      "summary": "After trade talks broke down, the U.S. imposed 50% tariffs on about $20 billion worth of Canadian goods, and PM Mark Carney delivered on his 'no deal is better than a bad deal' doctrine with retaliatory post-Labor Day tariffs. For developers and operators, tariffs on Canadian lumber, steel and aluminum threaten construction and renovation budgets and add a fresh inflation impulse ahead of the Fed's September meeting. (via WSJ 10-Point)",
       "url": "https://www.wsj.com/economy/trade/u-s-to-impose-50-tariffs-on-some-canadian-goods-after-failed-talks-d1510425",
       "category": "Capital Markets",
       "importance": "HIGH"
@@ -22,9 +29,23 @@
     },
     {
       "headline": "Warsh's Jackson Hole debut, Nvidia earnings and July PCE collide this week",
-      "summary": "Fed Chair Kevin Warsh delivers his first Jackson Hole keynote Thursday, while Wednesday brings a data convergence: Nvidia's Q2 results after the close, July core PCE (forecast 3.3% y/y), revised Q2 GDP and durable goods. An in-line PCE print would further reduce rate-hike odds and firm up the fall financing window for CRE deals.",
+      "summary": "Fed Chair Kevin Warsh delivers his first Jackson Hole keynote Thursday — with markets mining his old forecasts for clues on his inflation thinking — while Wednesday brings a data convergence: Nvidia's results after the close, July core PCE (forecast 3.3% y/y), revised Q2 GDP and durable goods. An in-line PCE print would further reduce rate-hike odds and firm up the fall financing window for CRE deals.",
       "url": "https://www.capitalstreetfx.com/market-analysis/nvidia-earnings-jackson-week-ahead-us-24-29-august-2026/",
       "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Wall Street counts on Nvidia to keep the AI party going Wednesday",
+      "summary": "Analysts project Nvidia will report record quarterly sales of $92 billion — up from a $78 billion forecast at the start of the year — and after wild swings in chip and Magnificent Seven stocks, Wall Street may not believe the AI boom is intact until Jensen Huang says so. The results could send shock waves through the broader market either way. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c",
+      "category": "AI/Tech",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Nvidia bets $6B on Poolside to build America's open-weight AI answer",
+      "summary": "Nvidia is spending $6 billion with startup Poolside to build one of the world's most powerful open-weight AI models under its Nemotron project, aiming to rival both Chinese open models and U.S. frontier labs within a year. Cheaper, customizable open models would lower the cost of deploying AI in operations-heavy businesses like property management. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+      "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
@@ -42,11 +63,18 @@
       "importance": "HIGH"
     },
     {
-      "headline": "Nvidia bets $6B on Poolside to build America's open-weight AI answer",
-      "summary": "Nvidia is spending $6 billion with startup Poolside to build one of the world's most powerful open-weight AI models under its Nemotron project, aiming to rival both Chinese open models and U.S. frontier labs within a year. Cheaper, customizable open models would lower the cost of deploying AI in operations-heavy businesses like property management. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
-      "category": "AI/Tech",
-      "importance": "HIGH"
+      "headline": "Ritz-Carlton Portland scores $141M C-PACE refi after 50% condo price cuts",
+      "summary": "Ready Capital, which foreclosed on Portland's Block 216 tower in July 2025 after inheriting the ~$460M construction loan via its Mosaic acquisition, landed a $141M C-PACE refi from Peachtree — after slashing prices on the tower's 132 branded condos by as much as 50%. A telling snapshot of how far lenders will go to salvage basis in hard-hit markets. (via The Promote)",
+      "url": "https://www.thepromote.com/p/chetrits-checkmated-or-playing-possum",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "The wild week Scott Bessent was schooled by the bond market",
+      "summary": "The Treasury Department's bond buyback announcement stemmed a Treasury selloff — but not for long, as yields resumed climbing in a turbulent week for government debt. Long-end volatility feeds straight into CRE: benchmark rates, not just Fed policy, will decide where senior housing acquisition debt prices this fall. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/investing/the-wild-week-when-scott-bessent-was-schooled-by-the-bond-market-a244aca2",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
     },
     {
       "headline": "Boomers are smoking more pot — and retirement communities are fuming",
@@ -60,13 +88,6 @@
       "summary": "Senior Housing News reports that despite recent web upgrades, operators' sites remain too static for an increasingly web-savvy boomer customer — sales and marketing leaders are pushing toward interactive pricing tools, virtual tours and AI-driven personalization. Digital presence is becoming a real occupancy lever as the 80-plus wave arrives.",
       "url": "https://seniorhousingnews.com/2026/08/20/senior-living-websites-are-still-too-static-heres-how-operators-can-evolve/",
       "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "The wild week Scott Bessent was schooled by the bond market",
-      "summary": "The Treasury Department's bond buyback announcement stemmed a Treasury selloff — but not for long, as yields resumed climbing in a turbulent week for government debt. Long-end volatility feeds straight into CRE: benchmark rates, not just Fed policy, will decide where senior housing acquisition debt prices this fall. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/finance/investing/the-wild-week-when-scott-bessent-was-schooled-by-the-bond-market-a244aca2",
-      "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
@@ -98,6 +119,13 @@
       "importance": "MEDIUM"
     },
     {
+      "headline": "Trump intervention got DOJ to drop its decade-long Live Nation pursuit",
+      "summary": "The Justice Department was preparing a landmark antitrust battle against the world's largest concert promoter when President Trump personally called a senior DOJ official and told him to settle it — an intervention many DOJ officials regarded as extreme even for this administration. Political risk in regulatory enforcement is now a boardroom variable across industries. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/business/media/trump-live-nation-antitrust-doj-f82b2c55",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
       "headline": "Moderna surges 177% on melanoma vaccine breakthrough",
       "summary": "Moderna and Merck's personalized mRNA melanoma vaccine posted successful late-stage trial results, vaulting Moderna's market value from about $25 billion to roughly $60 billion in a week. Beyond the market story, targeted mRNA cancer therapy arriving this decade has real implications for senior health and longevity. (via WSJ 10-Point)",
       "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3",
@@ -105,16 +133,16 @@
       "importance": "MEDIUM"
     },
     {
-      "headline": "Boards and CEOs are sharply divided on who owns AI",
-      "summary": "IMD's 2026 leadership research finds boards, CEOs and executives split on who should own AI strategy, arguing the winning organizations won't be those with the most polished strategies but the ones that learn fastest when strategies break. Clear AI ownership is becoming a governance question, not just an IT one.",
-      "url": "https://www.imd.org/blog/leadership/leadership-trends-that-will-dominate/",
-      "category": "Leadership",
+      "headline": "Distress roundup: Rialto moves on Minskoff tower, 99c grabs 110 Wall",
+      "summary": "The Promote's quickfire: Rialto is looking to seize Minskoff's 1166 Sixth Ave, mysterious operator 99c is moving to buy Rudin's 110 Wall Street, Zara billionaire Amancio Ortega snapped up a Marylebone rental development for £150M, and 601W keeps buying office in the reset-basis era while American Strategic Investment flags going-concern doubt. (via The Promote)",
+      "url": "https://www.thepromote.com/p/chetrits-checkmated-or-playing-possum",
+      "category": "Capital Markets",
       "importance": "LOW"
     },
     {
-      "headline": "AI's hunger for training data puts rare-book dealers in a bind",
-      "summary": "Used-book sellers worldwide have traced waves of mysterious bulk orders — hundreds of books at a time, no haggling — to AI companies' need for fresh LLM training content, with many volumes ending up sliced, scanned and destroyed. Dealers worry irreplaceable books are being 'sent to the guillotine.' (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
+      "headline": "Amazon's toaster-shaped Zoox robotaxis hit the road in SF and Las Vegas",
+      "summary": "Amazon's Zoox robotaxis — purpose-built with no steering wheel — are launching public rides in San Francisco and Las Vegas, escalating the autonomous ride-hailing race with Waymo. Driverless mobility keeps inching toward the mainstream, with long-run implications for parking ratios and site selection. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/business/autos/amazons-toaster-shaped-robotaxis-are-hitting-the-road-111c7b90",
       "category": "AI/Tech",
       "importance": "LOW"
     },
@@ -126,16 +154,9 @@
       "importance": "LOW"
     },
     {
-      "headline": "Chasing total solar eclipses is strangely addictive",
-      "summary": "WSJ's Pamela Paul, hooked since 2017, joined eclipse chasers from around the world on cliffs outside León, Spain for this month's totality — birds hush, dogs bark, grown adults weep. A reminder that awe is a bucket-list amenity money can still buy. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/lifestyle/travel/how-i-got-hooked-on-chasing-solar-eclipses-7d3ddb84",
-      "category": "Lifestyle",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Could you beat a high-schooler on the new AP personal-finance test?",
-      "summary": "More than half of U.S. states now require a stand-alone personal-finance course to graduate, and the College Board is rolling out a new AP Business with Personal Finance course this school year. WSJ shares sample questions so you can test yourself against the teenagers. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/personal-finance/could-you-beat-a-high-schooler-on-the-new-ap-personal-finance-test-64b05f92",
+      "headline": "Apollo's Marc Rowan is fighting Montauk locals over a $97 lobster salad",
+      "summary": "For a dozen years, Apollo CEO Marc Rowan has run a celebrity-magnet seafood shack in Montauk — Dom Pérignon, sunset views, $97 lobster salad — that neighbors say shouldn't exist at all. After years of litigation, a judge says the dispute is back at 'square one.' Even billionaires can't beat land-use fights in the Hamptons. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/lifestyle/marc-rowan-apollo-montauk-restaurant-1298affe",
       "category": "Lifestyle",
       "importance": "LOW"
     }
