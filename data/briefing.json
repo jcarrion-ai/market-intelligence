@@ -1,155 +1,169 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-11",
   "takeaways": [
-    "Warsh's hawkish Jackson Hole debut put a September 16 rate hike in play — yields jumped, stocks fell, and the fall CRE financing window now hinges on the next three weeks of data. Stress-test refis against higher benchmarks.",
-    "Senior housing keeps tightening: Q2 occupancy hit 89.9% (20th straight quarterly gain) with only 16,000 units under construction versus ~32,000/year absorption, and TTM investment sales reached $33.3B, up 83% — the margin-conversion era has arrived.",
-    "Corporate America is raising outlooks on AI spending and tariff refunds, while SB Energy dangled $5.5B in OpenAI warrants ahead of its IPO — and Opportunity Zone investors face their long-deferred Dec. 31 tax bill, likely shaking loose OZ real estate this fall."
+    "Fed hike watch: markets price a ~58-65% chance of a 25 bp hike at the Sept. 16 FOMC, with today's August CPI (consensus 3.4% YoY) the swing factor. CRE borrowing costs (~6.57%) already sit above average cap rates (~6.34%).",
+    "Senior housing occupancy hit 89.9% in Q2 — the 20th straight quarterly gain — with under 16,000 units under construction nationally. NIC expects occupancy to cross 90% before year-end.",
+    "Multifamily M&A reawakens: Independence Realty Trust is buying Centerspace in a $2.15B stock deal, while GI Partners paid $750M for a Chicago data center and SL Green is selling 110 Greene St. for $226M (~$1,011/sf)."
   ],
   "items": [
     {
-      "headline": "Warsh's hawkish Jackson Hole debut puts a September rate hike in play",
-      "summary": "Fed Chair Kevin Warsh made the case for higher rates at Jackson Hole, raising the bar for standing pat and sending bond yields higher and stocks lower. The September 15-16 FOMC — which also brings a new dot plot — is now a live meeting: a hike would reprice CRE debt just as the fall financing window opens, so refi and acquisition timelines should be stress-tested against higher benchmarks. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/economy/central-banking/warsh-makes-the-case-for-higher-rates-and-raises-the-bar-for-standing-pat-3cc1b306",
+      "headline": "Fed hike odds near 60% ahead of Sept. 16 FOMC; CPI is the swing factor",
+      "summary": "CME FedWatch puts the probability of a 25 bp hike at the Sept. 15-16 meeting at ~58%, with futures implying up to 65%, after August payrolls added 162,000 jobs and unemployment held at 4.1%. Today's August CPI print (consensus 3.4% YoY, matching July) is the last major input; CNN notes even a cooler report may not stop Chair Warsh's Fed from hiking. A hike would push senior housing debt costs higher just as refinancing windows for 2021-22 vintage bridge loans come due.",
+      "url": "https://us.cnn.com/2026/09/11/economy/cpi-inflation-august",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior housing occupancy hits 89.9% — 20th straight quarterly gain",
-      "summary": "NIC MAP data show Q2 2026 occupancy climbed 0.4 points to 89.9%, with occupied units at a record and 15 of 31 primary markets at or above 90% — triple the count of three quarters ago. Trailing 12-month investment sales hit $33.3B through May, up 83% year-over-year. Pricing power is shifting decisively to operators like Lloyd Jones as the 80-plus wave arrives.",
-      "url": "https://www.nic.org/blog/senior-housing-occupancy-climbs-in-second-quarter-2026/",
+      "headline": "Senior housing occupancy hits 89.9%, 20th straight quarterly gain",
+      "summary": "NIC MAP data shows Q2 2026 occupancy averaged 89.9%, up 40 bps from Q1, with independent living above 90% and assisted living at 88%+. Fewer than 16,000 units are under construction nationally and annual inventory growth is at record lows near 0.4-0.7%. NIC projects occupancy will surpass 90% before year-end — the highest in 20 years of tracking — giving operators like Lloyd Jones continued rate-growth leverage.",
+      "url": "https://seniorshousingbusiness.com/nic-seniors-housing-occupancy-nears-90-percent/",
       "category": "Senior Housing",
       "importance": "HIGH"
     },
     {
-      "headline": "Senior living's new era: 16K units under construction vs 32K/year absorbed",
-      "summary": "Senior Housing News reports the industry is entering a period of narrowing capacity and little supply growth: just 16,000 units were under construction in Q2 against average absorption of roughly 32,000 filled units per year over the past four years. The next battle is converting near-full occupancy into sustainable margins — expense control, labor management and strategic waitlists replace lease-ups as the operator playbook.",
-      "url": "https://seniorhousingnews.com/2026/08/28/narrowing-capacity-little-growth-welcome-to-senior-livings-new-era/",
-      "category": "Senior Housing",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Corporate America rings up hefty sales and raises outlooks across the board",
-      "summary": "From Target and J.M. Smucker to Deere, big U.S. companies are posting stronger sales and earnings and raising full-year outlooks, fueled by red-hot AI spending, federal outlays, tariff-payment refunds, and wealth effects from a booming stock market and high home values. A resilient consumer and corporate sector supports occupancy demand — but also gives Warsh's Fed cover to tighten. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/earnings/corporate-profit-america-44836dc6",
+      "headline": "Independence Realty to buy Centerspace in $2.15B all-stock deal",
+      "summary": "Independence Realty Trust agreed to acquire Centerspace in a stock transaction valued at $2.15B including assumed liabilities; each Centerspace share converts to 3.8 IRT shares, leaving IRT holders with 78% of the combined company. The deal follows Camden's $1.63B California exit and a doubling of major apartment REIT investment activity in Q2. Public multifamily consolidation signals REIT cost of capital has improved enough to transact again.",
+      "url": "https://crenews.com/2026/09/10/independence-realty-to-buy-centerspace-in-2-15bln-stock-deal/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Opportunity Zone investors face the long-delayed Dec. 31 tax bill",
-      "summary": "Investors who rolled capital gains into Opportunity Zone funds under the 2017 program must finally include those long-deferred gains in taxable income after the crucial Dec. 31, 2026 date. Expect a wave of liquidity planning, asset sales and recapitalizations around OZ real estate this fall — both a risk and a buying opportunity in OZ-heavy Sunbelt markets. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/personal-finance/taxes/long-delayed-tax-bill-comes-due-for-opportunity-zone-investors-1c81969a",
+      "headline": "CRE borrowing costs now exceed cap rates as 10-year tops 4.6%",
+      "summary": "Average CRE borrowing costs are hovering near 6.57% while average cap rates sit around 6.34%, an unusually tight (negative) spread. The 10-year Treasury climbed to ~4.66% on Sept. 2 from 4.49% at August month-end. Multifamily loans over $6M start around 5.70%, CMBS at 6.63%, and SBA 504 at 6.03% as of Sept. 8 — negative leverage persists for most acquisitions.",
+      "url": "https://greenfinancing.com/commercial-real-estate-interest-rate-outlook-2026/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "SoftBank's SB Energy dangled $5.5B in warrants to land OpenAI",
-      "summary": "SB Energy issued OpenAI warrants worth an estimated $5.5 billion to secure the AI giant as a data-center tenant, and the SoftBank-backed company could make its IPO filing public as soon as this week. The scale of concessions shows how ferociously power-and-land players are competing for AI tenants — with data-center demand continuing to reshape CRE. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e",
+      "headline": "OpenAI launches ChatGPT for Financial Services with Morgan Stanley, Evercore",
+      "summary": "OpenAI rolled out a finance-specific ChatGPT workspace built on GPT-6 with integrated Daloopa, PitchBook, LSEG and Crunchbase data plus S&P, FactSet and MSCI connectors, targeting LBO models, buyer screens and pitchbooks. Morgan Stanley and Evercore are design partners; a Goldman executive warned automating junior work could erode expertise. Real estate underwriting and investor-deck production are direct use cases.",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "Banks and life insurers storm back into multifamily lending",
-      "summary": "CRE Daily reports banks and life companies are competing aggressively for multifamily loans again in 2026, while debt funds stay busy on refinancings and rescue capital. More lender competition means tighter spreads and better terms for well-occupied senior housing and multifamily sponsors heading into the fall window.",
-      "url": "https://www.credaily.com/briefs/banks-revive-multifamily-lending-as-debt-funds-surge-in-2026/",
+      "headline": "CEOs' real jobs problem: engagement and a hollowed-out leadership pipeline",
+      "summary": "Fortune's Diane Brady reports CEOs are less worried about hiring than about skills gaps, low engagement and AI eroding entry-level roles that build future leaders. Fewer than a third of employees are engaged, real wages have fallen four months in a row, and August's 162,000 new jobs skewed to lower-wage sectors like food service and home health care. Voya CEO Heather Lavallee's question applies to senior living: if AI takes entry-level work, how do you create future experts?",
+      "url": "https://fortune.com/2026/09/08/jobs-report-hiring-ceos-ai-employee-engagement-leadership-pipeline/",
+      "category": "Leadership",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Sonder bankruptcy spreads distress to apartments in healthy markets",
+      "summary": "The Chapter 7 liquidation of short-term rental operator Sonder is creating idiosyncratic distress among CMBS-financed apartment properties that relied on its master leases, even in otherwise strong markets. Leasehold interests across 17 states — including New York, Los Angeles, Chicago and Phoenix — are being marketed in the bankruptcy sale. A reminder that single-tenant operator concentration is a credit risk regardless of submarket fundamentals.",
+      "url": "https://crenews.com/2026/09/10/sonder-bankruptcy-causes-distress-among-apartments-in-healthy-markets/",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Wall Street's momentum trade suddenly unravels",
-      "summary": "The long-winning strategy of buying rising stocks and shorting strugglers has abruptly turned into a loser, with S&P futures slipping Monday morning. Factor unwinds of this kind often precede broader volatility — worth watching with Nvidia-era concentration risk and a live September Fed meeting. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/finance/stocks/the-sudden-unraveling-of-wall-streets-momentum-trade-fe79b4fa",
+      "headline": "SL Green sells SoHo's 110 Greene St. for $226M, ~$1,011/sf",
+      "summary": "SL Green struck a deal to sell the 223,600-sf, 13-story SoHo Building to Natora Group for $226M via Eastdil Secured. The pricing near $1,011/sf underscores the bifurcation between trophy/well-located office and the commodity office stock still seeing appraisal cuts (e.g., N.J. and Long Island CMBS collateral this week). Shorenstein separately bought the 300,000-sf Sherry Lane Place in Dallas from a CBRE Global Investors fund.",
+      "url": "https://crenews.com/2026/09/09/sl-green-selling-manhattans-110-greene-st-for-226mln/",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "The 'Roth IRA on steroids' pulling billions into private real estate",
-      "summary": "Ultrawealthy investors are pouring billions into private-placement life insurance, which lets unlimited investments in hedge funds, private credit and private real estate grow tax-free — provided investors surrender control of the assets. Another expanding pool of tax-advantaged capital hunting private real estate exposure. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/finance/investing/a-roth-ira-on-steroids-wealthy-americans-find-another-tax-free-way-to-invest-82816ffc",
+      "headline": "GI Partners pays $750M for 30 MW Chicago-area data center",
+      "summary": "GI Partners acquired the 30-megawatt Skybox Chicago I Data Center in Elk Grove Village, Ill., for $750M — roughly $25M per megawatt. The trade comes as Massachusetts became the third state in three months (after New York and Texas) to tighten data-center siting rules, requiring facilities over 25 MW to supply their own clean power. Land and power constraints are pushing data-center capital toward existing, energized assets.",
+      "url": "https://crenews.com/2026/09/10/gi-partners-pays-750mln-for-chicago-area-data-center/",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Social Security reserves run out in 2032 — a 22% automatic benefit cut looms",
-      "summary": "Social Security's retirement trust fund is projected to exhaust reserves in 2032, triggering an automatic 22% benefit cut if Congress doesn't act; legislative progress remains slow. Resident affordability is a long-run underwriting issue for senior housing — middle-market products and rate strategies will feel it first. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/politics/policy/social-security-deadline-congress-26450dee",
+      "headline": "Senior living moves onto university campuses as approvals ease",
+      "summary": "University-affiliated senior living is gaining momentum in 2026 as development-approval processes become easier, per Senior Housing News. Merrill Gardens was selected to develop a 250-unit community in partnership with San Diego State University targeting a 2030 opening. With the average construction cycle now at 29 months, projects breaking ground in early 2026 won't deliver until 2028 — university land partnerships offer a differentiated pipeline.",
+      "url": "https://seniorhousingnews.com/2026/09/03/despite-long-development-cycles-universities-offer-opportunities-for-senior-living/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "ASHA: senior living's next challenge is turning occupancy into margin",
-      "summary": "McKnight's reports the industry enters 2026 'at a critical juncture': occupancy growth is stabilizing while revenue growth slows, per ASHA's State of Seniors Housing data. Operators near full occupancy must manage demand and waitlists strategically while wrestling labor and operating costs — margin conversion, not census, is now the scoreboard.",
-      "url": "https://www.mcknightsseniorliving.com/news/senior-living-enters-2026-at-a-critical-juncture/",
+      "headline": "Ventas lifts 2026 senior housing investment target 50% to $4.5B+",
+      "summary": "Ventas is increasing its 2026 senior living investment guidance from $3B to over $4.5B as REITs continue to dominate transaction volume, often buying below replacement cost. Welltower's $14B acquisition of 700+ communities and its $7.2B outpatient medical sale to Kayne Anderson show the largest healthcare REITs going all-in on senior housing. Institutional buyers are returning, which should support cap rate compression for stabilized assets.",
+      "url": "https://www.multihousingnews.com/senior-living-trends/",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Lookthrough and BuildingMinds merge to build AI decision engine for CRE",
-      "summary": "The combined company pairs one of the world's largest institutional real estate datasets — over 100,000 buildings across 64 countries — with AI-powered decision intelligence for owners and asset managers. Consolidation in proptech data platforms is accelerating as institutions demand portfolio-level AI tools.",
-      "url": "https://www.globenewswire.com/news-release/2026/08/24/3349547/0/en/lookthrough-and-buildingminds-join-forces-to-build-the-leading-ai-platform-for-real-estate-decision-intelligence.html",
+      "headline": "California signs first-in-nation AI auditor and safety laws",
+      "summary": "Gov. Newsom signed SB 813, creating a framework for independent AI verification organizations and a California AI Standards and Safety Commission, and AB 1405, establishing a state AI-auditor registry with independence and transparency rules. Anthropic backed the package in August and OpenAI endorsed it before signing. Companies deploying AI in California operations — including property management and resident-facing tools — will face a new audit regime.",
+      "url": "https://www.gov.ca.gov/2026/09/09/governor-newsom-signs-first-in-the-nation-ai-safeguards-to-protect-californians-calls-on-the-federal-government-to-do-its-part",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Job interviews' new hurdle: prove you're human",
-      "summary": "With AI-assisted answering, deepfakes and outright fraudulent candidates complicating hiring, companies now ask applicants to remove virtual backgrounds, pan cameras and wave hands on video calls. Anyone hiring at scale — including property managers and operators — needs interview verification protocols. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/lifestyle/careers/remote-job-interview-applications-fraud-c9022cbe",
+      "headline": "OpenAI opens Agents API beta; Amazon pilots ads inside ChatGPT",
+      "summary": "OpenAI put its Agents API into public beta, exposing its managed Codex harness for orchestration, long-running sessions, context compaction and subagents at no fee beyond model tokens. The same day Amazon Ads opened a U.S. pilot placing labeled ads beneath ChatGPT answers on free tiers, with ChatGPT Ads reportedly at a $1B annualized run rate. Agentic tooling is becoming commoditized infrastructure for back-office automation.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Apple's next CEO John Ternus must rev up the innovation engine",
-      "summary": "Incoming Apple CEO John Ternus needs to take the company beyond Tim Cook's supply-chain mastery and reignite innovation, especially in AI, where Apple has lagged. A high-profile case study in succession: operational excellence got Apple here, but the board is betting product vision wins the next decade. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/tech/apple-ceo-john-ternus-2a4fad48",
+      "headline": "AI adoption in property management jumps to 58%, but only 8% fully automated",
+      "summary": "AI adoption in property management rose from 20% in 2024 to 58% in 2025, yet only 8% of firms have fully automated any single process. AI adopters expect 31% portfolio growth in 2026 versus 12% for non-adopters, and McKinsey-style estimates put $430-550B of annual value at stake across real estate, construction and development. Valuations, document processing, fraud checks and energy systems are the leading use cases.",
+      "url": "https://www.technbrains.com/blog/ai-in-proptech/",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Tech executive pay up 45% since 2021 on AI demand",
+      "summary": "Median compensation for executives with 'technology' in their title rose about 45% from 2021 to $2.6M in the latest fiscal year — more than the combined increase for CEOs, COOs, CFOs and CIOs. Meanwhile BlackRock is investing $100M in skilled-trade training and Meta partnered with CBRE on a five-week program guaranteeing jobs. Operators competing for tech and maintenance talent face rising comp benchmarks at both ends.",
+      "url": "https://fortune.com/2026/09/07/tech-pay-cto-ceo-raise/",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Texas banking billionaire's heirs sue for his $600M Hilltop stake",
-      "summary": "Four adult children of 82-year-old Gerald J. Ford are suing to wrest control of his 26%+ stake in Hilltop Holdings, alleging cognitive decline and manipulation; his camp calls it greed. A cautionary tale on estate planning and family governance now rattling a public company board. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/a-texas-banking-billionaire-and-his-children-are-locked-in-a-bitter-succession-drama-0b39ffaa",
+      "headline": "Data-center backlash: 142 protests in 42 states as AI CEOs pitch G20",
+      "summary": "At a G20 event in North Carolina, Sam Altman and Jensen Huang promoted AI and the need for more data centers while hundreds protested water and energy use. Data-center resistance saw 142 demonstrations in 42 states in July, and two-thirds of Americans oppose a facility in their own community per Economist/YouGov. Community opposition is now a material entitlement risk for any large power-hungry development.",
+      "url": "https://fortune.com/2026/09/05/tech-ceos-ai-data-centers-g20-protests-sam-altman-nvidia-jensen-huang-palantir-alex-karp-chapel-hill-north-carolina-ai-backlash/",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "The enrollment crisis reaches big universities — Syracuse misses its target",
-      "summary": "Despite a $2.5B endowment and merit-aid offers up to $200,000, Syracuse fell short of freshman enrollment and hit a budget shortfall, as the demographic cliff long squeezing small colleges spreads to midsize privates. The same demographic math boosting senior housing demand is hollowing out higher ed — and reshaping regional labor markets. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/us-news/education/syracuse-student-application-enrollment-crisis-budget-ff142896",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Pharma stares down its biggest patent cliff in decades",
-      "summary": "Nearly every major drugmaker has at least one blockbuster losing patent protection in the next five years, the industry's largest expiration wave in over a decade. Cheaper generics and biosimilars could meaningfully cut drug costs for seniors — relevant to resident affordability and wellness programming. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/health/pharma/pharma-industry-stares-down-biggest-patent-cliff-in-decades-2d96c4cd",
+      "headline": "Lifestyle programs improve memory in older adults at dementia risk",
+      "summary": "New research this week found older adults at risk of dementia improved memory and cognition after structured programs combining exercise, healthy eating, cognitive training and social engagement. Separately, 'intrinsic capacity' — a holistic measure of physical and mental capability — is emerging as a preferred way to measure aging. Both support evidence-based wellness programming as a differentiator in memory care and assisted living.",
+      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/09/09/must-reads-from-the-wellness-world-september-2026/",
       "category": "Lifestyle",
       "importance": "MEDIUM"
     },
     {
-      "headline": "How Dolly Parton built an empire by owning her songs",
-      "summary": "Parton walked away from an Elvis recording of 'I Will Always Love You' rather than surrender half the songwriting rights — an early act of the ownership discipline that built a music, film and Dollywood empire while even the Beatles lost control of their catalogs. Own your assets; control your destiny. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/business/dolly-parton-business-rights-dollywood-599aae2b",
+      "headline": "Why senior living operators must embrace failure to innovate",
+      "summary": "Senior Housing News argues operators need a higher tolerance for failed pilots in 2026, citing successful partnerships and the operational upside of experimentation. With workforce costs pressuring margins and middle-market affordability unresolved, innovation in staffing models and technology is becoming a competitive necessity rather than a nice-to-have.",
+      "url": "https://seniorhousingnews.com/2026/09/10/why-senior-living-operators-must-embrace-failure-to-innovate/",
+      "category": "Senior Housing",
+      "importance": "LOW"
+    },
+    {
+      "headline": "1 in 3 seniors has EMS encounter in year before injurious fall",
+      "summary": "McKnight's Sept. 10 briefing flags research showing one in three older adults has an emergency medical services encounter in the 12 months before an injurious fall, creating a window for intervention. The same briefing notes U.S. life plan communities are showing improvement and a state's nursing home inspection cadence still averages 20 months. Fall-prevention protocols tied to EMS data could reduce liability and hospital transfers for assisted living operators.",
+      "url": "https://www.mcknights.com/news/also-in-the-news-for-thursday-sept-10-2/",
+      "category": "Senior Housing",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Positron AI raises $875M at $5B; Nvidia maps 2 GW of Australian AI factories",
+      "summary": "Positron AI closed an $875M round at a $5B post-money valuation (NEA, Atreides, Valor) for inference chips already deployed at Oracle Cloud, while Nvidia announced Australian partners will prepare land, power and shells for up to 2 GW of capacity by 2027. SoftBank is reportedly negotiating a majority stake in humanoid-robot maker 1X at ~$6B. The DOJ has also opened an antitrust file on Nvidia's $17-20B Groq license.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "category": "AI/Tech",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Business leaders 71% confident in own firms, less so in industry",
+      "summary": "JPMorgan's 2026 Business Leaders Outlook finds 71% of leaders optimistic about their own company's performance despite a tougher economy, while industry-level optimism fell 9 points year over year. New product/service introduction is the top growth strategy (58%, up from 53%), and strategic partnerships rose to 49%. Leaders are shifting from single 'global default' plans to portfolios of regional plays and diversified supplier bases.",
+      "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "Young New Yorkers who scored rent-stabilized apartments are a rare breed",
-      "summary": "A city comptroller analysis shows fewer Gen-Z and millennial renters break into rent-stabilized stock as boomers and Gen-Xers hold their deals and old buildings get demolished. A vivid snapshot of intergenerational housing lock-in — and why new supply, including senior housing that frees up family homes, matters. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/economy/housing/these-young-new-yorkers-scored-the-ultimate-deal-a-rent-stabilized-apartment-b130a6a2",
+      "headline": "Semaglutide linked to 40% fewer asthma attacks, 12% longer lifespan in mice",
+      "summary": "A large real-world study tied semaglutide (Ozempic/Wegovy) to nearly 40% fewer asthma attacks and ~20% fewer COPD flare-ups, while a Swedish study of ~15,000 people with bipolar disorder found a 21% lower risk of psychiatric conditions. In old mice the drug extended lifespan by an average of 12%. GLP-1s are increasingly relevant to resident health profiles and length of stay in senior living.",
+      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/09/09/must-reads-from-the-wellness-world-september-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "Strongest El Niño in a generation is rattling the global economy",
-      "summary": "Declared in June, this El Niño is already showing up in Panama Canal transit costs, Chilean copper output and crop forecasts, with knock-on effects for insurance, construction materials and energy prices. One more input for construction budgets and property insurance renewals in climate-exposed markets like Florida. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16",
-      "category": "Capital Markets",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Wellness Month closes with 'emotional fitness' named 2026's defining trend",
-      "summary": "As National Wellness Month wraps, the Global Wellness Summit's 2026 trends put emotional fitness, biomarker-driven personalization and mainstream longevity at the center — and employers now treat workplace wellness as retention strategy, not perk. Useful framing for both resident programming and employee-benefit design.",
-      "url": "https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
+      "headline": "Workplace wellness shifts to 'emotional fitness' and healthy longevity",
+      "summary": "2026 wellness trends center on emotional fitness — cognitive performance plus resilience — and employers embedding healthy longevity into how work is designed. Gallup reports more than half of U.S. workers experience significant daily stress, and workers now expect support across fitness, mindfulness, therapy, nutrition and sleep. For frontline-heavy senior living workforces, outcomes-driven wellbeing programs are becoming a retention tool.",
+      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/07/workplace-wellbeing-initiative-trends-for-2026/",
       "category": "Lifestyle",
       "importance": "LOW"
     }
