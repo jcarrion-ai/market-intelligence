@@ -1,150 +1,150 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "takeaways": [
-    "Fed decides Wednesday with markets pricing roughly 58–83% odds of a 25 bp HIKE to 3.75–4.00% after hot August core CPI — the first hike of this cycle would push CRE debt costs, already ~6.6% vs. ~6.3% cap rates, further into negative leverage.",
-    "AI stocks sold off globally Monday after Anthropic's Dario Amodei — backed by Sam Altman and Elon Musk — called for pacing frontier AI; Nvidia fell ~2%, SoftBank 10%, SK Hynix 6%. Trump rejected the call: 'whoever wins AI, wins.' Anthropic still eyes an October Nasdaq IPO at up to $2T.",
-    "Senior housing capital keeps flowing despite rates: Inspiren raised a $70M Series C (>$500M valuation) for fall-prediction AI, American Healthcare REIT closed $572M of an $873M Kensington portfolio, and sector investment sales hit $33.3B trailing-12-month, up 83%."
+    "FOMC decision day is tomorrow: the Fed starts its Sept. 15–16 meeting with the target range at 3.50–3.75%, and futures now price a gradual climb to ~4.2% by December — a hike, not a cut, is the base case, keeping CRE borrowing costs elevated.",
+    "CMBS stress keeps building: special servicing rose 3.1% in August to $68.88B, a $785M loan on One SoHo Square moved to special servicing, and $37B of 2026 hard maturities still need a home — 39% of them in Q4.",
+    "Senior housing fundamentals stay the sector's bright spot: Q2 occupancy hit 89.9% (20th straight quarterly gain, 10 bps from 90%) with fewer than 16,000 units under construction, while operators lean on food, rural markets and dynamic pricing to fill the gap."
   ],
   "items": [
     {
-      "headline": "Fed hike odds jump ahead of Sept. 16 FOMC after hot core CPI",
-      "summary": "The FOMC announces Wednesday at 2 p.m. ET; CME FedWatch shows ~58% odds of a 25 bp hike to 3.75–4.00%, with some prediction markets above 80%, after hotter-than-expected August core CPI and strong payrolls. J.P. Morgan Wealth expects a hike while Goldman calls one 'very unlikely.' Futures now price fed funds near 4.1% by December — a hike would be the first of the cycle and would reprice floating-rate and bridge debt across senior housing.",
-      "url": "https://www.atfxcapital.com/en/analysis/market-news/september-fomc-meeting-2026-is-a-rate-hike-on-the-table",
+      "headline": "FOMC opens two-day meeting; markets price hikes, not cuts, into 2027",
+      "summary": "The Fed's Sept. 15–16 meeting begins with the target range at 3.50–3.75% and persistent inflation, including higher energy costs, in focus. Futures now imply a gradual rise to about 4.2% by December and ~4.6% by September 2027. For senior housing borrowers, that means refinancing and construction debt stay expensive through at least mid-2027 — underwrite to today's coupons, not to hoped-for relief.",
+      "url": "https://fedratecalc.com/fomc-meeting-schedule/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "AI stocks slide worldwide as Amodei, Altman, Musk back a slowdown",
-      "summary": "Global AI shares fell Monday after Anthropic CEO Dario Amodei's essay urging labs to 'pace the frontier,' endorsed by Sam Altman ('I agree with Dario') and Elon Musk ('Dario is right'). Nvidia dropped ~2.1% premarket to $213.84, AMD/Intel/Qualcomm fell 4–5%, SoftBank sank 10% in Tokyo and SK Hynix 6%. Trump dismissed the call in Ireland: 'whoever wins AI, wins.' Watch data-center and AI-infrastructure CRE valuations if the sentiment shift persists.",
-      "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+      "headline": "CMBS special servicing climbs 3.1% in August to $68.88B",
+      "summary": "Commercial Real Estate Direct reports special servicing volume rose to $68.88B in August while 30-plus-day delinquencies held near $47.42B. Office distress hit a record 8.89% in July, and of $65B in CMBS loans maturing by year-end, $37B are hard maturities with no extension option — 39% of them in Q4. Expect more lender-driven sales and note trades this fall.",
+      "url": "https://crenews.com/2026/09/14/cmbs-special-servicing-volume-climbed-3-1-in-august-to-68-88bln/",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "$785M One SoHo Square loan transfers to special servicer Midland",
+      "summary": "The senior CMBS loan on the 786,891-sq-ft Manhattan office property moved to Midland Loan Services, one of the largest single-asset transfers of the year. It underscores that even well-located, recently renovated office is not immune to the maturity wall — and that special servicers' workloads are growing just as Q4 maturities peak.",
+      "url": "https://crenews.com/2026/09/11/785mln-cmbs-loan-against-manhattan-office-moves-to-special-servicer/",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Senior housing occupancy hits 89.9% in Q2, 10 bps from the 90% mark",
+      "summary": "NIC MAP data show occupancy in the 31 Primary Markets rose 0.4 points to 89.9% — a 20th consecutive quarterly gain and a record number of occupied units. Independent living reached 91.3% and assisted living 88.4%, the narrowest IL/AL spread since 2014, while fewer than 16,000 units are under construction nationally. Pricing power for operators in supply-constrained metros should continue into 2027.",
+      "url": "https://www.nic.org/blog/senior-housing-occupancy-climbs-in-second-quarter-2026/",
+      "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Anthropic, OpenAI and Google in talks to form AI safety standards body",
+      "summary": "The Information and the Washington Post report the three labs have met since July on an industry-led body to set pre-release testing and audit protocols for frontier models, with Demis Hassabis pushing to launch before year-end. Dario Amodei's essay 'We Must Pace the Frontier' argues for deliberately slowing capability gains; the Trump administration opposes any slowdown. For operators buying AI tools, expect vendors to start citing third-party audits as a differentiator.",
+      "url": "https://www.washingtonpost.com/technology/2026/09/14/anthropic-openai-google-discussed-creating-new-ai-safety-body/",
       "category": "AI/Tech",
       "importance": "HIGH"
     },
     {
-      "headline": "Inspiren raises $70M Series C for fall-predicting senior living AI",
-      "summary": "Inspiren closed a $70M Series C led by NewView Capital with Insight Partners, Primary, Scale and Camber Creek, lifting total funding to $225M and valuation past $500M. Its ambient sensors and computer vision predict falls, automate care documentation and flag emergencies in senior living communities. The round signals institutional conviction in 'physical AI' for operators facing labor costs and liability — a category Lloyd Jones communities should be piloting.",
-      "url": "https://seniorhousingnews.com/2026/09/10/senior-careai-company-inspiren-raises-70m-in-new-funding-round/",
-      "category": "Senior Housing",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "American Healthcare REIT closes $572M of $873M Kensington portfolio",
-      "summary": "AHR acquired six Kensington Senior Living communities (464 units) for ~$572M, part of an eight-community, 745-unit, $873M deal; the last two close in Q4 with Kensington staying on as operator. Assets sit in infill LA, Bay Area, D.C. and New York submarkets, 93% AL/memory care. Trailing-12-month senior housing investment sales hit $33.3B (+83%), and AHR's YTD volume now tops $2B with a $675M+ awarded pipeline.",
-      "url": "https://www.multihousingnews.com/american-healthcare-pays-572m-for-senior-housing-portfolio/",
-      "category": "Senior Housing",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "CRE borrowing costs top cap rates as 30-year Treasury hits 19-year high",
-      "summary": "The 30-year Treasury topped 5.33% in August, a 19-year high, and the 10-year sat near 4.66% in early September, up from 4.49% at end-August. Average CRE borrowing costs are ~6.57% versus average cap rates of ~6.34% — a negative spread that pressures refinancings. Sticky inflation, deficit worries and a surge in AI-related corporate bond issuance are driving the term premium.",
-      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+      "headline": "Sonder's Chapter 7 spreads distress to apartments in healthy markets",
+      "summary": "The short-term-rental operator's liquidation is triggering idiosyncratic defaults on CMBS-financed multifamily properties that relied on Sonder master leases, even in strong metros. It's a reminder that single-tenant or single-operator concentration — including senior housing triple-net leases — is a credit risk regardless of market fundamentals.",
+      "url": "https://crenews.com/2026/09/10/sonder-bankruptcy-causes-distress-among-apartments-in-healthy-markets/",
       "category": "Capital Markets",
-      "importance": "HIGH"
+      "importance": "MEDIUM"
     },
     {
-      "headline": "Anthropic picks Nasdaq for potential October IPO at up to $2T",
-      "summary": "Anthropic has chosen Nasdaq for a possible October listing valued as high as $2 trillion, per Bloomberg and CNBC, after Q2 revenue of $11.5B (14x YoY) and ~$65B annualized run-rate by late July. Bankers' valuation rests on projected 2028 revenue of $190–200B. OpenAI's Sam Altman, by contrast, says his company will not go public in 2026 amid safety concerns.",
-      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "headline": "10-year Treasury near 4.66%; multifamily agency debt starts at 5.70%",
+      "summary": "Commercial mortgage rates as of Sept. 13 start at 5.70% for multifamily loans over $6M, 6.11% under $6M, and 6.63% for CMBS; life-company 10- and 15-year fully amortizing multifamily executions run 5.79–7.06%. The 10-year has moved 25 bps against fixed-rate borrowers in six weeks. Lenders say capital is plentiful but structure — leverage, amortization, reserves — now drives pricing more than timing.",
+      "url": "https://selectcommercial.com/commercial-mortgage-rates.php",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "LeadingAge CEO Katie Smith Sloan to step down March 2027",
+      "summary": "The nonprofit aging-services association's president and CEO will depart effective March 31, 2027, with a search committee forming now. Also in this week's Movers and Shakers: Anthem Memory Care promoted its president. Sloan's successor will shape LeadingAge's policy push on workforce, Medicaid rates and middle-market affordability during a critical 2027–28 window.",
+      "url": "https://seniorhousingnews.com/2026/09/14/movers-and-shakers-leadingage-president-ceo-to-step-down-anthem-promotes-president/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "LCS, Aspenwood, HDG turn dining into a sales-conversion engine",
+      "summary": "Operators are using chef-led five-course tastings and dining events — including for communities still under construction — to let prospects experience quality of life before touring. LCS, Health Dimensions Group and Aspenwood report food-first events shorten the sales cycle and lift deposit conversion. A low-capex tactic worth testing in lease-ups and repositionings.",
+      "url": "https://seniorhousingnews.com/2026/09/14/meals-into-marketing-lcs-aspenwood-hdg-use-food-to-wow-senior-living-prospects/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Dockerty Health Care bets on rural AL and memory care in Michigan, Wisconsin",
+      "summary": "The 12-campus operator, No. 130 on the 2026 Argentum 150 (up from 142), is expanding into Wisconsin while staying deliberately rural, citing less competition, loyal local staff and underserved demand. It's a counterpoint to the metro-focused growth playbook and a signal that smaller-market AL/MC deals are attracting operator capital.",
+      "url": "https://seniorhousingnews.com/2026/09/14/why-dockerty-health-care-services-is-sticking-to-rural-markets-in-michigan-wisconsin/",
+      "category": "Senior Housing",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "McKnight's Tech Awards winners revealed Sept. 15–16, with new AI category",
+      "summary": "The 16th annual Excellence in Technology Awards names winners across 14 categories this week, including two new ones — Creative Use of AI and Tech Champion — at a virtual summit with CE-credit webinars. Sponsors include SafelyYou, MatrixCare, Sentrics and Viventium. The finalist list is a useful shortlist of vendors already proven with senior living and skilled nursing operators.",
+      "url": "https://www.mcknightsseniorliving.com/news/finalists-announced-in-16th-annual-mcknights-tech-awards-competition/",
       "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
-      "headline": "CMBS delinquency at 7.86%; multifamily 7.69%, office 11.91%",
-      "summary": "Trepp's overall CMBS delinquency rate rose 51 bp to 7.86% in July, with multifamily up 46 bp to 7.69% and office at 11.91%; August saw a slight dip, but new delinquencies are replacing resolved ones. Office is 42% of the late-paying balance, and more than $100B of CMBS loans mature in 2026 with over half expected to default at maturity rather than for cash-flow reasons. Lenders remain selective, which keeps agency and HUD executions attractive for senior housing.",
-      "url": "https://newslink.mba.org/mba-newslinks/2026/august/mba-newslink-thursday-august-6-2026/trepp-cmbs-delinquency-rate-up-51-basis-points-in-july/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Multifamily sales hit $36.7B in Q2 as starts fall 47%",
-      "summary": "National apartment sales volume rose to $36.7B in Q2 from $32B in Q1, per Commercial Real Estate Direct, as lower rate volatility and clearer underwriting bring buyers back. Multifamily starts are down more than 47% over the trailing 12 months, tightening future supply. The recovery is still uneven — San Francisco 1H volume trails 2025's pace — but declining pipelines support the same demand-supply story senior housing is benefiting from.",
-      "url": "https://crenews.com/2026/09/01/national-multifamily-transaction-volume-reaches-36-7bln-in-1h-2026/",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Brookdale, Atria, Sonida adapt to senior living supply-demand imbalance",
-      "summary": "Senior Housing News reports the largest operators are reshaping strategy around a market where occupied units grew ~3,700 in Q2 to 639,650 while fewer than 16,000 units are under construction nationally. With national occupancy at 89.9% and 15 of 31 primary markets above 90%, operators are leaning on rate growth, unit conversions and selective acquisitions rather than ground-up development. Secondary and tertiary markets are drawing developers priced out of primary metros.",
-      "url": "https://seniorhousingnews.com/2026/09/09/brookdale-atria-sonida-other-senior-living-operators-adapt-to-industrys-supply-demand-imbalance/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Nonprofit senior living embraces dynamic pricing to fine-tune rates",
-      "summary": "Nonprofit operators are joining Atria, Discovery, Sagora and Grand Living in adopting unit-by-unit dynamic pricing, adjusting rates roughly weekly based on occupancy, unit type and location. Unlike airlines, senior living pricing changes are measured — but the shift moves the industry away from annual across-the-board increases. For operators near 90% occupancy, revenue management becomes the primary NOI lever as expense growth outpaces rate growth.",
-      "url": "https://seniorhousingnews.com/2026/09/11/senior-living-nonprofits-embrace-dynamic-pricing-models-to-fine-tune-rates/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Dimon: JPMorgan wins by deploying 5–10 person 'Navy SEAL' teams",
-      "summary": "Despite 300,000 employees, Jamie Dimon says JPMorgan now structures major initiatives — including AI — around teams of five to ten people with full decision authority who own measurable outcomes end to end. He cites 'social loafing' research showing individual effort drops sharply as groups grow, echoing Bezos' two-pizza rule. A useful template for regional operators tackling AI, staffing and pricing projects without adding layers.",
-      "url": "https://fortune.com/article/jamie-dimon-jpmorgan-small-teams-navy-seals-delta-force-social-loafing-ai-workplace-productivity-management-leadership/",
+      "headline": "HBR: rethink workflows before layering AI on top of them",
+      "summary": "In a Sept. 14 HBR piece, Masha Shunko and Serguei Netessine argue that most AI deployments fail because companies automate existing processes rather than redesigning them, and that exception-heavy work — contract review, compliance, risk — offers the biggest upside. For property managers, that means mapping the leasing, move-in and billing workflow before buying an AI leasing agent.",
+      "url": "https://hbr.org/the-latest",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "AI agents are landing on org charts, overloading middle managers",
-      "summary": "HBR's September/October issue reports a January survey of 1,261 HR and finance managers found a third of leaders describe AI as a 'teammate' and 23% have listed AI agents on org charts with formal roles. Status updates, performance tracking and project coordination — the core of middle management — are shifting to copilots and dashboards, pushing managers toward 'sense-maker' roles. Operators rolling out AI in community operations should plan for the manager-workload spike, not just the savings.",
-      "url": "https://hbr.org/2026/02/9-trends-shaping-work-in-2026-and-beyond",
+      "headline": "Uber CEO says cutting 3,300 jobs and 20% of managers will lower ride prices",
+      "summary": "Dara Khosrowshahi told Fortune the 10% headcount cut — Uber's largest since the pandemic — targets management layers and tighter remote-work rules, not AI replacement, and that savings will flow to riders, drivers and autonomous investment. Uber's revenue grew 18% to $52B last year; the message is that growth no longer shields org-chart bloat.",
+      "url": "https://fortune.com/2026/09/14/uber-ceo-dara-khosrowshahi-cheaper-rides-3300-job-cuts-layoffs/",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Washington finally engages on AI safety after years of stalled bills",
-      "summary": "Fortune reports that a decade of failed federal AI bills and a wave of lab resignations have given way to serious Washington engagement, even as Trump publicly rejects extinction-risk framing. Anthropic, OpenAI and Google DeepMind have held working-group meetings since July on an industry-led standards body as an alternative to waiting for Congress. Expect compliance and audit requirements — California already has first-in-nation AI auditor laws — to reach vendors selling AI into healthcare and senior living.",
-      "url": "https://fortune.com/2026/09/12/after-three-years-of-silence-washington-discovers-it-finally-cares-about-ai-safety/",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Strength training sweet spot: 90–120 minutes a week for longevity",
-      "summary": "A 30-year study of more than 147,000 people found 90–120 minutes of weekly strength training delivered the biggest reductions in all-cause mortality, particularly cardiovascular and neurological deaths, with added benefit when combined with aerobic exercise. A separate Nature study of 500,000+ people pinned optimal sleep at 6.4–7.8 hours for slowing organ-level aging. Both are directly relevant to resident wellness programming and marketing in senior living.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm",
-      "category": "Lifestyle",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Fortune 500 power moves: Workday, Equinix, SiriusXM name new C-suite leaders",
-      "summary": "Workday appointed Sarah Kennedy Ellis CMO effective Oct. 5 from Google Cloud, succeeding Emma Chalwin, who left for Accenture; Equinix named DD Dasgupta CMO; SiriusXM promoted Sean Gibbons to Chief Product and Technology Officer. Fortune also published a 9/11 25th-anniversary retrospective on the leaders the crisis made, including Jeff Immelt and Howard Lutnick.",
-      "url": "https://fortune.com/2026/09/11/fortune-500-power-moves-sept-5-11/",
+      "headline": "Layoff tracker: 365 events, 209,000 workers affected in 2026 so far",
+      "summary": "Nike (1,400, mostly tech), Disney (1,000 under new CEO Josh D'Amaro) and Uber headline September cuts, and trackers count 209,032 people affected year-to-date — a sustained labor and funding reset rather than a one-off shock. For senior living, a looser white-collar labor market could ease recruiting for corporate and sales roles even as frontline care staffing stays tight.",
+      "url": "https://www.newsweek.com/list-companies-laying-off-employees-september-12365603",
       "category": "Leadership",
-      "importance": "LOW"
+      "importance": "MEDIUM"
     },
     {
-      "headline": "Senior living pipeline: Willow Valley memory center, MorningStar starts in Kansas",
-      "summary": "Willow Valley Communities is opening a dedicated memory center in Pennsylvania and MorningStar Senior Living broke ground in Kansas, per SHN's In the Pipeline roundup. New starts remain rare with under 16,000 units under construction nationally, so each announcement is a data point on where developers still see feasible returns at current construction and debt costs.",
-      "url": "https://seniorhousingnews.com/2026/09/10/in-the-pipeline-willow-valley-to-open-memory-center-morningstar-starts-in-kansas/",
-      "category": "Senior Housing",
-      "importance": "LOW"
+      "headline": "Proptech funding rebounds on AI, but 'transformative' claims fade",
+      "summary": "AI-driven proptech rounds of $14M–$50M closed through mid-2026 across construction robotics, asset management and leasing; global real estate startup funding hit ~$10.1B in 2025. Yet Grant Thornton finds only 36% of CRE leaders are scaling AI beyond pilots, and Deloitte says executives reporting transformative impact fell to ~1%. Buy tools with measurable NOI impact, not platform promises.",
+      "url": "https://www.marketscale.com/industries/engineering-and-construction/ai-drives-a-wave-of-proptech-funding-as-construction-and-commercial-real-estate-startups-attract-fresh-capital",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
     },
     {
-      "headline": "Executives report 'transformative' AI impact fell to 1% from 12%",
-      "summary": "Deloitte's 2026 CRE outlook found the share of executives reporting transformative AI impact dropped to about 1% from ~12% a year earlier, even as property-management AI adoption climbed to 58% with only 8% fully automating any process. September proptech activity continued — Dwelly logged its seventh acquisition of 2026 and Beeline agreed to buy MagicBlocks — but the gap between adoption and measurable ROI remains the sector's story.",
-      "url": "https://blog.mean.ceo/proptech-news-september-2026/",
+      "headline": "OpenAI launches GPT-Live voice model with sub-300ms latency",
+      "summary": "The native voice model powering ChatGPT Voice drops the text pipeline for faster, more emotionally nuanced conversation. Separately, Anthropic told investors it expects Q2 profitability on $11.5B revenue with 80%+ gross margins. Near-real-time voice AI is the missing piece for after-hours leasing lines and resident-family call handling in senior living.",
+      "url": "https://aiweekly.co/ai-news-today",
       "category": "AI/Tech",
       "importance": "LOW"
     },
     {
-      "headline": "Small daily changes in sleep, diet and exercise extend lifespan",
-      "summary": "NBC News reports new research showing incremental tweaks — a few extra minutes of sleep, a few more vegetables or grains, and a few extra minutes of activity daily — collectively lengthen life expectancy, without a full lifestyle overhaul. A U.S. News survey of 60+ health experts named consistency, social interaction and sleep quality as the top healthy-aging priorities.",
-      "url": "https://www.nbcnews.com/health/health-news/small-changes-sleep-diet-exercise-live-longer-not-overhaul-studies-rcna252640",
+      "headline": "Cancer rates rising in adults under 55; accelerated aging suspected",
+      "summary": "A Sept. 14 study links rising early-onset cancer to accelerated biological aging, while separate research finds the brain's short-range wiring helps preserve cognition even as gray matter shrinks. Both feed the 'healthspan' narrative that is reshaping how prospective residents and adult children evaluate wellness programming.",
+      "url": "https://www.sciencedaily.com/news/health_medicine/healthy_aging/",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "Workplace wellness shifts toward 'emotional fitness' and healthy longevity",
-      "summary": "Global Wellness Institute and Wellhub research show employees are moving from work-hard/play-hard to building lives around wellbeing across fitness, mindfulness, therapy, nutrition and sleep. Employers embedding healthy longevity into job design report gains in retention and productivity — relevant for senior living operators competing for caregivers in a tight labor market.",
-      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/07/workplace-wellbeing-initiative-trends-for-2026/",
+      "headline": "Sleep ranks second only to smoking as a predictor of shorter life",
+      "summary": "A 2026 review finds insufficient sleep is the second-strongest behavioral predictor of reduced life expectancy, and a U.S. News survey of 63 experts ranks consistent exercise and nutrient-dense diet far ahead of supplements and biohacking. Practical takeaway for leaders and residents alike: treat 7–9 hours as non-negotiable.",
+      "url": "https://health.yahoo.com/wellness/sleep/articles/2026-research-says-sleep-life-163000899.html",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "73% of business leaders expect revenue growth in 2026, JPMorgan survey finds",
-      "summary": "J.P. Morgan's Business Leaders Outlook shows 73% anticipate higher revenue and 64% higher profits this year; new products/services (58%) and strategic partnerships (49%) are the top growth levers. Leaders are shifting from single global playbooks to regional portfolios and treating strategy as a continuous learning system rather than an annual plan.",
-      "url": "https://www.jpmorgan.com/insights/markets-and-economy/business-leaders-outlook/2026-us-business-leaders-outlook",
+      "headline": "Employees now expect employers to support five pillars of wellness",
+      "summary": "Wellhub's 2026 State of Work-Life Wellness report finds workers building lives around wellbeing — fitness, mindfulness, therapy, nutrition and sleep — and expecting employers to enable all five. Operators competing for caregivers and sales staff can differentiate with low-cost wellness benefits before wage escalation.",
+      "url": "https://wellhub.com/en-us/blog/wellness-and-benefits-programs/state-of-work-life-wellness-2026-executive-summary/",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "HBR: how to change minds ethically — and when a joke backfires",
+      "summary": "Two new HBR pieces for managers: a Q&A with author Colin Marshall on ethical persuasion and influence, and research from Drew Gorenz and Norbert Schwarz on three things to consider before making a quip at work. Useful reading before investor pitches and town-halls alike.",
+      "url": "https://hbr.org/topic/subject/leadership-and-managing-people",
       "category": "Leadership",
       "importance": "LOW"
     }
   ]
-}
+    }
