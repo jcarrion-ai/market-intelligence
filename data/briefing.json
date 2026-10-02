@@ -1,127 +1,141 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-10-02",
   "takeaways": [
-    "Office distress sets new records: office CMBS special servicing hit 15.7% (13.2% delinquent), and Philadelphia's Centre Square sold for $70M against a $471M 2019 appraisal, wiping out seven tranches and producing a rare AAA loss.",
-    "Capital is still hunting discounted office: L&L Infinite paid $245M ($425/SF) for 600 Third Ave on a $215M Bain Capital loan, and Deloitte finds nearly 80% of 950 CRE execs plan to reposition assets within 18 months.",
-    "The AI buildout is reshaping real estate: $10.3T of U.S. data center investment is projected through 2032 even as Oracle's New Mexico mega-project shows cracks, while DWS pitches housing as the 'AI immunity trade' with multifamily rent growth running through 2029."
+    "Miami's landmark land deal: Ken Griffin paid $1.1B all-cash (about $37M/acre) for Moishe Mana's 30-acre Wynwood assemblage to anchor a $2B Carnegie Mellon campus, on top of his $2.5B Citadel HQ in Brickell.",
+    "Senior housing occupancy topped 90% in Q3, with more than half of primary markets at 90%+, while construction runs about 10,445 units a year against 100,000+ needed to keep pace.",
+    "Financing stress is building: MBS ETFs saw $2.4B of outflows in September (the most since March 2020) with Treasuries above 5%, and California seized $690M CRE-heavy Nano Banc, the sixth U.S. bank failure of 2026."
   ],
   "items": [
     {
-      "headline": "Office CMBS special servicing hits record 15.7%",
-      "summary": "CRED iQ data covering $189.6B of office debt shows special servicing at a record 15.7% in August, with office delinquency at 13.2% versus 8.2% across all property types; conduit office is worst at 18.5%. CRED iQ says 71% of distressed office balance reflects failed or imminent refinancings rather than missed payments, and $13.9B of the $39B maturing in the next 12 months already shows warning signs.",
-      "url": "https://www.credaily.com/briefs/office-cmbs-special-servicing-reaches-record-high-15-7/",
+      "headline": "Ken Griffin pays $1.1B all-cash for Mana's Wynwood assemblage for CMU Miami",
+      "summary": "Ken Griffin's $3B gift to Carnegie Mellon includes $2B for a new 35-acre CMU campus in Miami's Wynwood. Its core is a 30-acre parcel he bought from Moishe Mana for $1.1B (about $37M/acre) in an all-cash, no-broker deal nearly three years in the making, versus the roughly $70M Mana spent assembling it. Griffin is also building a $2.5B Citadel HQ in Brickell, adding another major demand driver to Miami. (via The Promote)",
+      "url": "https://therealdeal.com/miami/2026/09/30/ken-griffin-buys-mana-wynwood-complex-for-1-billion/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Philly's Centre Square sells for $70M, 85% below 2019 value",
-      "summary": "The twin-tower Centre Square office complex at 1500 Market St. sold for $70M versus a $471M appraisal in 2019, wiping out seven lower CMBS tranches and marking only the third AAA-level loss since the financial crisis; Pimco faces a loss of more than $35M. Occupancy had collapsed to 28% from 93%, and buyers PMC Property Group and Dean Adler plan a 300-room hotel and up to 500 apartments.",
-      "url": "https://www.credaily.com/briefs/centre-square-cmbs-sale-wipes-out-lower-debt-tranches/",
+      "headline": "Senior housing occupancy tops 90% as half of primary markets hit 90%+",
+      "summary": "NIC MAP data shows senior housing occupancy surpassed 90% in Q3 2026, near a record, with more than half of primary markets averaging 90% or higher (Boston at 94.0%). Sustaining 90% occupancy would take more than 100,000 new units a year through the late 2030s, but construction is averaging only about 10,445 units a year, roughly a tenth of what's needed.",
+      "url": "https://seniorhousingnews.com/2026/10/01/more-than-half-of-primary-markets-have-90-average-senior-living-occupancy-or-higher/",
+      "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "California seizes Nano Banc, sixth U.S. bank failure of 2026",
+      "summary": "California's DFPI seized Nano Banc, a $690M CRE-heavy lender that the Fed had been pushing to cut its CRE loan concentration since 2021; Utah-based Sunwest Bank is taking over its deposits. The bank was tied to Mahender Makhijani's alleged Continuum Analytics fraud scheme, which also hit Western Alliance and Zions. (via The Promote)",
+      "url": "https://dfpi.ca.gov/press_release/california-seizes-nano-banc/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Ex-Silverstein CEO Marty Burger's L&L Infinite buys 600 Third for $245M",
-      "summary": "L&L Infinite, Marty Burger's new JV with L&L principal David Levinson, paid $245M ($425/SF) for the 92%-leased Manhattan tower at 600 Third Ave, financed with a $215M Bain Capital loan and brokered by Newmark, with Mack Real Estate, BLDG and BD Blakely co-investing. Deals where one principal stays in with new partners and a fresh capital stack are on the rise. (via The Promote)",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/manhattan-tower-sold-to-ex-silverstein-ceo-s-new-joint-venture",
+      "headline": "Mortgage bond ETFs see biggest outflows since March 2020",
+      "summary": "Investors pulled $2.4B from U.S. mortgage-backed securities ETFs in September, the biggest monthly outflow since March 2020, led by about $2.7B leaving BlackRock's iShares MBS ETF. With Treasury yields above 5%, investors are favoring simpler Treasuries over MBS. That pressures mortgage spreads and could push up borrowing costs across housing and real estate finance.",
+      "url": "https://www.credaily.com/briefs/mortgage-bond-etfs-see-biggest-outflows-since-march-2020/",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "AI data center boom: $10.3T of U.S. investment projected through 2032",
-      "summary": "U.S. data center and AI infrastructure investment is projected at $10.3T from 2025 to 2032 (about 3.6% of GDP a year), with Alphabet, Amazon, Meta, Microsoft and Oracle expected to spend $4.2T in capex through 2029, increasingly debt-financed. Private data center construction hit $37B through July, up about $9B year-over-year, pulling labor and materials away from other construction, including housing.",
-      "url": "https://www.credaily.com/newsletters/national/issue/ais-data-center-boom-is-becoming-americas-biggest-infrastructure-bet/",
-      "category": "AI/Tech",
+      "headline": "JPMorgan weighs $3.8B construction loan for Extell's Upper West Side supertall",
+      "summary": "JPMorgan is in talks to lead a roughly $3.8B construction loan for Extell's 1,200-foot luxury condo tower on West 66th Street, the former ABC headquarters site that Gary Barnett bought for $930M in 2022. It would rank among the largest construction loans ever made in the U.S., a sign of lender confidence in ultra-luxury residential while Manhattan's condo pipeline sits at a low of about 2,800 new units.",
+      "url": "https://www.credaily.com/newsletters/new-york/issue/jpmorgan-weighs-a-3-8b-construction-loan-for-extells-upper-west-side-supertall/",
+      "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Deloitte: CRE heads into 2027 with capital to spend, selectively",
-      "summary": "Deloitte's survey of 950 CRE executives finds 51% expect revenue growth above 5%, nearly 80% plan to upgrade or reposition assets within 12-18 months, and cross-border CRE investment rose 18% year-over-year in Q1. Over 90% plan to boost data and tech spending, but only 8% have integrated AI, and 59% of U.S. CRE leaders are within a decade of retirement.",
-      "url": "https://www.credaily.com/newsletters/national/issue/cre-heads-into-2027-with-capital-to-spend-but-not-everywhere/",
+      "headline": "Ex-SL Green exec's GreenBarn buys $250M note on SLG's Olivia rental",
+      "summary": "GreenBarn, the venture of former SL Green co-CIO David Schonbraun, bought the note on the Olivia, SLG's 333-unit Penn Plaza rental. The 10-year, 4.2% fixed loan had an original principal of $250M (about $500/sf); it is reportedly performing but matures at the end of February, a test of how 2017-vintage multifamily debt refinances at today's rates. (via The Promote)",
+      "url": "https://www.pincusco.com/greenbarn-buys-250m-note-secured-by-sl-green-333-unit-rental-in-penn-plaza/",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "DWS's Todd Henderson: real estate is the 'AI immunity trade'",
-      "summary": "DWS's Todd Henderson argues the roughly 25% peak-to-trough value reset was driven by discount rates, not failing fundamentals, and projects strong multifamily rent growth through 2029 as construction starts fall, especially in the Sun Belt. He also favors retail, where vacancy is at 25-year lows, and real estate debt, positioning hard assets as a hedge against AI disruption.",
-      "url": "https://www.credaily.com/briefs/dwss-todd-henderson-real-estate-is-the-ai-immunity-trade/",
+      "headline": "Apartment pipeline is more concentrated than metro data suggests",
+      "summary": "The top 10 multifamily permitting metros issued 150,614 permits in the 12 months through August, up 25% year-over-year, led by New York (36,496), Los Angeles (17,926), Dallas (15,924) and Houston (13,772). Florida is mixed: Miami permits fell by 2,219 and Orlando by 3,496, while West Palm Beach rose by 2,502. City-level permits also cluster heavily in urban cores, so metro-wide totals can understate submarket supply risk.",
+      "url": "https://www.credaily.com/newsletters/national/issue/the-apartment-pipeline-is-more-concentrated-than-metro-data-suggests/",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Tribe buying Fairmont Scottsdale Princess for $650M+",
-      "summary": "A Native American tribe is buying the Fairmont Scottsdale Princess resort in Scottsdale, Arizona for more than $650M, or roughly $900K per key, according to Green Street's Real Estate Alert. (via The Promote)",
-      "url": "https://www.thepromote.com/p/mayweather-throws-in-towel-cozy-office-buys",
+      "headline": "Mega deals are distorting CRE's comeback numbers",
+      "summary": "MSCI data shows August CRE volume was inflated by mega M&A such as the Equity Residential-AvalonBay merger forming Vivmark, while individual property sales fell 28% year-over-year in August. Prices rose just 0.1% year-over-year, pointing to a slower, more gradual recovery than headline volume suggests.",
+      "url": "https://www.credaily.com/newsletters/national/issue/mega-deals-are-distorting-cres-comeback/",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Cracks appear in Oracle's massive New Mexico AI data center project",
-      "summary": "The WSJ reports problems, including force-majeure issues, at Oracle's large AI data center build-out in New Mexico, a warning sign for the debt-financed hyperscaler capex wave that is reshaping industrial and land markets. (via The Promote)",
-      "url": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Facilo raises about $41M and acquires AI valuation firm Collavit",
-      "summary": "Japanese brokerage platform Facilo, used by 13,000+ agents across 2,300 broker offices, raised a ¥6.4B (about $41M) Series B led by Globis Capital Partners and acquired AI appraisal firm Collavit. The company plans to launch an AI CRM and survey agent, part of the ongoing push to put AI into core brokerage and seller-side workflows.",
-      "url": "https://aiproptechnews.com/article/facilo-raises-funds-and-acquires-ai-valuation-firm-collavit/",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Blake Management Group pushes ahead with third-party growth strategy",
-      "summary": "Senior living operator Blake Management Group is expanding its third-party management business, taking on communities for outside owners. The move reflects rising owner demand for experienced operators as senior housing occupancy recovers and new capital enters the sector.",
-      "url": "https://seniorhousingnews.com/2026/09/25/blake-management-group-forges-ahead-with-third-party-management-growth-strategy/",
+      "headline": "SNF owner RegalCare pays $1M to settle overbilling as expansion draws scrutiny",
+      "summary": "NJ-based skilled nursing operator RegalCare, owner Eli Mirlis and an executive agreed to pay $1M to settle U.S. Attorney allegations of overbilling Medicare and Massachusetts Medicaid. A Boston Globe investigation found Mirlis cut nursing spending at a Taunton facility by about $530K while his real estate company raised its rent to $522K, more than four times the prior level, a sharp example of the regulatory risk in operator-landlord structures. (via The Promote)",
+      "url": "https://www.justice.gov/usao-ma/pr/skilled-nursing-company-and-executive-agree-pay-1-million-resolve-overbilling",
       "category": "Senior Housing",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Airbnb's Brian Chesky spends three hours a day on hiring",
-      "summary": "Airbnb CEO Brian Chesky says he spends about three hours daily on recruiting and acts as co-hiring manager for his direct reports' hires, crediting Sam Altman's advice that hiring should be 50% of a CEO's job. He frames it as succession planning: an exec's direct reports are the likely successors, so leadership alignment has to run two levels deep.",
-      "url": "https://fortune.com/2026/09/28/airbnb-ceo-brian-chesky-spends-three-hours-a-day-on-recruitment-hiring-managers-advice-sam-altman/",
+      "headline": "CBRE: U.S. could run out of prime office space by end of 2027",
+      "summary": "CBRE says only 5% of office workers are highly vulnerable to AI displacement and attributes slower job growth mainly to demographics (about 83,000 retirements a month). Tech firms made up 21% of U.S. office leasing in H1 2026, mostly in the Bay Area and Manhattan, and with new construction collapsing, the U.S. could exhaust prime space by the end of 2027.",
+      "url": "https://aiproptechnews.com/article/ai-office-demand-to-strengthen-prime-space/",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "CPOs at HPE, Palo Alto, Lennar: AI has 'killed the org chart'",
+      "summary": "At Fortune's AIQ summit, people chiefs from HPE, Palo Alto Networks and Lennar said AI is flattening traditional hierarchies. Palo Alto's internal AI agent cut IT tickets by 83% and lets employees self-serve HR questions, and the companies now hire for curiosity and adaptability over credentials. Lennar's CHRO said upskilling is increasingly the employee's responsibility.",
+      "url": "https://fortune.com/2026/10/01/fortune-aiq-summit-executives-hpe-palo-alto-networks-lennar-workforce-org-charts/",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "JLL CEO Christian Ulbrich: 'The core place for work is the office'",
+      "summary": "JLL CEO Christian Ulbrich argues in-office work is more efficient and essential for learning, since skills from university go stale within about three years. He says offices must be attractive enough to earn attendance. JLL rose to No. 175 on the Fortune 500 after posting 11% Q2 revenue growth and raising guidance.",
+      "url": "https://fortune.com/2026/10/01/christian-ulbrich-working-from-office-is-core-real-estate-jll/",
       "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
-      "headline": "How boutique senior living operators compete against the giants",
-      "summary": "Smaller senior living operators say a hands-on, high-touch operating model, with executives closely involved in each community, is how they win residents and owners against larger platforms. The piece is relevant for mid-size operators weighing scale against service quality.",
-      "url": "https://seniorhousingnews.com/2026/09/25/you-become-very-hands-on-how-smaller-boutique-senior-living-operators-compete/",
+      "headline": "Ford and JPMorgan back $2B push to close the skilled-trades gap",
+      "summary": "Ford and JPMorgan are teaming up on a $2B initiative to train skilled trades workers as the U.S. faces demand for about 1.7 million trades workers a year. Carhartt's CEO notes trades can pay 32% more, though schools still steer Gen Z away, a talent dynamic that affects construction and property maintenance staffing.",
+      "url": "https://fortune.com/2026/09/30/blue-collar-jobs-skilled-trades-backbone-american-dream/",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Dubai targets $9.5B from longevity as Oura postpones its IPO",
+      "summary": "Dubai's new Longevity Authority aims to add more than Dh35B (about $9.5B) to the emirate's economy over the next decade, as longevity investment spreads across Asia and the Middle East. Smart-ring maker Oura postponed its U.S. IPO amid volatile markets, and sauna and heat-therapy culture keeps gaining momentum.",
+      "url": "https://www.globalwellnesssummit.com/global-wellness-news/dubais-longevity-goal-9-5b-in-next-decade-the-sauna-surge-oura-delays-ipo/",
+      "category": "Lifestyle",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Morgan Stanley commits $684M to Uptown Dallas hub",
+      "summary": "Morgan Stanley will anchor a 700,000 SF Trammell Crow tower at 2401 McKinney Ave. under a 16-year lease starting in 2031 and take 255,000 SF at Fountain Place in the interim, targeting 3,800 Dallas employees by 2035. The hub sits about a mile from Goldman Sachs' $709M Uptown campus, concentrating premium finance demand in Uptown.",
+      "url": "https://www.credaily.com/newsletters/texas/issue/morgan-stanley-bets-684m-on-an-uptown-dallas-hub-as-wall-street-piles-in/",
+      "category": "Capital Markets",
+      "importance": "LOW"
+    },
+    {
+      "headline": "RoseVilla plans next evolution with three major development projects",
+      "summary": "Portland-area nonprofit operator RoseVilla is planning three major development projects to expand its campus, another sign that operators are moving to add supply as occupancy tightens nationally.",
+      "url": "https://seniorhousingnews.com/2026/09/29/rosevilla-plans-next-evolution-with-3-major-development-projects/",
       "category": "Senior Housing",
       "importance": "LOW"
     },
     {
-      "headline": "Clopen Capital wins planning for €115M Dublin senior living scheme",
-      "summary": "Clopen Capital secured planning permission for a €115M senior and healthcare living development in Dublin, adding to growing institutional interest in purpose-built senior housing across Europe.",
-      "url": "https://www.bisnow.com/news/dublin/senior-housing/clopen-capital-wins-planning-115m-euro-senior-healthcare-living-scheme",
+      "headline": "Touchmark breaks ground in Alaska; Cedarhurst hits milestones in Illinois, Kansas",
+      "summary": "Touchmark has started construction on a new senior living project in Alaska, and Cedarhurst reached development milestones in Illinois and Kansas, adding to the small but growing wave of new senior living starts.",
+      "url": "https://seniorhousingnews.com/2026/10/01/in-the-pipeline-touchmark-starts-work-in-alaska-cedarhurst-hits-milestones-in-illinois-kansas/",
       "category": "Senior Housing",
       "importance": "LOW"
     },
     {
-      "headline": "Uber CEO: 'really demanding' culture includes weekend emails",
-      "summary": "Uber CEO Dara Khosrowshahi says the company expects employees to answer emails on weekends and warns people who want to coast not to join, a blunt example of CEOs publicly raising performance expectations.",
-      "url": "https://fortune.com/article/uber-ceo-dara-khosrowshahi-really-demanding-work-culture-includes-expecting-employees-answer-emails-over-weekend-dont-come-here-if-you-want-to-coast/",
-      "category": "Leadership",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Walmart offers Gen Z a path to six figures without a degree",
-      "summary": "Walmart is offering job-training pathways into roles such as truck driver, technician and optician that can reach six-figure pay without a college degree. It's a model for operators competing for frontline talent in tight labor markets like senior living.",
-      "url": "https://fortune.com/2026/09/26/walmart-job-training-truck-driver-technician-optician-gen-z/",
-      "category": "Leadership",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Sleep predicts life expectancy better than diet or exercise",
-      "summary": "OHSU researchers led by Andrew McHill found that getting less than seven hours of sleep a night was more strongly associated with county-level life expectancy than diet or physical inactivity; only smoking ranked higher. The observational study in Sleep Advances drew renewed attention this week.",
-      "url": "https://www.sciencealert.com/one-critical-factor-predicts-longevity-better-than-diet-or-exercise-study-reveals",
+      "headline": "The rise of the two-job worker: 61% now do more than one role",
+      "summary": "Fortune reports that 61% of workers now do more than one role, and a Goldman Sachs retirement survey finds about 8 in 10 Gen Z and millennial workers hold two jobs because of affordability pressures. The trend matters for frontline staffing and retention.",
+      "url": "https://fortune.com/2026/10/01/rise-of-the-two-job-61-of-workers-say-theyre-now-doing-more-than-one-role/",
       "category": "Lifestyle",
       "importance": "LOW"
     },
     {
-      "headline": "Heirless billionaire pours fortune into Texas ghost town of 25 people",
-      "summary": "With no heirs to leave his wealth to, a billionaire is investing his fortune in reviving a tiny Texas town of about 25 residents, an unusual bet on rural placemaking and community building.",
-      "url": "https://fortune.com/2026/09/27/with-no-heirs-to-leave-it-to-this-billionaire-is-pouring-his-fortune-into-a-texas-ghost-town-of-about-25-people/",
+      "headline": "Full-body health scans boom as Magic AI raises $11M for fitness mirror",
+      "summary": "Full-body health scans are booming despite debate over whether they're necessary, longevity services are going global, and AI fitness-mirror startup Magic AI raised $11M.",
+      "url": "https://www.globalwellnesssummit.com/global-wellness-news/full-body-health-scans-boom-are-they-necessary-longevity-goes-global-especially-in-asia-and-middle-east-magic-ai-raises-11m-for-fitness-mirror/",
       "category": "Lifestyle",
       "importance": "LOW"
     }
