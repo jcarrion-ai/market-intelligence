@@ -1,11 +1,18 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "takeaways": [
-    "CMBS delinquency climbed 17 bps to 8.02% (office 12.16%) and lenders are ending quiet extensions on a ~$179B maturity wall with the 10-year above 5%: refinance, sell or hand back keys is the new reality.",
-    "Senior housing fundamentals keep strengthening: Brookdale hit 83.1% occupancy (+130 bps YoY) and over half of NIC MAP primary markets average 90%+, even as BKD shares dropped ~7%.",
-    "Capital is concentrating at the top: Nasdaq has taken ~$120B of IPOs vs NYSE's $20B, and Anthropic's draft prospectus shows an $80.7B half-year loss as the AI buildout keeps scaling."
+    "Blackstone's talent reshuffle is a signal: 43 senior MDs gone since May 2024 (93% backfilled), real estate carry down 82% to $775M, and Jon Gray says US private RE values are still ~16% below the rate-hike peak.",
+    "CMBS delinquency sits at 8.02% (office 12.16%) with ~$179B of maturities by 2028 and the 10-year above 5%, so lenders are ending extend-and-pretend.",
+    "Senior housing fundamentals keep strengthening: Brookdale at 83.1% occupancy (+130 bps YoY) and over half of NIC MAP primary markets averaging 90%+."
   ],
   "items": [
+    {
+      "headline": "Blackstone has lost 43 senior MDs since May 2024, but 93% of seats were backfilled",
+      "summary": "CRE Analyst counts 19 senior Blackstone departures this year, including Joe Baratta after 28 years; his seat will not be refilled. Roughly 18% of the senior MD roster has turned over since May 2024, yet the senior leader count is up ~17% and only 7% of vacated roles look unfilled. The read is a Jon Gray-led restructuring toward fewer star dealmakers, not a rout. (via The Promote)",
+      "url": "https://www.thepromote.com/p/deciphering-the-blackstone-exodus",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
     {
       "headline": "CMBS delinquency hits 8.02%; $179B CRE debt wall forces refinance-or-sell decisions",
       "summary": "Trepp data shows overall CMBS delinquency up 17 bps to 8.02%, with office at 12.16% and multifamily stress the most notable shift. Newmark says waiting for lower rates is no longer a workable strategy as roughly $179B of low-rate debt matures by 2028 with the 10-year above 5%. Expect tighter lender behavior on extensions, including seniors housing loans.",
@@ -21,6 +28,20 @@
       "importance": "HIGH"
     },
     {
+      "headline": "Blackstone real estate carry collapses 82% as BREP returns reset",
+      "summary": "Net accrued carry in Blackstone real estate fell from $4.2B at YE2021 to $775M at YE2025. BREP net IRR slid from 40% (BREP I) to 4% (BREP IX) before recovering to 12% for BREP X, mostly unrealized. Gray said in January that US private real estate values remain ~16% below the pre-rate-hike peak. A reminder of how far valuations still sit from peak. (via The Promote)",
+      "url": "https://www.thepromote.com/p/deciphering-the-blackstone-exodus",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Blackstone 3.0: oversight centralizes as Meghji and Baratta seats are split or left empty",
+      "summary": "Meghji's real estate role is being divided between David Levine and Gio Cutaia, and Baratta's seat will go unfilled, following Pollack (Feb 2024) and McCarthy (Nov 2025) exits. Perpetual capital, insurance and defined-contribution channels now drive the model, which needs fewer high-profile dealmakers. (via The Promote)",
+      "url": "https://www.thepromote.com/p/deciphering-the-blackstone-exodus",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
       "headline": "More than half of primary senior living markets now average 90%+ occupancy",
       "summary": "Senior Housing News reports that over half of NIC MAP primary markets have reached 90% or higher average occupancy, a sign that supply-constrained markets are tightening further. Strong occupancy supports operator NOI growth and acquisition appetite.",
       "url": "https://seniorhousingnews.com/2026/10/01/more-than-half-of-primary-markets-have-90-average-senior-living-occupancy-or-higher/",
@@ -28,10 +49,10 @@
       "importance": "MEDIUM"
     },
     {
-      "headline": "WSJ: Nasdaq is trouncing NYSE in the IPO race, 59 listings raising ~$120B vs 32 and $20B (via WSJ 10-Point)",
-      "summary": "Per Dealogic, Nasdaq has won 59 traditional IPOs raising nearly $120B this year versus NYSE's 32 raising $20B, helped by fast-tracked Nasdaq-100 inclusion for mega-listings like SpaceX. A strong IPO window supports REIT and real estate capital-raising sentiment. (via WSJ 10-Point)",
-      "url": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94",
-      "category": "Capital Markets",
+      "headline": "Leslie AI books record demos at NARPM, pitching an AI teammate for the full rental cycle",
+      "summary": "Boulder-based Leslie AI runs daily across a 1,200-door Colorado portfolio, handling inquiries, showings, renewals, move-ins/outs, maintenance routing and daily book reviews, with human approval for anything involving money or judgment. It runs on Rentvine today, with Buildium, AppFolio and Rent Manager integrations in development.",
+      "url": "https://globenewswire.com/news-release/2026/10/21/3385982/0/en/boulder-s-leslie-ai-books-a-record-number-of-demos-at-narpm-2026-national-convention.html",
+      "category": "AI/Tech",
       "importance": "MEDIUM"
     },
     {
@@ -42,6 +63,20 @@
       "importance": "MEDIUM"
     },
     {
+      "headline": "CoreWeave junk bond yields surge to ~15%, a canary for data-center CRE investors",
+      "summary": "The latest Promote podcast flags CoreWeave's high-yield bond yields near 15% as a warning for institutional CRE players exposed to data centers, and notes Two Sigma's retreat from CRE. The Punch List covers Cain's 'Founder Bonds' at One Beverly Hills and several refis and loan mods. (via The Promote)",
+      "url": "https://podcasts.apple.com/us/podcast/where-alpha-goes-to-die-the-coreweave-canary/id1801355295?i=1000797423684",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "WSJ: Nasdaq is trouncing NYSE in the IPO race, 59 listings raising ~$120B vs 32 and $20B (via WSJ 10-Point)",
+      "summary": "Per Dealogic, Nasdaq has won 59 traditional IPOs raising nearly $120B this year versus NYSE's 32 raising $20B, helped by fast-tracked Nasdaq-100 inclusion for mega-listings like SpaceX. A strong IPO window supports REIT and real estate capital-raising sentiment. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
       "headline": "Netflix cuts ~1,000 jobs and replaces content chief after a slow Q3",
       "summary": "Netflix reported its slowest revenue growth in years, cut its 2026 ad forecast to $2.7B from $3B, and let go of about 1,000 employees. Chief content officer Bela Bajaria was replaced by Peter Rice, while co-CEO Sarandos said no fundamental strategy shift is needed. A lesson in resetting leadership when growth stalls.",
       "url": "https://gizmodo.com/netflix-promises-to-do-better-2000828357",
@@ -49,10 +84,10 @@
       "importance": "MEDIUM"
     },
     {
-      "headline": "Vessla raises $3.3M to build an agentic AI operating system for property management",
-      "summary": "Stockholm-based Vessla raised a EUR 2.94M pre-seed led by Seedcamp, more than 2x oversubscribed. Its software links disconnected property systems such as records, work orders, suppliers and invoices to automate multi-step maintenance workflows, already live with large Nordic owners.",
-      "url": "https://proptechconnect.com/vessla-raised-e294-million-to-bring-ai-agents-to-property-management",
-      "category": "AI/Tech",
+      "headline": "45 Broad in NYC sells to Yitzchok Katz, who is seeking up to $220M in debt",
+      "summary": "The long-in-limbo Manhattan tower's buyer is Yitzchok Katz, son-in-law of Rabsky co-founder Isaac Rabinowitz. His entity plans about 300 rental units and is shopping for as much as $220M of financing. (via The Promote)",
+      "url": "https://x.com/hitsamty/status/2112278000754720830",
+      "category": "Capital Markets",
       "importance": "LOW"
     },
     {
@@ -60,6 +95,27 @@
       "summary": "A WSJ analysis found five large PE-backed providers billed Medicaid for 29% more weekly therapy hours than competitors in 2024, as Medicaid spend on autism therapy rose from about $2B in 2021 to $10B. The companies dispute the claims. Relevant as a caution on volume-driven incentives in PE-backed healthcare services. (via WSJ 10-Point)",
       "url": "https://www.wsj.com/health/healthcare/autism-therapy-treatment-hours-private-equity-5781f2ca",
       "category": "Leadership",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Healthcare stocks rally, flashing a defensive warning for the broader market",
+      "summary": "WSJ's David Wainer argues the healthcare-sector rally may signal investors turning defensive. Worth watching for senior housing and healthcare REIT sentiment. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b",
+      "category": "Capital Markets",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Ellison borrows heavily from banks to fund son's Warner Bros. bid",
+      "summary": "Larry Ellison has pledged shares in Tesla, SpaceX and Paramount Skydance as collateral to borrow more for his son's bid. A case study in leverage at the top of the capital stack. (via WSJ 10-Point)",
+      "url": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714",
+      "category": "Leadership",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Vessla raises $3.3M to build an agentic AI operating system for property management",
+      "summary": "Stockholm-based Vessla raised a EUR 2.94M pre-seed led by Seedcamp, more than 2x oversubscribed. Its software links disconnected property systems such as records, work orders, suppliers and invoices to automate multi-step maintenance workflows, already live with large Nordic owners.",
+      "url": "https://proptechconnect.com/vessla-raised-e294-million-to-bring-ai-agents-to-property-management",
+      "category": "AI/Tech",
       "importance": "LOW"
     },
     {
