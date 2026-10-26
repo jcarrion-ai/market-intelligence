@@ -35,6 +35,13 @@
       "importance": "HIGH"
     },
     {
+      "headline": "Blackstone's Safe Harbor to buy MarineMax for $1.5B cash at $53/share, a 96% premium",
+      "summary": "The all-cash deal (announced Aug 10) follows a competitive strategic review and is expected to close before year-end, pending shareholder and regulatory approval. MarineMax has ~70 dealerships and 65 marina/storage sites, and fiscal Q3 revenue fell 7% to $611.3M even as gross margin rose to 35.7%. Infrastructure capital is paying up for recurring-revenue marinas while boat retail stays weak.",
+      "url": "https://www.yachtbuyer.com/en/news/marinemax-to-be-acquired-by-blackstone-owned-safe-harbor-in-dollar-1-5bn-deal",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
       "headline": "CRE transaction volume fell ~20% to about $30B, lowest in two years",
       "summary": "SitusAMC data show CMBS delinquency at 7.6%, office CMBS distress at 11.7%, and record multifamily delinquencies, with 'hold' sentiment reaching up to 70% of investors. Longer timelines and selective debt markets are the backdrop for senior housing refinancings.",
       "url": "https://www.credaily.com/briefs/cre-momentum-slows-amid-rate-volatility/",
@@ -91,6 +98,20 @@
       "importance": "MEDIUM"
     },
     {
+      "headline": "BizBuySell Q3: 2,132 small businesses sold, median price $350K (+17% YoY)",
+      "summary": "Closed deals were down 7% YoY, but median cash flow rose 5% to $156K. Deals above $1M averaged 3.73x cash flow and sold at 100.8% of ask, versus 2.30x and 93.6% below $1M. Service businesses were 47% of deals; restaurants fell 23%. New SBA rules took effect Oct 1.",
+      "url": "https://www.bizbuysell.com/insight-report",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "Acquisition entrepreneurship goes mainstream as owners retire",
+      "summary": "A 2026 JPMorgan Chase survey found 40% of small business owners plan to retire within a decade, and about 70% have no formal or only early succession plans. Search funds, SBA loans and personal capital are financing buyers, with HVAC, accounting, home services and B2B services the common targets. Founder dependency is the key diligence risk (Forbes, May 2026).",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/small-business-acquisition-boom-creating-090000950.html",
+      "category": "Leadership",
+      "importance": "MEDIUM"
+    },
+    {
       "headline": "KDC seeks $3.5B credit-tenant lease debt for AT&T HQ; 475 Fifth Ave $175M bond postponed",
       "summary": "Large-ticket financings are testing investor appetite, with one postponement in Midtown this week and a jumbo CTL placement in market.",
       "url": "https://www.credaily.com/briefs/cre-momentum-slows-amid-rate-volatility/",
@@ -137,6 +158,13 @@
       "summary": "The science worked but investors judged results underwhelming, a lesson in expectations management (via WSJ 10-Point).",
       "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-data-leaks-early-shares-plummet-f6bc4b4f",
       "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "MarineMax deal shows what buyers value: marinas, service and superyacht over boat retail",
+      "summary": "Safe Harbor, the largest US marina and superyacht service business (bought by Blackstone for $5.65B in April 2025), gets waterfront sites that are scarce and generate recurring fleet revenue. Combined, it could offer purchase, financing, berthing, maintenance, charter and resale under one roof.",
+      "url": "https://www.yachtbuyer.com/en/news/marinemax-to-be-acquired-by-blackstone-owned-safe-harbor-in-dollar-1-5bn-deal",
+      "category": "Leadership",
       "importance": "LOW"
     }
   ]
