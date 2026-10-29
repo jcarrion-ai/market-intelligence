@@ -1,30 +1,58 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-29",
   "takeaways": [
-    "Prager-linked office loans have now hit a dozen-plus lenders and CRE volume is down ~20% to ~$30B, so expect tighter lender scrutiny on sponsors and structures in any financing (via The Promote, SitusAMC).",
-    "Senior housing supply growth is a record-low 0.7% with 29-month build cycles, so existing communities keep an occupancy and rent tailwind through 2028.",
-    "Credit stress is bifurcated: Blackstone's $1.3B apartment CMBS loan is in special servicing and Arbor is out of the S&P SmallCap 600, while opportunistic capital (Apollo, Northwind's $1B fund) moves in."
+    "Weil Gotshal's planned dissolution puts ~400K sf at the GM Building at risk ahead of a $1.6B SASB maturing next June; refinancing near 6% could add ~$58M a year of debt service (via The Promote).",
+    "Lenders are tightening even for AI's biggest names (Broadcom had to add guarantees to save a $63B Anthropic chip-lease deal) while PE faces a ~$300B debt wall.",
+    "Opportunistic capital keeps flowing into senior housing and CRE: Town Lane's $1.9B fund (with a senior housing platform), Apollo's Mubadala Capital stake, and Blackstone's $1.5B MarineMax deal."
   ],
   "items": [
     {
-      "headline": "Prager's split fee/leasehold structure keeps burning banks, with a dozen-plus lenders hit",
-      "summary": "Citizens & Northern took $10M+ of 2026 charge-offs on a $24M loan to a Shaya Prager entity; a ~$23M default judgment landed this week. Webster, Pinnacle, Valley National and MidWest One are also exposed, and receiverships followed on Minneapolis-area office assets. Lender-side contagion from structured office deals is still spreading (via The Promote).",
-      "url": "https://www.thepromote.com/p/prager-pain-hits-more-banks-fishers-reel-in-werner",
+      "headline": "Weil Gotshal plans to dissolve, leaving BXP a ~400K sf hole at the GM Building",
+      "summary": "Weil holds about 400K sf through 2034 at rents in the $140s/sf versus $200s/sf market. The tower's $2.3B 2017 CMBS (about $1.6B SASB at 3.6%) matures next June, and BXP's CFO expects refinancing near 6%, roughly $138M a year versus about $80M today. SL Green's Green Loan is special servicer if it goes distressed (via The Promote, WSJ).",
+      "url": "https://www.thepromote.com/p/weil-e-coyote",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Fisher Bros. pulls ~$100M TASE bond; David Werner steps in on 605 Third Ave",
-      "summary": "Fisher Bros. ($5.4B portfolio, $220M NOI) cancelled an Israeli bond offering after a tepid response, citing rising rates. Werner is buying JPAM's 49% of 605 Third Ave and has been active at One Dag ($270M, $310 psf) and 205 E 42nd ($165M). Cash buyers are filling the gap left by constrained capital-markets access (via The Promote).",
-      "url": "https://www.thepromote.com/p/prager-pain-hits-more-banks-fishers-reel-in-werner",
+      "headline": "Town Lane, Blackstone alum, raises $1.9B fund in five months, including a senior housing platform",
+      "summary": "Tyler Henritze's firm topped its $1.25B debut fund and says it is playing offense amid dislocation. Deals include a Midtown Atlanta office tower, a 2.7M sf industrial portfolio and senior housing platform Arcole. Fresh opportunistic capital is targeting senior housing (via The Promote).",
+      "url": "https://www.thepromote.com/p/lower-manhattan-s-heimish-era-apollo-s-fortress-of-credit",
+      "category": "Senior Housing",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Private-equity-backed companies face a $300B debt wall",
+      "summary": "Roughly $300B of portfolio-company maturities are looming as lenders tighten terms, a read-through for any operator or sponsor refinancing in the next 24 months (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
       "category": "Capital Markets",
       "importance": "HIGH"
     },
     {
-      "headline": "Blackstone's $1.3B apartment CMBS loan moves to special servicing; Arbor dropped from S&P SmallCap 600",
-      "summary": "Arbor's stock is down 62% YTD on heavy multifamily CLO exposure, while Apollo takes a majority of a $2B UDR package and Northwind upsizes a debt fund to $1B. Multifamily credit stress and opportunistic debt capital are growing in parallel (via The Promote).",
-      "url": "https://www.thepromote.com/p/prager-pain-hits-more-banks-fishers-reel-in-werner",
+      "headline": "Fannie and Freddie may issue new multifamily lending licenses early next year",
+      "summary": "These would be the first new agency licenses since Basis Investment Group in 2022. Freddie wants a cut when licenses trade, including in the Bayview/Morgan family purchase of a majority stake in BWE (via The Promote).",
+      "url": "https://www.thepromote.com/p/lower-manhattan-s-heimish-era-apollo-s-fortress-of-credit",
       "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Apollo buys nearly 10% of Mubadala Capital, majority owner of Fortress",
+      "summary": "The stake extends Apollo into mezz/pref and CWCapital special servicing, adding to Athene and Atlas warehouse lending. Mubadala is a $385B sovereign wealth fund (via The Promote).",
+      "url": "https://www.thepromote.com/p/lower-manhattan-s-heimish-era-apollo-s-fortress-of-credit",
+      "category": "Capital Markets",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Broadcom CEO steps in to save $63B Anthropic chip-lease debt deal as banks demand better terms",
+      "summary": "Banks spooked by rising rates and AI overexposure wanted better terms before committing $42B. Hock Tan conceded higher interest and guarantees covering an Anthropic default, a sign lenders are raising the bar even for AI's largest players (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f",
+      "category": "AI/Tech",
+      "importance": "HIGH"
+    },
+    {
+      "headline": "Weil Gotshal leaders move to wind down one of the industry's most venerable law firms",
+      "summary": "Weil lost top lawyers, had no succession plan after the incoming chair declined, and consulted a bankruptcy lawyer. A lesson in how fast talent flight compounds once confidence breaks (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10",
+      "category": "Leadership",
       "importance": "HIGH"
     },
     {
@@ -42,24 +70,52 @@
       "importance": "HIGH"
     },
     {
-      "headline": "CRE transaction volume fell ~20% to about $30B, lowest in two years",
-      "summary": "SitusAMC data show CMBS delinquency at 7.6%, office CMBS distress at 11.7%, and record multifamily delinquencies, with 'hold' sentiment reaching up to 70% of investors. Longer timelines and selective debt markets are the backdrop for senior housing refinancings.",
-      "url": "https://www.credaily.com/briefs/cre-momentum-slows-amid-rate-volatility/",
+      "headline": "Trian group bids $7.35/share to take Wendy's private",
+      "summary": "Nelson Peltz's Trian, the largest shareholder, is part of the cash offer, but the stock traded at that level just last month. Another take-private test of public-market valuations (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/wendy-s-stock-jumps-on-peltz-take-private-bid-lFuMirO9uVitizQscTlm",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Forge Atlanta sponsor Webstar revises '25 earnings for $19M error amid unpaid financing",
-      "summary": "The $3.8B megaproject's sponsor has yet to repay acquisition financing or extension fees and has defaulted on seller financing twice, yet secured a nine-figure public bond sweetener. A sponsor-diligence cautionary tale (via The Promote).",
-      "url": "https://www.thepromote.com/p/prager-pain-hits-more-banks-fishers-reel-in-werner",
+      "headline": "Bushburg buys Barnett's 259 Clinton site for about $100M; Dushinsky joins Chetrit's Two Bridges site",
+      "summary": "The sites allow over 2,700 units, and Bushburg can build about 600K sf of residential. Chetrit defaulted on a small Madison Realty mezz loan at 265-275 Cherry (via The Promote).",
+      "url": "https://www.thepromote.com/p/lower-manhattan-s-heimish-era-apollo-s-fortress-of-credit",
       "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
-      "headline": "Senior living dealbook: Ciel assumes Colorado community; trio of communities sold",
-      "summary": "Third-party management wins and small-portfolio trades remain the dominant deal flow for regional operators.",
-      "url": "https://seniorhousingnews.com/2026/10/20/senior-living-dealbook-ciel-assumes-management-of-colorado-community-trio-of-communities-sold/",
-      "category": "Senior Housing",
+      "headline": "Tishman Speyer lands Bouwinvest for new office vehicle, starting with the Chrysler Building",
+      "summary": "SASBs lead CMBS conduits 3:1, and BGO is rebranding back to GreenOak. Pensford put a December Fed hike at 80% likely (via The Promote).",
+      "url": "https://www.thepromote.com/p/lower-manhattan-s-heimish-era-apollo-s-fortress-of-credit",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "186,000 adjustable-rate mortgages reset next year with big payment jumps",
+      "summary": "The largest group is 2020 seven-year ARMs facing a median increase of nearly $1,300 a month, a household-finance squeeze that touches adult children of residents and move-in decisions (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/real-estate/home-buyers-who-enjoyed-cheap-adjustable-mortgages-are-now-getting-a-nasty-shock-6c5cf3fe",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "AI quintuples flash-memory prices, ending Apple's supplier leverage",
+      "summary": "Apple will spend about $25B on flash this year versus $6B in 2025 for roughly the same volume. Tim Cook called rising memory prices a '100-year flood' (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
+      "category": "AI/Tech",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "JetBlue hits record low after creditors reportedly hire restructuring advisers",
+      "summary": "High jet fuel prices pressure the turnaround, though earnings contained encouraging liquidity news (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/business/airlines/jetblue-shares-in-tailspin-as-high-fuel-prices-threaten-turnaround-38f32c31",
+      "category": "Capital Markets",
+      "importance": "MEDIUM"
+    },
+    {
+      "headline": "50% aluminum tariff sends U.S. prices to a record premium",
+      "summary": "The U.S. relies on Canadian aluminum, and the tariff is hurting automakers, tech developers and home buyers, with construction-cost implications (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/business/aluminum-tariff-canada-trump-f2555b38",
+      "category": "Capital Markets",
       "importance": "MEDIUM"
     },
     {
@@ -67,34 +123,6 @@
       "summary": "NIC MAP data (Q3 2025) put occupancy at 88.7%, with IL at 90.2% and AL at 87.2%. Projects starting in early 2026 are unlikely to open before 2028, so occupancy gains and rent growth (3-6% expected) should persist for existing operators.",
       "url": "https://www.multihousingnews.com/senior-living-trends/",
       "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Pension funds gained $138B from AI stocks even as states erect data-center barriers",
-      "summary": "Thirteen public pension funds benefited from AI-linked holdings between end-2022 and June, while the same states move to restrict data centers. Data-center CRE and pension exposure face political risk (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "CoreWeave junk yields near 15%: a canary for data-center CRE bets",
-      "summary": "The Promote podcast ties CoreWeave's bond stress and Two Sigma's CRE retreat to risk for investors that went all-in on data centers (via The Promote).",
-      "url": "https://www.thepromote.com/p/prager-pain-hits-more-banks-fishers-reel-in-werner",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "AI-powered hacking wave overwhelms the internet",
-      "summary": "Hackers are using AI agents to make intrusions faster and harder to trace. Property operators holding resident and health data should revisit cyber controls (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Ultrawealthy seed kids' 'Trump Accounts' to win goodwill; Musk pledges SpaceX shares",
-      "summary": "Michael Dell and others joined the program amid rising data-center opposition and polling that favors limiting billionaire power. Critics call it a political stunt (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/economy/musk-trump-accounts-spacex-charity-dell-b9c37991",
-      "category": "Leadership",
       "importance": "MEDIUM"
     },
     {
@@ -112,51 +140,51 @@
       "importance": "MEDIUM"
     },
     {
-      "headline": "KDC seeks $3.5B credit-tenant lease debt for AT&T HQ; 475 Fifth Ave $175M bond postponed",
-      "summary": "Large-ticket financings are testing investor appetite, with one postponement in Midtown this week and a jumbo CTL placement in market.",
-      "url": "https://www.credaily.com/briefs/cre-momentum-slows-amid-rate-volatility/",
+      "headline": "JPMorgan's 270 Park Avenue HQ estimated to cost about $6B",
+      "summary": "The estimate is the bank's internal real-estate figure for the tallest occupied office building in the U.S., which it has never officially disclosed (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/finance/banking/jpmorgans-skyscraper-on-park-avenue-estimated-to-cost-around-6-billion-76881bb3",
       "category": "Capital Markets",
       "importance": "LOW"
     },
     {
-      "headline": "Older grandparents: median age of becoming a grandmother now 57, up from 44 in 1960",
-      "summary": "Healthy years of active grandparenting fall from 28 to 15 while per-grandchild spending rises as families shrink. Useful context for senior housing demand and adult-child decision-makers (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/lifestyle/relationships/older-grandparents-have-more-aches-and-painsand-more-money-for-grandkids-d1c4f76d",
-      "category": "Senior Housing",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Three OpenAI safety researchers fired after phone-unlock demand over suspected leaks",
-      "summary": "OpenAI says they violated policy, which the researchers dispute, highlighting governance tension as AI agents gain access to sensitive systems (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/tech/the-leak-suspicions-that-got-three-openai-staffers-fired-d3671d0e",
+      "headline": "Anthropic's implied $40 trillion market opportunity ahead of its IPO",
+      "summary": "The figure is based on the global economic value of knowledge-worker output (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0",
       "category": "AI/Tech",
       "importance": "LOW"
     },
     {
-      "headline": "Meta's Muse AI agent is a hit, but monetization must catch up with AI spend",
-      "summary": "Growth must accelerate to cover a meaningful share of Meta's AI bills (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d",
-      "category": "AI/Tech",
+      "headline": "China's EV makers run out of domestic buyers as zombie brands persist",
+      "summary": "China passenger-car sales are down 22% through September, on track for the worst year since 2014, pushing overcapacity into exports (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/business/autos/china-cars-domestic-sale-declines-983ced7b",
+      "category": "Capital Markets",
       "importance": "LOW"
     },
     {
-      "headline": "Weil Gotshal loses more top lawyers while negotiating a merger",
-      "summary": "Talent departures during merger talks add pressure on the firm, a reminder that retention is the first casualty of uncertainty (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad",
+      "headline": "Microsoft and Skydance use voluntary buyouts to shrink headcount",
+      "summary": "Voluntary exits are a softer route to workforce reductions (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/business/microsoft-job-cuts-buyout-offers-ff3c5dde",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "Corruption eclipses inflation as voters' top midterm concern",
-      "summary": "Less than two weeks before the midterms, graft headlines are reshaping the race, adding policy and rate-path uncertainty (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/politics/elections/midterm-election-poll-government-graft-corruption-6493ed51",
+      "headline": "Hiten Samtani grades The Promote Insider's first year a B+",
+      "summary": "Planned fixes include a host migration, new contributors and podcast transcripts; the first live podcast event is Nov 5 in Lower Manhattan (via The Promote).",
+      "url": "https://www.thepromote.com/p/a-year-of-insider-hiten-s-report-card",
       "category": "Leadership",
       "importance": "LOW"
     },
     {
-      "headline": "Moderna cancer-vaccine data leaks early; shares close down 17.6%",
-      "summary": "The science worked but investors judged results underwhelming, a lesson in expectations management (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-data-leaks-early-shares-plummet-f6bc4b4f",
+      "headline": "'Buy, borrow, die' securities-backed lending reaches $5.4T globally",
+      "summary": "Per Deloitte, portfolio-backed lending is spreading below the billionaire tier (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d",
+      "category": "Lifestyle",
+      "importance": "LOW"
+    },
+    {
+      "headline": "Mystery buyer pays $311M for 19-acre Naples beachfront compound",
+      "summary": "Assembled via two deals ($225M and $86M) behind a land trust and NDAs (via WSJ 10-Point).",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/gordon-drive-naples-fl-cde579d2",
       "category": "Lifestyle",
       "importance": "LOW"
     },
