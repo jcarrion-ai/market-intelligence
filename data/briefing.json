@@ -1,178 +1,171 @@
 {
-  "date": "2026-11-11",
-  "takeaways": [
-    "Rate-hike fears are back: core inflation ran 3.7% annualized, a December hike looks near-certain, and the 10-year is around 5%, so CBRE sees cap rates rising 40-60 bps.",
-    "Capital is shifting to alternative lenders (48% of non-agency closings) as banks and CMBS retreat, even with Q3 sales at a four-year high of $143B.",
-    "AI risk is spreading beyond data centers: Nvidia lost ~$200B in a day on a governance scandal, while Anthropic's IPO and OpenAI's $10B quarter test investor appetite."
-  ],
-  "items": [
-    {
-      "headline": "Core inflation runs 3.7% annualized, making a December Fed hike near-certain and a longer cycle likely",
-      "summary": "Core prices rose at a 3.7% annualized pace over three months through October, a third straight firm month. WSJ says the debate is now how far and how fast the Fed goes, and the 10-year Treasury was already at 5.02% on Oct 28 (via WSJ 10-Point, CRE Daily).",
-      "url": "https://www.wsj.com/articles/one-more-rate-hike-is-looking-like-the-beginning-not-the-end-7c18c678",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Slok sees Fed needing ~275 bps more, to 6.75% by end-2027; Pensford argues an AI unwind could stop hikes",
-      "summary": "The two views bracket the rate path that will drive CRE and senior housing refinancing costs. CBRE already sees cap rates rising 40-60 bps as the 10-year nears 5% (via The Promote, CRE Daily).",
-      "url": "https://pensford.com/the-pensford-letter/will-an-ai-unwind-stop-rate-hikes",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "CBRE Q3: volume $257.8B (+98%, +18% ex-entity deals) as alternative lenders take 48% of closings",
-      "summary": "Alternative lenders rose from 37% to 48% of non-agency closings while banks fell to 26% and CMBS to 6%. Cap rates were 6.0%, DSCR eased to 1.32 and 82.3% of loans were interest-only or partial IO.",
-      "url": "https://www.cbre.com/insights/figures/q3-2026-us-capital-markets-report",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "One Beverly Hills capital stack: $4.3B construction debt from JPM and VICI, and $3B+ from Eldridge's Security Benefit",
-      "summary": "The project grew from $5B to $10B. Security Benefit has $1.6B in loans to Eldridge entities plus $1.4B in project debt, about 4.5% of its assets, raising affiliated-lending questions (via The Promote).",
-      "url": "https://www.thepromote.com/p/the-boehlyverse-of-one-beverly-hills-landau-sees-finish-line",
-      "category": "Capital Markets",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Nvidia loses ~$200B in a day amid inquiry into Jensen Huang's relationship; governance gaps exposed",
-      "summary": "Authorities are probing a Megaspeed executive for suspected illegal chip diversion to China. Nvidia has no chairman or succession plan (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304",
-      "category": "AI/Tech",
-      "importance": "HIGH"
-    },
-    {
-      "headline": "Q3 investment sales hit $143B, a four-year Q3 high, but Avison Young cuts 2026 forecast to $520B",
-      "summary": "YTD volume is $389.3B (+17.9%), MSCI prices rose 0.9% YoY, and multifamily values fell 4.6% annually despite $119.6B in sales. The forecast cut cites renewed Fed hike concerns (via CRE Daily).",
-      "url": "https://www.credaily.com/?p=224742",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Blackstone real estate exodus: nearly a third of senior MDs gone in three years",
-      "summary": "BREP IX has returned 3% annualized net, and BREIT trails the 11.5% promised to the University of California (via The Promote, WSJ).",
-      "url": "https://www.wsj.com/real-estate/commercial/dwindling-pay-fuels-high-profile-exits-from-blackstones-marquee-real-estate-team-317f2676",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Seven Equity plans to raze San Francisco Centre; CBRE marketing $99M bridge loan",
-      "summary": "Ray Falack won the shuttered 1.2M sf mall at $133M and plans up to 2.4M sf of mixed-use on six acres; the deal has not closed (via The Promote).",
-      "url": "https://sfstandard.com/2026/11/05/seven-equity-san-francisco-centre-redevelopment-plan",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Brookfield walks away from a $600M downtown L.A. luxury tower",
-      "summary": "Promote commentary reads the exit as DTLA weakness more than rates (via The Promote, WSJ).",
-      "url": "https://www.wsj.com/real-estate/they-built-a-600-million-luxury-tower-in-downtown-l-a-now-theyre-walking-away-f9653eb2",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "OpenAI Q3 revenue up ~50% to $10B but losses stay heavy; CoreWeave finds capital workaround",
-      "summary": "CoreWeave's growth still depends on expanding data centers while cutting cost of capital, both harder now (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Anthropic founders to sell $250M each in IPO targeting ~$1.3T valuation",
-      "summary": "Each of seven founders would retain stakes worth about $18B; the listing is slated for next week (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Data-center moratoria spread after midterms: 40+ local measures, Texas calls for freeze",
-      "summary": "All but one restrictive ballot measure passed; about 13 GW of Texas capacity is exposed, with hundreds of billions in financing at risk (via The Promote, Nov 6).",
-      "url": "https://www.thepromote.com/p/yossi-hoffman-strikes-again-data-center-judgment-day",
-      "category": "AI/Tech",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Furniture maker TOV tried to reinshore; tariffs made it hard",
-      "summary": "A $100M+/yr business built on $900 sofas struggled with shifting U.S. trade policy, a small-business supply-chain lesson (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/business/furniture-maker-us-tariffs-jobs-vietnam-345d77fe",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "High beef prices are here to stay as the U.S. herd hits a 75-year low",
-      "summary": "Rebuilding takes years, so record steak and hamburger prices could last into the next decade, a food-cost headwind for operators (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/business/high-beef-prices-here-to-stay-004f9119",
-      "category": "Lifestyle",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Brookdale Q3: occupancy 83.1% (+130 bps) but guidance cut and stock falls ~17%",
-      "summary": "Adjusted EBITDA rose 12% to $124.3M and RevPAR grew 7.5%, but full-year EBITDA guidance fell to $495-502M from $502-516M on marketing spend and occupancy carryover. Brookdale bought 17 leased communities for $157.4M and agreed to buy 30 more for $290M.",
-      "url": "https://finviz.com/news/418232/brookdale-announces-third-quarter-2026-results",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Janus Living doubles portfolio to 74 properties on $2.9B of 2026 acquisitions",
-      "summary": "Average cost is about $350K per unit at 86-87% occupancy, and 80% of deals involve no operator change. Janus has 13 operators, a $1.25B credit facility, $82M under contract for Q4, and Q3 FFO up 46% to 25 cents per share.",
-      "url": "https://seniorhousingnews.com/2026/11/03/janus-living-more-than-doubles-senior-housing-portfolio-with-more-acquisitions-to-come/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "American Healthcare REIT buys two California senior communities for $197M",
-      "summary": "The 545-unit Avella at Roseville ($94.1M) and Avella at Almaden ($102.8M) came from an Affinius/Alliance JV. Senior housing sales reached about $33.3B over 12 months, up 83%, and occupancy rose for a 20th straight quarter to 89.9% (Q2 NIC MAP).",
-      "url": "https://www.multihousingnews.com/american-healthcare-reit-sells-norcal-senior-housing-portfolio-for-197m/",
-      "category": "Senior Housing",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "20-somethings ditch entry-level jobs to become their own bosses",
-      "summary": "At least 23% of Americans aged 18-34 ran a business or side hustle last year, up from 19% in 2021 (Babson), with AI helping bypass corporate ladders (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/lifestyle/careers/20-somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-168d1f48",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Blackstone's Safe Harbor to buy MarineMax for $1.5B cash at $53/share, a 96% premium",
-      "summary": "The all-cash deal (announced Aug 10) follows a competitive strategic review and is expected to close before year-end, pending shareholder and regulatory approval. MarineMax has ~70 dealerships and 65 marina/storage sites, and fiscal Q3 revenue fell 7% to $611.3M even as gross margin rose to 35.7%. Infrastructure capital is paying up for recurring-revenue marinas while boat retail stays weak.",
-      "url": "https://www.yachtbuyer.com/en/news/marinemax-to-be-acquired-by-blackstone-owned-safe-harbor-in-dollar-1-5bn-deal",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "BizBuySell Q3: 2,132 small businesses sold, median price $350K (+17% YoY)",
-      "summary": "Closed deals were down 7% YoY, but median cash flow rose 5% to $156K. Deals above $1M averaged 3.73x cash flow and sold at 100.8% of ask, versus 2.30x and 93.6% below $1M. Service businesses were 47% of deals; restaurants fell 23%. New SBA rules took effect Oct 1.",
-      "url": "https://www.bizbuysell.com/insight-report",
-      "category": "Capital Markets",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "Acquisition entrepreneurship goes mainstream as owners retire",
-      "summary": "A 2026 JPMorgan Chase survey found 40% of small business owners plan to retire within a decade, and about 70% have no formal or only early succession plans. Search funds, SBA loans and personal capital are financing buyers, with HVAC, accounting, home services and B2B services the common targets. Founder dependency is the key diligence risk (Forbes, May 2026).",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/small-business-acquisition-boom-creating-090000950.html",
-      "category": "Leadership",
-      "importance": "MEDIUM"
-    },
-    {
-      "headline": "$26M cyberheist hits Cranbury, N.J.: wired to wrong account for a land purchase",
-      "summary": "Police expect to recover $17.3M, leaving nearly $9M unaccounted for. A wire-verification cautionary tale for any treasury team (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d",
-      "category": "Leadership",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Wall Street pay set to climb about 4% this year",
-      "summary": "Options Group expects higher compensation on volatility and IPOs after last year's record $246,900 average bonus (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/finance/wall-street-pay-set-to-climb-after-volatile-markets-and-ipos-fuel-bank-profits-94fd9137",
-      "category": "Capital Markets",
-      "importance": "LOW"
-    },
-    {
-      "headline": "Exxon takes first step toward investing in Venezuela",
-      "summary": "A preliminary deal could mark a return nearly two decades after its exit (via WSJ 10-Point).",
-      "url": "https://www.wsj.com/business/energy-oil/exxon-takes-first-step-toward-investing-in-venezuela-f8e0f5e0",
-      "category": "Capital Markets",
-      "importance": "LOW"
-    }
-  ]
+ "date": "2026-11-17",
+ "takeaways": [
+  "Rates are the story: the 10-year is above 5.1% and a December Fed hike is fully priced in, with Waller floating 50 bp. CBRE's average CRE loan rate hit 6.0% and alternative lenders now write 48% of closings, so lock in or hedge refi exposure now.",
+  "Multifamily distress is moving from operators to capital: big landlords are handing keys back to lenders (WSJ) and four Chicago investors account for about 30% of the city's multifamily foreclosures. Still, quality deals get funded, like Silverstein's $500M recap of 55 Broad with a $305M Wells Fargo loan.",
+  "Senior housing deals keep closing at sub-7% caps despite rising rates: LTC paid $62M for a 117-unit Florida AL/MC at a 6.5% cap, Discovery grew to 446 communities, and SRG, BWE and Lument placed $130M–$240M financings."
+ ],
+ "items": [
+  {
+   "headline": "Treasury 10-year holds above 5.1% as a December Fed hike is fully priced in",
+   "summary": "The 10-year Treasury yield was about 5.12% on Nov. 16, with the 2-year at 4.84% and the 30-year at 5.46%. Futures put the odds of a 25 bp December hike from the 3.75–4.00% range at 91–100%, and Fed Governor Waller has said 50 bp 'should be considered.' For Lloyd Jones, that raises the cost of floating-rate debt and refis and makes rate caps more expensive going into 2027.",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/fed-december-rate-hike-treasury-yields-retail-sales",
+   "category": "Capital Markets",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "Big landlords walk away from troubled apartment loans, leaving lenders with losses",
+   "summary": "Deep-pocketed institutional owners are increasingly handing distressed multifamily properties back to lenders instead of putting in fresh equity, WSJ's Carol Ryan reports. Their strategic defaults are pushing losses onto lenders and could bring more distressed multifamily assets to market at discounts. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849",
+   "category": "Capital Markets",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "Four investors linked to 30% of Chicago multifamily foreclosures",
+   "summary": "A Real Deal investigation ties Izzy Rotenberg, Chaim Bialostozky, Mark Nussbaum and Eliazer Tauber to about 30% of last year's Chicago multifamily foreclosures: 51 buildings and nearly 900 units, with Fannie and Freddie taking losses. The investigation describes related-party flips backed by inflated appraisals, including a 7-unit building bought for $245K in 2022 that got a $1.1M refi in 2024. Expect agencies to tighten appraisal and sponsor checks. (via The Promote)",
+   "url": "https://therealdeal.com/chicago/2026/11/16/these-investors-in-chicago-multifamily-led-to-financial-ruin-and-blight/",
+   "category": "Capital Markets",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "CBRE Q3 lending: alternative lenders take 48% of closings and average loan rate hits 6.0%",
+   "summary": "The CBRE Lending Momentum Index fell to 0.7 from 1.0 in Q2. Commercial spreads averaged 197 bps and multifamily spreads 167 bps (7 bps tighter YoY). Alternative lenders' share of non-agency closings rose to 48% from 37%, while CMBS fell to 6%. The average mortgage rate rose to 6.0%, DSCR slipped to 1.32x and 82% of loans carried interest-only terms.",
+   "url": "https://www.cbre.com/press-releases/commercial-real-estate-lending-market-in-transition-q3-2026",
+   "category": "Capital Markets",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "Silverstein closes a $500M recap of the 55 Broad office-to-resi conversion",
+   "summary": "RXR is leading a roughly $500M recap of the 571-unit 55 Broad conversion through its JV with the North Carolina Investment Authority. Wells Fargo is providing a $305M senior loan and Macquarie is also investing. Silverstein and Metro Loft bought the 410K sf building for $173M ($420/sf) in 2023, and market-rate rents now top $100/sf, evidence that well-executed conversions can still attract big capital. (via The Promote)",
+   "url": "https://commercialobserver.com/2026/11/rxr-55-broad-street-wells-macuarie-newmark-metro-loft/",
+   "category": "Capital Markets",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "Blackstone's new data center REIT debuts with a $5B AWS-tied portfolio",
+   "summary": "Blackstone Digital Infrastructure Trust (BXDC) made its first deal a $5 billion acquisition of a stabilized data center portfolio tied to AWS. The purchase shows institutional capital still betting on AI-driven demand even as the AI trade gets more volatile. (via The Promote)",
+   "url": "https://ir.bxdc.com/press-releases-and-news/press-release-details/2026/Blackstone-Digital-Infrastructure-Trust-Announces-5-Billion-Acquisition-of-Stabilized-Data-Center-Portfolio/default.aspx",
+   "category": "AI/Tech",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "LTC buys a 117-unit Florida AL/MC community for $62M at a 6.5% cap rate",
+   "summary": "LTC Properties bought a 117-unit assisted living and memory care community in Florida, built in 2016, for $62M. Grace Management, a new operator relationship for LTC, will keep running it. LTC projects a 6.5% first-year cap rate and low- to mid-teens unlevered IRR, a useful pricing benchmark for newer AL/MC assets.",
+   "url": "https://wrenews.com/ltc-62-million-florida-senior-housing-acquisition-2026/",
+   "category": "Senior Housing",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "Discovery takes over 26 SSMG communities and grows to 446 communities",
+   "summary": "Discovery Senior Living took over management agreements for 26 communities (about 2,200 units) in eight Southern and Southeastern states from Senior Solutions Management Group. The mix is roughly two-thirds AL, 18% IL and 13% MC. Discovery now manages about 50,000 units across 446 communities in 40 states, a sign that third-party management keeps consolidating toward scaled operators.",
+   "url": "https://seniorhousingnews.com/2026/11/02/discovery-acquires-management-agreements-for-26-senior-living-communities/",
+   "category": "Senior Housing",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "Blue-wave election throws Big Tech's data-center plans into question",
+   "summary": "WSJ's Jinjoo Lee writes that November's Democratic wave has complicated data-center development, leaving some hyperscalers more exposed than others. Big Tech will need to spread its sites across more jurisdictions, which affects land, power and entitlement plays tied to AI demand. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f",
+   "category": "AI/Tech",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "The month that rocked the AI trade and rewired Wall Street",
+   "summary": "Volatility since the Nasdaq's Oct. 6 peak, through the election and Jensen Huang's exit from Nvidia, has ended the 'no-brainer' era of broad AI bets. Investors now have to separate winners from losers. Nvidia reports earnings tonight, Nov. 17, after the close. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3",
+   "category": "AI/Tech",
+   "importance": "HIGH"
+  },
+  {
+   "headline": "Senior living dealbook: Ventas adds three Charter-run communities; SRG lands $212.5M",
+   "summary": "Ventas added three Southeast communities managed by Charter Senior Living, in Huntersville NC, Morehead City NC and Marietta GA, and Agemark bought River's Edge in Sacramento. In financings, Senior Resource Group arranged $212.5M for The Carrington at Lincolnwood, BWE placed a $240M recap of an Arrow-managed Midwest portfolio, and Lument made a $130M refi loan on Seattle's 243-unit Murano. Debt for quality senior housing is available even as base rates climb.",
+   "url": "https://seniorhousingnews.com/2026/11/09/senior-living-dealbook-agemark-expands-california-presence-charter-grows-with-ventas/",
+   "category": "Senior Housing",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Bevado raises a $10M seed for AI agents that automate resident communication",
+   "summary": "RET Ventures led a $10M seed round in Bevado, with Pear VC participating. Bevado's AI agents coordinate maintenance repairs, update residents and collect post-service reviews. On the leasing side they call prospects before tours and follow up when interest fades, a relevant tool for both multifamily and senior living sales and maintenance teams.",
+   "url": "https://proptechconnect.com/bevado-raises-10-million-seed-to-learn-from-resident-interactions-and-automates-the-communication",
+   "category": "AI/Tech",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Anthropic IPO, expected at $1.33T or more, set to reward 300+ investors",
+   "summary": "More than 300 investors, including VCs, big tech companies and sovereign-wealth funds, hold Anthropic stakes ahead of an IPO slated for this week, according to PitchBook. The listing is expected to value the company at $1.33 trillion or more. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c",
+   "category": "AI/Tech",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Fifth Avenue rents jump 35%, reclaiming the world's top luxury retail crown",
+   "summary": "Fifth Avenue rents rose an average of 35% over the past year, compared with 3% globally, according to Cushman & Wakefield. That puts it ahead of New Bond Street and Via Montenapoleone. Upper Fifth tenants pay about $2,700/sf, so any space over 371 sf costs more than $1M a year. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/real-estate/commercial/fifth-avenue-reclaims-its-crown-as-the-worlds-premier-home-to-luxury-retailers-83e484a1",
+   "category": "Capital Markets",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Berkshire nearly doubles its Lennar stake, doubling down on U.S. housing",
+   "summary": "Berkshire Hathaway nearly doubled its stake in home builder Lennar, adding to its bet on U.S. residential demand despite affordability strain and 5%+ long-term yields. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5",
+   "category": "Capital Markets",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Struggling Long Island mall rebounds to 76% occupancy after an entertainment pivot",
+   "summary": "Samanea New York in Westbury replaced fading retail with laser tag, trampolines, trapeze, escape rooms and axe-throwing. Occupancy rose to 76% from 22% in 2019, and Placer.ai data shows its foot traffic beating the indoor-mall sector. It's a template for repositioning distressed retail. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/real-estate/commercial/hardly-anyone-shops-at-this-malland-thats-made-it-a-huge-success-9a2893f8",
+   "category": "Capital Markets",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Activist Land & Buildings urges Invitation Homes to sell houses one at a time",
+   "summary": "Jonathan Litt's Land & Buildings, which owns less than 1% of Invitation Homes, is pushing the SFR giant to sell homes individually to capture the gap between retail home prices and its public-market value. The Promote is skeptical, calling the firm a 'gnat' that is mainly skilled at getting press. (via The Promote)",
+   "url": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1",
+   "category": "Capital Markets",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Campaign to reinstate Jensen Huang gains steam as Nvidia reports earnings",
+   "summary": "Elon Musk, Epic's Tim Sweeney and thousands of others have signed a 'Stand with Jensen' petition, and President Trump has said he 'would certainly not mind' a return. CFO Colette Kress is serving as interim CEO while the board searches for a replacement. It's a live case study in board governance, founder dependence and succession risk.",
+   "url": "https://www.wsls.com/business/2026/11/16/campaign-to-reinstate-nvidia-ceo-jensen-huang-gains-momentum-with-support-from-tech-leaders/",
+   "category": "Leadership",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Inside Nvidia's culture: public put-downs and a 'royal family' inner circle",
+   "summary": "A WSJ investigation describes the demanding culture Jensen Huang built, marked by harsh public criticism and an elite inner circle. A senior employee warned the board that not reinstating Huang could cost 'irreplaceable talent.' It's a cautionary read on how leaders' personal styles become institutional risk. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194",
+   "category": "Leadership",
+   "importance": "MEDIUM"
+  },
+  {
+   "headline": "Whitehall: the rise and fall of Goldman's CRE machine and its alumni network",
+   "summary": "The Promote looks back at Goldman's Whitehall Street funds under Dan Neidich. They raised the largest funds of the '90s and pre-GFC era and still returned about 75 cents on the dollar after the crash. Alumni now lead major platforms, including Neidich at Dune and Ralph Rosenberg at KKR real estate. (via The Promote)",
+   "url": "https://www.thepromote.com/p/equity-god-s-merrie-men-through-the-capstack-car-wash",
+   "category": "Leadership",
+   "importance": "LOW"
+  },
+  {
+   "headline": "Job seekers in all 50 states describe a split labor market",
+   "summary": "WSJ's Lindsay Ellis talked to more than 100 job seekers. Employed workers still get raises and corporate layoffs are down from last year, but laid-off white-collar workers and new graduates face their longest searches in years, which matters for recruiting and retention planning. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/lifestyle/careers/i-talked-to-job-seekers-in-all-50-states-heres-what-it-takes-to-get-hired-right-now-a2612c4b",
+   "category": "Leadership",
+   "importance": "LOW"
+  },
+  {
+   "headline": "More homeowners tap the $36 trillion in U.S. home equity",
+   "summary": "Americans hold nearly $36 trillion in home equity and are increasingly pulling cash out to pay off credit cards and buy cars, ending years of post-2008 caution. Home equity is also a key funding source for seniors moving into senior living. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69",
+   "category": "Lifestyle",
+   "importance": "LOW"
+  },
+  {
+   "headline": "A law partner who travels the globe for work without ever flying",
+   "summary": "Scott Segal, 62, a D.C. international law partner, has reached Asia, Africa, Europe and Australia this year without boarding a plane, something he hasn't done since 1997. He travels by train, bus and cargo ship. (via WSJ 10-Point)",
+   "url": "https://www.wsj.com/lifestyle/travel/scott-segal-queen-mary-2-amtrak-work-travel-ff2ea11c",
+   "category": "Lifestyle",
+   "importance": "LOW"
+  }
+ ]
 }
